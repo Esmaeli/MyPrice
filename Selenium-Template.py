@@ -1,105 +1,127 @@
+# -*- coding: utf-8 -*-
 import time
 from selenium import webdriver
-from selenium.common.exceptions import TimeoutException, NoSuchElementException
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from bs4 import BeautifulSoup
 
-# --- تنظیمات ---
-url = "https://arzdigital.com/coins/"
+# ---------------- Configuration ----------------
+BASE_URL = "https://arzdigital.com/coins/"
+PAGES = 10
+OUTPUT_FILE = "arzdigital_data.txt"
+WAIT_AFTER_LOAD = 10  # seconds
 
-# --- لیستی از سلکتورها برای تست ---
-selectors_to_try = [
-    ("Stable XPath (Recommended)", By.XPATH, "//tr[@data-symbol='BTC']/td[3]/span/span"),
-    ("CSS Selector", By.CSS_SELECTOR, "#list-price > div.arz-scroll-box > div > table > tbody > tr:nth-child(1) > td.arz-coin-table__rial-price-td.arz-sort-value > span > span"),
-    ("ID-based XPath", By.XPATH, '//*[@id="list-price"]/div[2]/div/table/tbody/tr[1]/td[3]/span/span'),
-    ("Full XPath", By.XPATH, '/html/body/main/div/section/section[2]/div[3]/section/div[2]/div/table/tbody/tr[1]/td[3]/span/span'),
-]
-
-# --- تنظیمات پیشرفته Chrome برای جلوگیری از شناسایی ---
+# ---------------- Selenium setup ----------------
 chrome_options = Options()
 chrome_options.add_argument("--headless")
 chrome_options.add_argument("--window-size=1920,1080")
-
-user_agent = (
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-    "AppleWebKit/537.36 (KHTML, like Gecko) "
-    "Chrome/120.0.0.0 Safari/537.36"
-)
-chrome_options.add_argument(f"user-agent={user_agent}")
-
 chrome_options.add_argument("--disable-blink-features=AutomationControlled")
-chrome_options.add_experimental_option("excludeSwitches", ["enable-automation"])
-chrome_options.add_experimental_option("useAutomationExtension", False)
-chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
-chrome_options.add_argument("--log-level=3")
+chrome_options.add_argument("--no-sandbox")
+chrome_options.add_argument("--disable-dev-shm-usage")
 
-# --- راه‌اندازی درایور ---
+driver = webdriver.Chrome(options=chrome_options)
+driver.execute_script(
+    "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
+)
+
+# ---------------- Helper functions ----------------
+def get_text_safe(el):
+    return el.get_text(strip=True) if el else "N/A"
+
+def get_change_text(el):
+    if not el:
+        return "N/A"
+    text = el.get_text(strip=True)
+    classes = el.get("class", [])
+    if "arz-positive" in classes:
+        return f"+{text}"
+    if "arz-negative" in classes and not text.startswith("-"):
+        return f"-{text}"
+    return text
+
+# ---------------- Main logic ----------------
+all_coins = []
+
 try:
-    print("Initializing Chrome driver with advanced options...")
-    driver = webdriver.Chrome(options=chrome_options)
-    driver.execute_script(
-        "Object.defineProperty(navigator, 'webdriver', {get: () => undefined})"
-    )
-    print("Driver initialized successfully.")
-except Exception as e:
-    print(f"Error starting driver: {e}")
-    raise SystemExit(1)
+    for page in range(1, PAGES + 1):
+        url = BASE_URL if page == 1 else f"{BASE_URL}page-{page}/"
+        print(f"Loading page {page}: {url}")
 
-successful_selector_info = None
+        driver.get(url)
 
-try:
-    print(f"Connecting to {url}...")
-    driver.get(url)
+        # صبر تا جدول لود شود
+        WebDriverWait(driver, 60).until(
+            EC.presence_of_element_located((By.CSS_SELECTOR, "tr.arz-coin-tr"))
+        )
 
-    wait = WebDriverWait(driver, 60)
-    print("Page loaded. Trying selectors...")
+        print("Page loaded, waiting extra 10 seconds for JS...")
+        time.sleep(WAIT_AFTER_LOAD)
 
-    # --- پیدا کردن اولین سلکتور موفق ---
-    for name, by, value in selectors_to_try:
-        print(f"  -> Trying selector: {name}")
-        try:
-            wait.until(EC.visibility_of_element_located((by, value)))
-            successful_selector_info = (name, by, value)
-            print(f"Success! Selector '{name}' works.")
-            break
-        except TimeoutException:
-            print(f"     Selector '{name}' failed.")
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        rows = soup.find_all("tr", class_="arz-coin-tr")
 
-    if not successful_selector_info:
-        raise TimeoutException("No selector could find the BTC price.")
+        print(f"Found {len(rows)} coins on page {page}")
 
-    print("-" * 40)
-    print(f"Fetching BTC price using '{successful_selector_info[0]}'")
+        for row in rows:
+            symbol = row.get("data-symbol", "N/A")
 
-    # --- دریافت اولین قیمت ---
-    price_element = driver.find_element(
-        successful_selector_info[1],
-        successful_selector_info[2]
-    )
+            rank = get_text_safe(row.find("td", class_="arz-coin-table__number-td"))
 
-    current_price = price_element.text.strip()
+            name_td = row.find("td", class_="arz-coin-table__name-td")
+            name = get_text_safe(name_td.find("span")) if name_td else "N/A"
 
-    if not current_price:
-        raise Exception("Price element found but text is empty.")
+            logo_img = name_td.find("img", class_="arz-coin-image") if name_td else None
+            logo = logo_img.get("data-src", "N/A") if logo_img else "N/A"
 
-    print(f"BTC Price: {current_price}")
+            price_usd = get_text_safe(
+                row.find("td", class_="arz-coin-table__price-td")
+            )
 
-    # --- ذخیره در فایل ---
-    with open("result.txt", "w", encoding="utf-8") as f:
-        f.write(current_price)
+            rial_td = row.find("td", class_="arz-coin-table__rial-price-td")
+            price_toman = get_text_safe(
+                rial_td.find("span").find("span") if rial_td else None
+            )
 
-    print("Price saved to result.txt")
-    print("Script finished successfully.")
+            market_td = row.find("td", class_="arz-coin-table__marketcap-td")
+            market_usd = get_text_safe(market_td.find("span", dir="auto"))
+            market_toman = get_text_safe(market_td.find("span", class_="arz-value-unit"))
 
-except TimeoutException as e:
-    print(f"\nTimeout Error: {e}")
-except Exception as e:
-    print(f"\nUnexpected Error: {e}")
+            volume_td = row.find("td", class_="arz-coin-table__volume-td")
+            volume_usd = get_text_safe(volume_td.find("span", dir="auto"))
+            volume_toman = get_text_safe(volume_td.find("span", class_="arz-value-unit"))
+
+            daily_td = row.find("td", class_="arz-coin-table__daily-swing-td")
+            daily_change = get_change_text(daily_td.find("span") if daily_td else None)
+
+            weekly_td = row.find("td", class_="arz-coin-table__weekly-swing-td")
+            weekly_change = get_change_text(weekly_td.find("span") if weekly_td else None)
+
+            all_coins.append({
+                "Rank": rank,
+                "Name": name,
+                "Slug": symbol,
+                "Price_USD": price_usd,
+                "Price_Toman": price_toman,
+                "Total_Market_USD": market_usd,
+                "Total_Market_Toman": market_toman,
+                "Daily_Market_USD": volume_usd,
+                "Daily_Market_Toman": volume_toman,
+                "Daily_Positive_Negative": daily_change,
+                "Weekly_Positive_Negative": weekly_change,
+                "Logo": logo,
+            })
+
 finally:
-    try:
-        driver.quit()
-    except Exception:
-        pass
-    print("Browser closed.")
+    driver.quit()
+
+# ---------------- Write file ----------------
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    for i, coin in enumerate(all_coins):
+        for k, v in coin.items():
+            f.write(f"{k}: {v}\n")
+        if i < len(all_coins) - 1:
+            f.write("***\n***\n***\n")
+
+print(f"Saved {len(all_coins)} coins to {OUTPUT_FILE}")
