@@ -1,14 +1,14 @@
 Rank: 1
 Name: Bitcoin
 Slug: BTC
-Price_USD: $91,245
-Price_Toman: ۱۲,۶۵۲,۸۸۶,۶۸۹ ت
+Price_USD: $91,198
+Price_Toman: ۱۲,۶۰۲,۴۴۸,۰۱۶ ت
 Total_Market_USD: $1.82T
 Total_Market_Toman: ۲۵۱ هزار همت
 Daily_Market_USD: $26.7B
 Daily_Market_Toman: ۳.۶۹ هزار همت
-Daily_Positive_Negative: +1.45%
-Weekly_Positive_Negative: +3.82
+Daily_Positive_Negative: +1.20%
+Weekly_Positive_Negative: +3.78%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitcoin/32x32.png
 ***
 ***
@@ -16,14 +16,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bitcoin/32x32.png
 Rank: 2
 Name: Ethereum
 Slug: ETH
-Price_USD: $3,130.1
-Price_Toman: ۴۳۴,۰۵۳,۴۲۶ ت
+Price_USD: $3,135.0
+Price_Toman: ۴۳۴,۲۰۲,۱۷۰ ت
 Total_Market_USD: $378B
 Total_Market_Toman: ۵۲.۲ هزار همت
 Daily_Market_USD: $12.7B
 Daily_Market_Toman: ۱.۷۶ هزار همت
-Daily_Positive_Negative: +0.85%
-Weekly_Positive_Negative: +6.05
+Daily_Positive_Negative: +0.86%
+Weekly_Positive_Negative: +6.55
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum/32x32.png
 ***
 ***
@@ -32,13 +32,13 @@ Rank: 3
 Name: Tether USDt
 Slug: USDT
 Price_USD: $0.9994
-Price_Toman: ۱۳۸,۵۸۷ ت
+Price_Toman: ۱۳۸,۱۰۸ ت
 Total_Market_USD: $187B
 Total_Market_Toman: ۲۵.۸ هزار همت
 Daily_Market_USD: $63.4B
 Daily_Market_Toman: ۸.۷۵ هزار همت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.01
+Daily_Positive_Negative: -0.00%
+Weekly_Positive_Negative: +0.01%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tether/32x32.png
 ***
 ***
@@ -46,14 +46,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tether/32x32.png
 Rank: 4
 Name: BNB
 Slug: BNB
-Price_USD: $886.59
-Price_Toman: ۱۲۲,۹۴۱,۹۴۲ ت
+Price_USD: $886.72
+Price_Toman: ۱۲۲,۵۳۴,۳۲۸ ت
 Total_Market_USD: $122B
 Total_Market_Toman: ۱۶.۸ هزار همت
 Daily_Market_USD: $1.7B
 Daily_Market_Toman: ۲۲۷ همت
-Daily_Positive_Negative: +1.44%
-Weekly_Positive_Negative: +3.06
+Daily_Positive_Negative: +1.35%
+Weekly_Positive_Negative: +3.59%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bnb/32x32.png
 ***
 ***
@@ -61,14 +61,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bnb/32x32.png
 Rank: 5
 Name: XRP
 Slug: XRP
-Price_USD: $2.090
-Price_Toman: ۲۸۹,۸۴۲ ت
+Price_USD: $2.087
+Price_Toman: ۲۸۹,۰۷۹ ت
 Total_Market_USD: $127B
 Total_Market_Toman: ۱۷.۵ هزار همت
 Daily_Market_USD: $2.84B
 Daily_Market_Toman: ۳۹۱ همت
-Daily_Positive_Negative: +4.22%
-Weekly_Positive_Negative: +11.7
+Daily_Positive_Negative: +4.10%
+Weekly_Positive_Negative: +11.8
 Logo: https://cdn.arz.digital/cr-odin/img/assets/xrp/32x32.png
 ***
 ***
@@ -76,14 +76,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/xrp/32x32.png
 Rank: 6
 Name: USDC
 Slug: USDC
-Price_USD: $0.9999
-Price_Toman: ۱۳۸,۶۵۸ ت
+Price_USD: $0.9997
+Price_Toman: ۱۳۸,۴۶۲ ت
 Total_Market_USD: $75.4B
 Total_Market_Toman: ۱۰.۴ هزار همت
 Daily_Market_USD: $5.64B
 Daily_Market_Toman: ۷۷۸ همت
-Daily_Positive_Negative: +0.01%
-Weekly_Positive_Negative: +0.02
+Daily_Positive_Negative: 0.00%
+Weekly_Positive_Negative: 0
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usd-coin/32x32.png
 ***
 ***
@@ -91,14 +91,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/usd-coin/32x32.png
 Rank: 7
 Name: Solana
 Slug: SOL
-Price_USD: $134.45
-Price_Toman: ۱۸,۶۴۴,۶۱۶ ت
+Price_USD: $134.48
+Price_Toman: ۱۸,۵۸۳,۷۰۵ ت
 Total_Market_USD: $75.8B
 Total_Market_Toman: ۱۰.۴ هزار همت
 Daily_Market_USD: $2.69B
 Daily_Market_Toman: ۳۷۰ همت
-Daily_Positive_Negative: +2.16%
-Weekly_Positive_Negative: +7.89
+Daily_Positive_Negative: +2.39%
+Weekly_Positive_Negative: +7.89%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/solana/32x32.png
 ***
 ***
@@ -106,14 +106,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/solana/32x32.png
 Rank: 8
 Name: TRON
 Slug: TRX
-Price_USD: $0.2944
-Price_Toman: ۴۰,۸۳۱ ت
+Price_USD: $0.2940
+Price_Toman: ۴۰,۷۲۸ ت
 Total_Market_USD: $27.8B
 Total_Market_Toman: ۳.۸۴ هزار همت
 Daily_Market_USD: $505M
 Daily_Market_Toman: ۶۹.۷ همت
-Daily_Positive_Negative: +1.12%
-Weekly_Positive_Negative: +3.76
+Daily_Positive_Negative: +0.79%
+Weekly_Positive_Negative: +3.46
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tron/32x32.png
 ***
 ***
@@ -121,14 +121,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tron/32x32.png
 Rank: 9
 Name: Dogecoin
 Slug: DOGE
-Price_USD: $0.1507
-Price_Toman: ۲۰,۹۰۷ ت
+Price_USD: $0.1521
+Price_Toman: ۲۱,۰۳۲ ت
 Total_Market_USD: $25.6B
 Total_Market_Toman: ۳.۵۴ هزار همت
 Daily_Market_USD: $2.02B
 Daily_Market_Toman: ۲۷۹ همت
-Daily_Positive_Negative: +5.93%
-Weekly_Positive_Negative: +21.2
+Daily_Positive_Negative: +6.54%
+Weekly_Positive_Negative: +22.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/dogecoin/32x32.png
 ***
 ***
@@ -136,14 +136,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dogecoin/32x32.png
 Rank: 10
 Name: Cardano
 Slug: ADA
-Price_USD: $0.3978
-Price_Toman: ۵۵,۱۶۴ ت
+Price_USD: $0.3998
+Price_Toman: ۵۵,۲۵۱ ت
 Total_Market_USD: $14.4B
 Total_Market_Toman: ۱.۹۸ هزار همت
 Daily_Market_USD: $554M
 Daily_Market_Toman: ۷۶.۶ همت
-Daily_Positive_Negative: +2.92%
-Weekly_Positive_Negative: +7.56
+Daily_Positive_Negative: +2.78%
+Weekly_Positive_Negative: +8.16%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cardano/32x32.png
 ***
 ***
@@ -151,14 +151,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cardano/32x32.png
 Rank: 11
 Name: Bitcoin Cash
 Slug: BCH
-Price_USD: $640.47
-Price_Toman: ۸۸,۸۱۳,۵۵۶ ت
+Price_USD: $640.42
+Price_Toman: ۸۸,۴۹۸,۰۳۹ ت
 Total_Market_USD: $12.8B
 Total_Market_Toman: ۱.۷۷ هزار همت
 Daily_Market_USD: $694M
 Daily_Market_Toman: ۹۵.۸ همت
-Daily_Positive_Negative: +0.87%
-Weekly_Positive_Negative: +1.24
+Daily_Positive_Negative: +0.33%
+Weekly_Positive_Negative: +2.81%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitcoin-cash/32x32.png
 ***
 ***
@@ -166,14 +166,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bitcoin-cash/32x32.png
 Rank: 12
 Name: Chainlink
 Slug: LINK
-Price_USD: $13.46
-Price_Toman: ۱,۸۶۶,۵۷۶ ت
+Price_USD: $13.51
+Price_Toman: ۱,۸۷۱,۴۴۳ ت
 Total_Market_USD: $9.55B
 Total_Market_Toman: ۱.۳۲ هزار همت
 Daily_Market_USD: $539M
 Daily_Market_Toman: ۷۴.۵ همت
-Daily_Positive_Negative: +2.91%
-Weekly_Positive_Negative: +7.53
+Daily_Positive_Negative: +2.75%
+Weekly_Positive_Negative: +8.05
 Logo: https://cdn.arz.digital/cr-odin/img/assets/chainlink/32x32.png
 ***
 ***
@@ -181,14 +181,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/chainlink/32x32.png
 Rank: 13
 Name: UNUS SED LEO
 Slug: LEO
-Price_USD: $8.940
-Price_Toman: ۱,۲۳۹,۷۰۰ ت
+Price_USD: $8.939
+Price_Toman: ۱,۲۳۷,۹۸۰ ت
 Total_Market_USD: $8.2B
 Total_Market_Toman: ۱.۱۴ هزار همت
 Daily_Market_USD: $1.08M
 Daily_Market_Toman: ۱۵۰ میلیارد ت
-Daily_Positive_Negative: -3.63%
-Weekly_Positive_Negative: +5.15
+Daily_Positive_Negative: -3.65%
+Weekly_Positive_Negative: +5.31
 Logo: https://cdn.arz.digital/cr-odin/img/assets/unus-sed-leo/32x32.png
 ***
 ***
@@ -196,14 +196,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/unus-sed-leo/32x32.png
 Rank: 14
 Name: Zcash
 Slug: ZEC
-Price_USD: $508.35
-Price_Toman: ۷۰,۴۹۲,۸۴۰ ت
+Price_USD: $505.11
+Price_Toman: ۶۹,۹۵۷,۷۹۸ ت
 Total_Market_USD: $8.29B
 Total_Market_Toman: ۱.۱۵ هزار همت
 Daily_Market_USD: $489M
 Daily_Market_Toman: ۶۷.۵ همت
-Daily_Positive_Negative: +0.50%
-Weekly_Positive_Negative: -5.48
+Daily_Positive_Negative: +0.04%
+Weekly_Positive_Negative: -5.69
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zcash/32x32.png
 ***
 ***
@@ -211,14 +211,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zcash/32x32.png
 Rank: 15
 Name: Hyperliquid
 Slug: HYPE
-Price_USD: $25.96
-Price_Toman: ۳,۶۰۰,۳۵۳ ت
+Price_USD: $25.55
+Price_Toman: ۳,۵۳۰,۰۹۰ ت
 Total_Market_USD: $8.67B
 Total_Market_Toman: ۱.۲۰ هزار همت
 Daily_Market_USD: $139M
 Daily_Market_Toman: ۱۹.۳ همت
-Daily_Positive_Negative: +4.46%
-Weekly_Positive_Negative: +2.17
+Daily_Positive_Negative: +3.48%
+Weekly_Positive_Negative: -1.17%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/hyperliquid/32x32.png
 ***
 ***
@@ -226,14 +226,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/hyperliquid/32x32.png
 Rank: 16
 Name: Monero
 Slug: XMR
-Price_USD: $433.12
-Price_Toman: ۶۰,۰۶۰,۹۵۹ ت
+Price_USD: $433.93
+Price_Toman: ۶۰,۰۹۹,۰۷۳ ت
 Total_Market_USD: $8.03B
 Total_Market_Toman: ۱.۱۱ هزار همت
 Daily_Market_USD: $61.2M
 Daily_Market_Toman: ۸.۴۵ همت
-Daily_Positive_Negative: +0.82%
-Weekly_Positive_Negative: -3.5
+Daily_Positive_Negative: +0.78%
+Weekly_Positive_Negative: -3.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/monero/32x32.png
 ***
 ***
@@ -241,14 +241,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/monero/32x32.png
 Rank: 17
 Name: Stellar
 Slug: XLM
-Price_USD: $0.2341
-Price_Toman: ۳۲,۴۷۱ ت
+Price_USD: $0.2343
+Price_Toman: ۳۲,۳۸۰ ت
 Total_Market_USD: $7.59B
 Total_Market_Toman: ۱.۰۵ هزار همت
 Daily_Market_USD: $185M
 Daily_Market_Toman: ۲۵.۶ همت
-Daily_Positive_Negative: +6.77%
-Weekly_Positive_Negative: +5.34
+Daily_Positive_Negative: +6.27%
+Weekly_Positive_Negative: +5.56%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/stellar/32x32.png
 ***
 ***
@@ -256,14 +256,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/stellar/32x32.png
 Rank: 18
 Name: Ethena USDe
 Slug: USDe
-Price_USD: $0.9993
-Price_Toman: ۱۳۸,۵۸۱ ت
+Price_USD: $0.9992
+Price_Toman: ۱۳۸,۰۸۲ ت
 Total_Market_USD: $6.30B
 Total_Market_Toman: ۸۶۹ همت
 Daily_Market_USD: $71.4M
 Daily_Market_Toman: ۹.۸۵ همت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.08
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: +0.07%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethena-usde/32x32.png
 ***
 ***
@@ -271,14 +271,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ethena-usde/32x32.png
 Rank: 19
 Name: Litecoin
 Slug: LTC
-Price_USD: $82.47
-Price_Toman: ۱۱,۴۳۶,۶۷۹ ت
+Price_USD: $82.92
+Price_Toman: ۱۱,۴۸۳,۸۶۲ ت
 Total_Market_USD: $6.34B
 Total_Market_Toman: ۸۷۵ همت
 Daily_Market_USD: $296M
 Daily_Market_Toman: ۴۰.۹ همت
 Daily_Positive_Negative: +1.46%
-Weekly_Positive_Negative: +3.89
+Weekly_Positive_Negative: +4.74
 Logo: https://cdn.arz.digital/cr-odin/img/assets/litecoin/32x32.png
 ***
 ***
@@ -286,14 +286,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/litecoin/32x32.png
 Rank: 20
 Name: Canton
 Slug: CC
-Price_USD: $0.1500
-Price_Toman: ۲۰,۸۱۰ ت
+Price_USD: $0.1474
+Price_Toman: ۲۰,۴۲۶ ت
 Total_Market_USD: $5.59B
 Total_Market_Toman: ۷۷۲ همت
 Daily_Market_USD: $21.6M
 Daily_Market_Toman: ۲.۹۹ همت
-Daily_Positive_Negative: -1.68%
-Weekly_Positive_Negative: +17.2
+Daily_Positive_Negative: -4.57%
+Weekly_Positive_Negative: +14.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/canton-network/32x32.png
 ***
 ***
@@ -301,14 +301,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/canton-network/32x32.png
 Rank: 21
 Name: Avalanche
 Slug: AVAX
-Price_USD: $14.12
-Price_Toman: ۱,۹۵۸,۵۴۰ ت
+Price_USD: $14.13
+Price_Toman: ۱,۹۵۲,۸۷۲ ت
 Total_Market_USD: $6.08B
 Total_Market_Toman: ۸۳۹ همت
 Daily_Market_USD: $274M
 Daily_Market_Toman: ۳۷.۹ همت
-Daily_Positive_Negative: +1.56%
-Weekly_Positive_Negative: +10.9
+Daily_Positive_Negative: +0.93%
+Weekly_Positive_Negative: +11.2%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/avalanche/32x32.png
 ***
 ***
@@ -316,14 +316,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/avalanche/32x32.png
 Rank: 22
 Name: Sui
 Slug: SUI
-Price_USD: $1.698
-Price_Toman: ۲۳۵,۴۵۴ ت
+Price_USD: $1.694
+Price_Toman: ۲۳۴,۱۲۸ ت
 Total_Market_USD: $6.42B
 Total_Market_Toman: ۸۸۷ همت
 Daily_Market_USD: $655M
 Daily_Market_Toman: ۹۰.۴ همت
-Daily_Positive_Negative: +2.67%
-Weekly_Positive_Negative: +16.6
+Daily_Positive_Negative: +2.11%
+Weekly_Positive_Negative: +16.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/sui/32x32.png
 ***
 ***
@@ -332,13 +332,13 @@ Rank: 23
 Name: Dai
 Slug: DAI
 Price_USD: $0.9996
-Price_Toman: ۱۳۸,۶۲۵ ت
+Price_Toman: ۱۳۸,۱۳۳ ت
 Total_Market_USD: $5.36B
 Total_Market_Toman: ۷۴۰ همت
 Daily_Market_USD: $72.8M
 Daily_Market_Toman: ۱۰.۰ همت
-Daily_Positive_Negative: +0.02%
-Weekly_Positive_Negative: +0.01
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: +0.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/multi-collateral-dai/32x32.png
 ***
 ***
@@ -346,14 +346,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/multi-collateral-dai/32x32.png
 Rank: 24
 Name: Hedera
 Slug: HBAR
-Price_USD: $0.1254
-Price_Toman: ۱۷,۳۹۱ ت
+Price_USD: $0.1249
+Price_Toman: ۱۷,۲۷۱ ت
 Total_Market_USD: $5.35B
 Total_Market_Toman: ۷۳۸ همت
 Daily_Market_USD: $163M
 Daily_Market_Toman: ۲۲.۶ همت
-Daily_Positive_Negative: +5.00%
-Weekly_Positive_Negative: +8.29
+Daily_Positive_Negative: +4.55%
+Weekly_Positive_Negative: +8.17%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/hedera/32x32.png
 ***
 ***
@@ -361,14 +361,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/hedera/32x32.png
 Rank: 25
 Name: Shiba Inu
 Slug: SHIB
-Price_USD: $0.0₅8836
+Price_USD: $0.0₅8864
 Price_Toman: ۱.۲۲۵ ت
 Total_Market_USD: $5.22B
 Total_Market_Toman: ۷۲۱ همت
 Daily_Market_USD: $201M
 Daily_Market_Toman: ۲۷.۷ همت
-Daily_Positive_Negative: +11.3%
-Weekly_Positive_Negative: +20.1
+Daily_Positive_Negative: +11.9%
+Weekly_Positive_Negative: +20.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/shiba-inu/32x32.png
 ***
 ***
@@ -376,14 +376,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/shiba-inu/32x32.png
 Rank: 26
 Name: Toncoin
 Slug: TON
-Price_USD: $1.854
-Price_Toman: ۲۵۷,۰۵۱ ت
+Price_USD: $1.856
+Price_Toman: ۲۵۶,۵۱۱ ت
 Total_Market_USD: $4.49B
 Total_Market_Toman: ۶۱۹ همت
 Daily_Market_USD: $117M
 Daily_Market_Toman: ۱۶.۲ همت
-Daily_Positive_Negative: +3.15%
-Weekly_Positive_Negative: +12.9
+Daily_Positive_Negative: +3.49%
+Weekly_Positive_Negative: +12.8%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/toncoin/32x32.png
 ***
 ***
@@ -391,14 +391,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/toncoin/32x32.png
 Rank: 27
 Name: World Liberty Financial
 Slug: WLFI
-Price_USD: $0.1692
-Price_Toman: ۲۳,۴۷۰ ت
+Price_USD: $0.1700
+Price_Toman: ۲۳,۴۹۸ ت
 Total_Market_USD: $4.55B
 Total_Market_Toman: ۶۲۷ همت
 Daily_Market_USD: $401M
 Daily_Market_Toman: ۵۵.۴ همت
-Daily_Positive_Negative: +1.81%
-Weekly_Positive_Negative: +17
+Daily_Positive_Negative: +5.99%
+Weekly_Positive_Negative: +17.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/world-liberty-financial-wlfi/32x32.png
 ***
 ***
@@ -406,14 +406,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/world-liberty-financial-wlfi/32
 Rank: 28
 Name: Uniswap
 Slug: UNI
-Price_USD: $5.923
-Price_Toman: ۸۲۱,۲۹۴ ت
+Price_USD: $5.932
+Price_Toman: ۸۱۹,۷۸۴ ت
 Total_Market_USD: $3.74B
 Total_Market_Toman: ۵۱۶ همت
 Daily_Market_USD: $293M
 Daily_Market_Toman: ۴۰.۵ همت
-Daily_Positive_Negative: +1.72%
-Weekly_Positive_Negative: -7.79
+Daily_Positive_Negative: +1.75%
+Weekly_Positive_Negative: -6.84%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/uniswap/32x32.png
 ***
 ***
@@ -422,13 +422,13 @@ Rank: 29
 Name: Cronos
 Slug: CRO
 Price_USD: $0.1059
-Price_Toman: ۱۴,۶۹۲ ت
+Price_Toman: ۱۴,۶۳۸ ت
 Total_Market_USD: $4.09B
 Total_Market_Toman: ۵۶۴ همت
 Daily_Market_USD: $23.0M
 Daily_Market_Toman: ۳.۱۷ همت
-Daily_Positive_Negative: +7.28%
-Weekly_Positive_Negative: +13.5
+Daily_Positive_Negative: +7.06%
+Weekly_Positive_Negative: +13.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cronos/32x32.png
 ***
 ***
@@ -436,14 +436,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cronos/32x32.png
 Rank: 30
 Name: PayPal USD
 Slug: PYUSD
-Price_USD: $0.9995
-Price_Toman: ۱۳۸,۶۰۶ ت
+Price_USD: $0.9994
+Price_Toman: ۱۳۸,۱۱۸ ت
 Total_Market_USD: $3.63B
 Total_Market_Toman: ۵۰۰ همت
 Daily_Market_USD: $43.3M
 Daily_Market_Toman: ۵.۹۸ همت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: 0
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: -0.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/paypal-usd/32x32.png
 ***
 ***
@@ -451,14 +451,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/paypal-usd/32x32.png
 Rank: 31
 Name: Polkadot
 Slug: DOT
-Price_USD: $2.163
-Price_Toman: ۲۹۹,۹۳۹ ت
+Price_USD: $2.159
+Price_Toman: ۲۹۸,۳۹۳ ت
 Total_Market_USD: $3.57B
 Total_Market_Toman: ۴۹۲ همت
 Daily_Market_USD: $133M
 Daily_Market_Toman: ۱۸.۴ همت
-Daily_Positive_Negative: +1.47%
-Weekly_Positive_Negative: +15
+Daily_Positive_Negative: +1.65%
+Weekly_Positive_Negative: +15.2%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/polkadot-new/32x32.png
 ***
 ***
@@ -467,13 +467,13 @@ Rank: 32
 Name: World Liberty Financial USD
 Slug: USD1
 Price_USD: $1.000
-Price_Toman: ۱۳۸,۷۳۰ ت
+Price_Toman: ۱۳۸,۲۴۵ ت
 Total_Market_USD: $3.31B
 Total_Market_Toman: ۴۵۷ همت
 Daily_Market_USD: $701M
 Daily_Market_Toman: ۹۶.۸ همت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.01
+Daily_Positive_Negative: -0.01%
+Weekly_Positive_Negative: +0.02%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usd1/32x32.png
 ***
 ***
@@ -481,14 +481,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/usd1/32x32.png
 Rank: 33
 Name: Mantle
 Slug: MNT
-Price_USD: $1.062
-Price_Toman: ۱۴۷,۲۹۷ ت
+Price_USD: $1.080
+Price_Toman: ۱۴۹,۵۴۷ ت
 Total_Market_USD: $3.45B
 Total_Market_Toman: ۴۷۶ همت
 Daily_Market_USD: $69.4M
 Daily_Market_Toman: ۹.۵۸ همت
-Daily_Positive_Negative: +6.98%
-Weekly_Positive_Negative: +2.42
+Daily_Positive_Negative: +8.47%
+Weekly_Positive_Negative: +4.2
 Logo: https://cdn.arz.digital/cr-odin/img/assets/mantle/32x32.png
 ***
 ***
@@ -496,14 +496,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/mantle/32x32.png
 Rank: 34
 Name: Bitget Token
 Slug: BGB
-Price_USD: $3.542
-Price_Toman: ۴۹۱,۲۱۰ ت
+Price_USD: $3.555
+Price_Toman: ۴۹۲,۳۴۳ ت
 Total_Market_USD: $2.47B
 Total_Market_Toman: ۳۴۱ همت
 Daily_Market_USD: $22.6M
 Daily_Market_Toman: ۳.۱۲ همت
-Daily_Positive_Negative: +0.44%
-Weekly_Positive_Negative: +1.68
+Daily_Positive_Negative: +0.59%
+Weekly_Positive_Negative: +2.28
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitget-token-new/32x32.png
 ***
 ***
@@ -511,14 +511,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bitget-token-new/32x32.png
 Rank: 35
 Name: Bittensor
 Slug: TAO
-Price_USD: $267.11
-Price_Toman: ۳۷,۰۴۰,۳۹۸ ت
+Price_USD: $264.50
+Price_Toman: ۳۶,۵۵۰,۱۹۶ ت
 Total_Market_USD: $2.79B
 Total_Market_Toman: ۳۸۵ همت
 Daily_Market_USD: $116M
 Daily_Market_Toman: ۱۶.۰ همت
-Daily_Positive_Negative: +7.74%
-Weekly_Positive_Negative: +19.2
+Daily_Positive_Negative: +6.71%
+Weekly_Positive_Negative: +18.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bittensor/32x32.png
 ***
 ***
@@ -526,14 +526,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bittensor/32x32.png
 Rank: 36
 Name: OKB
 Slug: OKB
-Price_USD: $113.85
-Price_Toman: ۱۵,۷۸۷,۹۲۲ ت
+Price_USD: $114.26
+Price_Toman: ۱۵,۸۲۵,۳۱۱ ت
 Total_Market_USD: $2.40B
 Total_Market_Toman: ۳۳۱ همت
 Daily_Market_USD: $34.1M
 Daily_Market_Toman: ۴.۷۱ همت
-Daily_Positive_Negative: +1.41%
-Weekly_Positive_Negative: +5.22
+Daily_Positive_Negative: +1.44%
+Weekly_Positive_Negative: +5.69
 Logo: https://cdn.arz.digital/cr-odin/img/assets/okb/32x32.png
 ***
 ***
@@ -541,14 +541,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/okb/32x32.png
 Rank: 37
 Name: Aave
 Slug: AAVE
-Price_USD: $164.15
-Price_Toman: ۲۲,۷۶۲,۶۴۲ ت
+Price_USD: $165.36
+Price_Toman: ۲۲,۹۰۱,۸۲۶ ت
 Total_Market_USD: $2.52B
 Total_Market_Toman: ۳۴۸ همت
 Daily_Market_USD: $172M
 Daily_Market_Toman: ۲۳.۸ همت
-Daily_Positive_Negative: +2.58%
-Weekly_Positive_Negative: +5.8
+Daily_Positive_Negative: +3.07%
+Weekly_Positive_Negative: +6.93
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aave/32x32.png
 ***
 ***
@@ -556,14 +556,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/aave/32x32.png
 Rank: 38
 Name: NEAR Protocol
 Slug: NEAR
-Price_USD: $1.732
-Price_Toman: ۲۴۰,۱۸۴ ت
+Price_USD: $1.724
+Price_Toman: ۲۳۸,۲۲۰ ت
 Total_Market_USD: $2.2B
 Total_Market_Toman: ۳۰۵ همت
 Daily_Market_USD: $126M
 Daily_Market_Toman: ۱۷.۴ همت
-Daily_Positive_Negative: +2.61%
-Weekly_Positive_Negative: +9.04
+Daily_Positive_Negative: +1.70%
+Weekly_Positive_Negative: +8.78%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/near-protocol/32x32.png
 ***
 ***
@@ -571,14 +571,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/near-protocol/32x32.png
 Rank: 39
 Name: Pepe
 Slug: PEPE
-Price_USD: $0.0₅6918
-Price_Toman: ۰.۹۵۹۳ ت
+Price_USD: $0.0₅6909
+Price_Toman: ۰.۹۵۴۸ ت
 Total_Market_USD: $2.91B
 Total_Market_Toman: ۴۰۱ همت
 Daily_Market_USD: $1.30B
 Daily_Market_Toman: ۱۸۰ همت
-Daily_Positive_Negative: +13.0%
-Weekly_Positive_Negative: +64.2
+Daily_Positive_Negative: +13.4%
+Weekly_Positive_Negative: +64.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pepe/32x32.png
 ***
 ***
@@ -586,14 +586,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pepe/32x32.png
 Rank: 40
 Name: MemeCore
 Slug: M
-Price_USD: $1.590
-Price_Toman: ۲۲۰,۴۴۰ ت
+Price_USD: $1.571
+Price_Toman: ۲۱۷,۰۳۹ ت
 Total_Market_USD: $1.97B
 Total_Market_Toman: ۲۷۱ همت
 Daily_Market_USD: $11.9M
 Daily_Market_Toman: ۱.۶۴ همت
-Daily_Positive_Negative: -4.03%
-Weekly_Positive_Negative: +5.38
+Daily_Positive_Negative: -5.15%
+Weekly_Positive_Negative: +4.87%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/memecore/32x32.png
 ***
 ***
@@ -601,14 +601,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/memecore/32x32.png
 Rank: 41
 Name: Ethereum Classic
 Slug: ETC
-Price_USD: $12.82
-Price_Toman: ۱,۷۷۷,۵۵۰ ت
+Price_USD: $12.83
+Price_Toman: ۱,۷۷۳,۴۹۳ ت
 Total_Market_USD: $1.99B
 Total_Market_Toman: ۲۷۴ همت
 Daily_Market_USD: $65.4M
 Daily_Market_Toman: ۹.۰۳ همت
-Daily_Positive_Negative: +3.09%
-Weekly_Positive_Negative: +4.66
+Daily_Positive_Negative: +3.12%
+Weekly_Positive_Negative: +5.21%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum-classic/32x32.png
 ***
 ***
@@ -616,14 +616,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum-classic/32x32.png
 Rank: 42
 Name: Tether Gold
 Slug: XAUt
-Price_USD: $4,339.4
-Price_Toman: ۶۰۱,۷۴۶,۰۱۵ ت
+Price_USD: $4,335.9
+Price_Toman: ۵۹۹,۱۶۲,۶۶۶ ت
 Total_Market_USD: $1.77B
 Total_Market_Toman: ۲۴۵ همت
 Daily_Market_USD: $99.9M
 Daily_Market_Toman: ۱۳.۸ همت
-Daily_Positive_Negative: -0.08%
-Weekly_Positive_Negative: -4.36
+Daily_Positive_Negative: -0.24%
+Weekly_Positive_Negative: -4.43%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tether-gold/32x32.png
 ***
 ***
@@ -631,14 +631,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tether-gold/32x32.png
 Rank: 43
 Name: Aster
 Slug: ASTER
-Price_USD: $0.7792
-Price_Toman: ۱۰۸,۰۵۶ ت
+Price_USD: $0.7539
+Price_Toman: ۱۰۴,۱۸۲ ت
 Total_Market_USD: $1.88B
 Total_Market_Toman: ۲۵۹ همت
 Daily_Market_USD: $130M
 Daily_Market_Toman: ۱۷.۹ همت
-Daily_Positive_Negative: +5.33%
-Weekly_Positive_Negative: +8.51
+Daily_Positive_Negative: +1.41%
+Weekly_Positive_Negative: +4.66%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aster/32x32.png
 ***
 ***
@@ -647,13 +647,13 @@ Rank: 44
 Name: Pi
 Slug: PI
 Price_USD: $0.2136
-Price_Toman: ۲۹,۶۲۵ ت
+Price_Toman: ۲۹,۵۱۸ ت
 Total_Market_USD: $1.79B
 Total_Market_Toman: ۲۴۷ همت
 Daily_Market_USD: $12.3M
 Daily_Market_Toman: ۱.۷۰ همت
-Daily_Positive_Negative: +2.29%
-Weekly_Positive_Negative: +4.3
+Daily_Positive_Negative: +2.31%
+Weekly_Positive_Negative: +4.23%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pi/32x32.png
 ***
 ***
@@ -661,14 +661,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pi/32x32.png
 Rank: 45
 Name: Ethena
 Slug: ENA
-Price_USD: $0.2495
-Price_Toman: ۳۴,۶۰۳ ت
+Price_USD: $0.2472
+Price_Toman: ۳۴,۱۷۰ ت
 Total_Market_USD: $1.90B
 Total_Market_Toman: ۲۶۲ همت
 Daily_Market_USD: $142M
 Daily_Market_Toman: ۱۹.۶ همت
-Daily_Positive_Negative: +5.92%
-Weekly_Positive_Negative: +18.5
+Daily_Positive_Negative: +5.25%
+Weekly_Positive_Negative: +17.1%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethena/32x32.png
 ***
 ***
@@ -676,14 +676,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ethena/32x32.png
 Rank: 46
 Name: Internet Computer
 Slug: ICP
-Price_USD: $3.228
-Price_Toman: ۴۴۷,۵۸۳ ت
+Price_USD: $3.207
+Price_Toman: ۴۴۳,۱۰۹ ت
 Total_Market_USD: $1.8B
 Total_Market_Toman: ۲۴۱ همت
 Daily_Market_USD: $76.1M
 Daily_Market_Toman: ۱۰.۵ همت
-Daily_Positive_Negative: +4.15%
-Weekly_Positive_Negative: +4.55
+Daily_Positive_Negative: +2.64%
+Weekly_Positive_Negative: +3.96%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/internet-computer/32x32.png
 ***
 ***
@@ -691,14 +691,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/internet-computer/32x32.png
 Rank: 47
 Name: PAX Gold
 Slug: PAXG
-Price_USD: $4,355.1
-Price_Toman: ۶۰۳,۹۲۳,۵۸۵ ت
+Price_USD: $4,347.6
+Price_Toman: ۶۰۰,۷۸۱,۸۳۵ ت
 Total_Market_USD: $1.62B
 Total_Market_Toman: ۲۲۳ همت
 Daily_Market_USD: $92.6M
 Daily_Market_Toman: ۱۲.۸ همت
-Daily_Positive_Negative: -0.02%
-Weekly_Positive_Negative: -4.4
+Daily_Positive_Negative: -0.32%
+Weekly_Positive_Negative: -4.48%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pax-gold/32x32.png
 ***
 ***
@@ -707,13 +707,13 @@ Rank: 48
 Name: Global Dollar
 Slug: USDG
 Price_USD: $0.9995
-Price_Toman: ۱۳۸,۶۱۲ ت
+Price_Toman: ۱۳۸,۴۴۱ ت
 Total_Market_USD: $1.55B
 Total_Market_Toman: ۲۱۳ همت
 Daily_Market_USD: $11.5M
 Daily_Market_Toman: ۱.۵۹ همت
 Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: -0.02
+Weekly_Positive_Negative: 0
 Logo: https://cdn.arz.digital/cr-odin/img/assets/global-dollar-usdg/32x32.png
 ***
 ***
@@ -721,14 +721,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/global-dollar-usdg/32x32.png
 Rank: 49
 Name: Midnight
 Slug: NIGHT
-Price_USD: $0.09115
-Price_Toman: ۱۲,۶۴۰ ت
+Price_USD: $0.09099
+Price_Toman: ۱۲,۵۷۴ ت
 Total_Market_USD: $1.5B
 Total_Market_Toman: ۲۰۸ همت
 Daily_Market_USD: $41.7M
 Daily_Market_Toman: ۵.۷۶ همت
-Daily_Positive_Negative: -2.07%
-Weekly_Positive_Negative: +6.42
+Daily_Positive_Negative: -3.34%
+Weekly_Positive_Negative: +5.42%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/midnight-network/32x32.png
 ***
 ***
@@ -737,13 +737,13 @@ Rank: 50
 Name: KuCoin Token
 Slug: KCS
 Price_USD: $11.07
-Price_Toman: ۱,۵۳۴,۸۴۵ ت
+Price_Toman: ۱,۵۳۳,۱۴۰ ت
 Total_Market_USD: $1.5B
 Total_Market_Toman: ۲۰۲ همت
 Daily_Market_USD: $2.16M
 Daily_Market_Toman: ۲۹۹ میلیارد ت
-Daily_Positive_Negative: +0.86%
-Weekly_Positive_Negative: +2.16
+Daily_Positive_Negative: +0.80%
+Weekly_Positive_Negative: +2.19
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kucoin-token/32x32.png
 ***
 ***
@@ -751,13 +751,13 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kucoin-token/32x32.png
 Rank: 51
 Name: Aptos
 Slug: APT
-Price_USD: $1.911
-Price_Toman: ۲۶۴,۳۱۶ ت
+Price_USD: $1.918
+Price_Toman: ۲۶۵,۸۵۱ ت
 Total_Market_USD: $1.44B
-Total_Market_Toman: ۱۹۸ همت
-Daily_Market_USD: $69.6M
-Daily_Market_Toman: ۹.۶۲ همت
-Daily_Positive_Negative: +1.54%
+Total_Market_Toman: ۱۹۹ همت
+Daily_Market_USD: $70.5M
+Daily_Market_Toman: ۹.۷۷ همت
+Daily_Positive_Negative: +1.21%
 Weekly_Positive_Negative: +11.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aptos/32x32.png
 ***
@@ -766,14 +766,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/aptos/32x32.png
 Rank: 52
 Name: Sky
 Slug: SKY
-Price_USD: $0.06212
-Price_Toman: ۸,۵۹۰.۷ ت
+Price_USD: $0.06226
+Price_Toman: ۸,۶۳۳.۰ ت
 Total_Market_USD: $1.43B
-Total_Market_Toman: ۱۹۶ همت
-Daily_Market_USD: $15.5M
+Total_Market_Toman: ۱۹۸ همت
+Daily_Market_USD: $15.4M
 Daily_Market_Toman: ۲.۱۴ همت
-Daily_Positive_Negative: +2.41%
-Weekly_Positive_Negative: -3.54%
+Daily_Positive_Negative: +2.28%
+Weekly_Positive_Negative: -2.70%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/sky/32x32.png
 ***
 ***
@@ -781,14 +781,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/sky/32x32.png
 Rank: 53
 Name: Worldcoin
 Slug: WLD
-Price_USD: $0.5899
-Price_Toman: ۸۱,۵۸۹ ت
-Total_Market_USD: $1.57B
-Total_Market_Toman: ۲۱۷ همت
-Daily_Market_USD: $126M
-Daily_Market_Toman: ۱۷.۴ همت
-Daily_Positive_Negative: +2.10%
-Weekly_Positive_Negative: +16.7%
+Price_USD: $0.5985
+Price_Toman: ۸۲,۹۷۹ ت
+Total_Market_USD: $1.6B
+Total_Market_Toman: ۲۲۱ همت
+Daily_Market_USD: $129M
+Daily_Market_Toman: ۱۷.۸ همت
+Daily_Positive_Negative: +4.74%
+Weekly_Positive_Negative: +18.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/worldcoin-org/32x32.png
 ***
 ***
@@ -797,13 +797,13 @@ Rank: 54
 Name: Ripple USD
 Slug: RLUSD
 Price_USD: $0.9994
-Price_Toman: ۱۳۸,۲۱۰ ت
+Price_Toman: ۱۳۸,۵۶۹ ت
 Total_Market_USD: $1.34B
-Total_Market_Toman: ۱۸۴ همت
-Daily_Market_USD: $62.0M
-Daily_Market_Toman: ۸.۵۶ همت
-Daily_Positive_Negative: -0.04%
-Weekly_Positive_Negative: -0.02%
+Total_Market_Toman: ۱۸۵ همت
+Daily_Market_USD: $64.0M
+Daily_Market_Toman: ۸.۸۷ همت
+Daily_Positive_Negative: -0.05%
+Weekly_Positive_Negative: -0.03%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ripple-usd/32x32.png
 ***
 ***
@@ -811,14 +811,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ripple-usd/32x32.png
 Rank: 55
 Name: Ondo
 Slug: ONDO
-Price_USD: $0.4369
-Price_Toman: ۶۰,۴۲۸ ت
-Total_Market_USD: $1.38B
-Total_Market_Toman: ۱۹۰ همت
-Daily_Market_USD: $65.9M
-Daily_Market_Toman: ۹.۱۱ همت
-Daily_Positive_Negative: +4.14%
-Weekly_Positive_Negative: +12.6%
+Price_USD: $0.4402
+Price_Toman: ۶۱,۰۳۷ ت
+Total_Market_USD: $1.39B
+Total_Market_Toman: ۱۹۲ همت
+Daily_Market_USD: $67.6M
+Daily_Market_Toman: ۹.۳۷ همت
+Daily_Positive_Negative: +5.02%
+Weekly_Positive_Negative: +12.8%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ondo-finance/32x32.png
 ***
 ***
@@ -826,14 +826,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ondo-finance/32x32.png
 Rank: 56
 Name: Kaspa
 Slug: KAS
-Price_USD: $0.04845
-Price_Toman: ۶,۷۰۰.۲ ت
-Total_Market_USD: $1.31B
-Total_Market_Toman: ۱۸۱ همت
-Daily_Market_USD: $28.6M
-Daily_Market_Toman: ۳.۹۵ همت
-Daily_Positive_Negative: +7.23%
-Weekly_Positive_Negative: +8.83%
+Price_USD: $0.04877
+Price_Toman: ۶,۷۶۲.۶ ت
+Total_Market_USD: $1.32B
+Total_Market_Toman: ۱۸۳ همت
+Daily_Market_USD: $29.8M
+Daily_Market_Toman: ۴.۱۴ همت
+Daily_Positive_Negative: +8.59%
+Weekly_Positive_Negative: +8.98%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kaspa/32x32.png
 ***
 ***
@@ -841,14 +841,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kaspa/32x32.png
 Rank: 57
 Name: Arbitrum
 Slug: ARB
-Price_USD: $0.2123
-Price_Toman: ۲۹,۳۷۲ ت
-Total_Market_USD: $1.21B
-Total_Market_Toman: ۱۶۷ همت
-Daily_Market_USD: $73.3M
-Daily_Market_Toman: ۱۰.۱ همت
-Daily_Positive_Negative: +2.52%
-Weekly_Positive_Negative: +7.74%
+Price_USD: $0.2154
+Price_Toman: ۲۹,۸۶۵ ت
+Total_Market_USD: $1.23B
+Total_Market_Toman: ۱۷۰ همت
+Daily_Market_USD: $78.3M
+Daily_Market_Toman: ۱۰.۹ همت
+Daily_Positive_Negative: +4.02%
+Weekly_Positive_Negative: +9.44%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/arbitrum/32x32.png
 ***
 ***
@@ -856,14 +856,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/arbitrum/32x32.png
 Rank: 58
 Name: Polygon (prev. MATIC)
 Slug: POL
-Price_USD: $0.1193
-Price_Toman: ۱۶,۵۰۱ ت
-Total_Market_USD: $1.26B
-Total_Market_Toman: ۱۷۴ همت
-Daily_Market_USD: $57.7M
-Daily_Market_Toman: ۷.۹۷ همت
-Daily_Positive_Negative: +4.71%
-Weekly_Positive_Negative: +11.4%
+Price_USD: $0.1204
+Price_Toman: ۱۶,۷۰۱ ت
+Total_Market_USD: $1.27B
+Total_Market_Toman: ۱۷۶ همت
+Daily_Market_USD: $59.0M
+Daily_Market_Toman: ۸.۱۸ همت
+Daily_Positive_Negative: +5.87%
+Weekly_Positive_Negative: +12.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/polygon-ecosystem-token/32x32.png
 ***
 ***
@@ -871,14 +871,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/polygon-ecosystem-token/32x32.p
 Rank: 59
 Name: Filecoin
 Slug: FIL
-Price_USD: $1.501
-Price_Toman: ۲۰۷,۵۶۹ ت
+Price_USD: $1.494
+Price_Toman: ۲۰۷,۰۸۶ ت
 Total_Market_USD: $1.10B
-Total_Market_Toman: ۱۵۲ همت
-Daily_Market_USD: $139M
-Daily_Market_Toman: ۱۹.۲ همت
-Daily_Positive_Negative: +1.76%
-Weekly_Positive_Negative: +12.1%
+Total_Market_Toman: ۱۵۱ همت
+Daily_Market_USD: $140M
+Daily_Market_Toman: ۱۹.۵ همت
+Daily_Positive_Negative: +1.72%
+Weekly_Positive_Negative: +11.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/filecoin/32x32.png
 ***
 ***
@@ -886,14 +886,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/filecoin/32x32.png
 Rank: 60
 Name: Algorand
 Slug: ALGO
-Price_USD: $0.1348
-Price_Toman: ۱۸,۶۵۲ ت
+Price_USD: $0.1351
+Price_Toman: ۱۸,۷۳۴ ت
 Total_Market_USD: $1.19B
-Total_Market_Toman: ۱۶۴ همت
-Daily_Market_USD: $42.7M
-Daily_Market_Toman: ۵.۹۰ همت
-Daily_Positive_Negative: +7.10%
-Weekly_Positive_Negative: +12.2%
+Total_Market_Toman: ۱۶۵ همت
+Daily_Market_USD: $43.3M
+Daily_Market_Toman: ۶.۰۰ همت
+Daily_Positive_Negative: +7.32%
+Weekly_Positive_Negative: +12.1%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/algorand/32x32.png
 ***
 ***
@@ -901,14 +901,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/algorand/32x32.png
 Rank: 61
 Name: Cosmos
 Slug: ATOM
-Price_USD: $2.301
-Price_Toman: ۳۱۸,۱۳۹ ت
-Total_Market_USD: $1.12B
-Total_Market_Toman: ۱۵۴ همت
-Daily_Market_USD: $61.3M
-Daily_Market_Toman: ۸.۴۸ همت
-Daily_Positive_Negative: +3.80%
-Weekly_Positive_Negative: +10.3%
+Price_USD: $2.319
+Price_Toman: ۳۲۱,۴۴۶ ت
+Total_Market_USD: $1.1B
+Total_Market_Toman: ۱۵۶ همت
+Daily_Market_USD: $61.9M
+Daily_Market_Toman: ۸.۵۸ همت
+Daily_Positive_Negative: +4.06%
+Weekly_Positive_Negative: +11.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cosmos/32x32.png
 ***
 ***
@@ -916,14 +916,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cosmos/32x32.png
 Rank: 62
 Name: XDC Network
 Slug: XDC
-Price_USD: $0.05279
-Price_Toman: ۷,۳۰۱.۴ ت
+Price_USD: $0.05280
+Price_Toman: ۷,۳۲۰.۷ ت
 Total_Market_USD: $1.01B
 Total_Market_Toman: ۱۳۹ همت
-Daily_Market_USD: $26.0M
-Daily_Market_Toman: ۳.۵۹ همت
-Daily_Positive_Negative: -1.10%
-Weekly_Positive_Negative: +6.19%
+Daily_Market_USD: $22.6M
+Daily_Market_Toman: ۳.۱۳ همت
+Daily_Positive_Negative: -0.39%
+Weekly_Positive_Negative: +6.35%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/xdc-network/32x32.png
 ***
 ***
@@ -931,14 +931,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/xdc-network/32x32.png
 Rank: 63
 Name: OFFICIAL TRUMP
 Slug: TRUMP
-Price_USD: $5.391
-Price_Toman: ۷۴۵,۵۳۷ ت
+Price_USD: $5.417
+Price_Toman: ۷۵۰,۹۹۱ ت
 Total_Market_USD: $1.08B
-Total_Market_Toman: ۱۴۹ همت
-Daily_Market_USD: $672M
-Daily_Market_Toman: ۹۲.۹ همت
-Daily_Positive_Negative: +7.09%
-Weekly_Positive_Negative: +9.22%
+Total_Market_Toman: ۱۵۰ همت
+Daily_Market_USD: $680M
+Daily_Market_Toman: ۹۴.۴ همت
+Daily_Positive_Negative: +6.80%
+Weekly_Positive_Negative: +8.83%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/official-trump/32x32.png
 ***
 ***
@@ -946,14 +946,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/official-trump/32x32.png
 Rank: 64
 Name: MYX Finance
 Slug: MYX
-Price_USD: $5.767
-Price_Toman: ۷۹۷,۴۰۵ ت
-Total_Market_USD: $1.45B
-Total_Market_Toman: ۲۰۰ همت
-Daily_Market_USD: $108M
-Daily_Market_Toman: ۱۴.۹ همت
-Daily_Positive_Negative: +1.82%
-Weekly_Positive_Negative: +63.2%
+Price_USD: $5.938
+Price_Toman: ۸۲۳,۲۳۰ ت
+Total_Market_USD: $1.49B
+Total_Market_Toman: ۲۰۷ همت
+Daily_Market_USD: $90.5M
+Daily_Market_Toman: ۱۲.۶ همت
+Daily_Positive_Negative: +7.12%
+Weekly_Positive_Negative: +69.8%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/myx-finance/32x32.png
 ***
 ***
@@ -961,14 +961,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/myx-finance/32x32.png
 Rank: 65
 Name: VeChain
 Slug: VET
-Price_USD: $0.01188
-Price_Toman: ۱,۶۴۳.۸ ت
-Total_Market_USD: $1.02B
-Total_Market_Toman: ۱۴۱ همت
-Daily_Market_USD: $21.3M
-Daily_Market_Toman: ۲.۹۴ همت
-Daily_Positive_Negative: +2.10%
-Weekly_Positive_Negative: +6.26%
+Price_USD: $0.01202
+Price_Toman: ۱,۶۶۶.۹ ت
+Total_Market_USD: $1.03B
+Total_Market_Toman: ۱۴۳ همت
+Daily_Market_USD: $21.6M
+Daily_Market_Toman: ۳.۰۰ همت
+Daily_Positive_Negative: +3.52%
+Weekly_Positive_Negative: +7.27%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/vechain/32x32.png
 ***
 ***
@@ -976,14 +976,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/vechain/32x32.png
 Rank: 66
 Name: Quant
 Slug: QNT
-Price_USD: $79.24
-Price_Toman: ۱۰,۹۵۷,۶۳۰ ت
-Total_Market_USD: $957M
-Total_Market_Toman: ۱۳۲ همت
-Daily_Market_USD: $10.6M
-Daily_Market_Toman: ۱.۴۶ همت
-Daily_Positive_Negative: -0.18%
-Weekly_Positive_Negative: +7.78%
+Price_USD: $79.65
+Price_Toman: ۱۱,۰۴۳,۰۲۹ ت
+Total_Market_USD: $962M
+Total_Market_Toman: ۱۳۳ همت
+Daily_Market_USD: $10.3M
+Daily_Market_Toman: ۱.۴۲ همت
+Daily_Positive_Negative: +0.06%
+Weekly_Positive_Negative: +8.55%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/quant/32x32.png
 ***
 ***
@@ -991,14 +991,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/quant/32x32.png
 Rank: 67
 Name: Flare
 Slug: FLR
-Price_USD: $0.01158
-Price_Toman: ۱,۶۰۱.۵ ت
-Total_Market_USD: $956M
-Total_Market_Toman: ۱۳۲ همت
-Daily_Market_USD: $5.36M
-Daily_Market_Toman: ۷۴۱ میلیارد ت
-Daily_Positive_Negative: +5.86%
-Weekly_Positive_Negative: +3.18%
+Price_USD: $0.01163
+Price_Toman: ۱,۶۱۲.۹ ت
+Total_Market_USD: $961M
+Total_Market_Toman: ۱۳۳ همت
+Daily_Market_USD: $5.63M
+Daily_Market_Toman: ۷۸۰ میلیارد ت
+Daily_Positive_Negative: +6.55%
+Weekly_Positive_Negative: +3.44%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/flare/32x32.png
 ***
 ***
@@ -1006,14 +1006,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/flare/32x32.png
 Rank: 68
 Name: USDD
 Slug: USDD
-Price_USD: $0.9992
-Price_Toman: ۱۳۸,۵۶۹ ت
-Total_Market_USD: $889M
-Total_Market_Toman: ۱۲۲ همت
-Daily_Market_USD: $4.38M
-Daily_Market_Toman: ۶۰۵ میلیارد ت
-Daily_Positive_Negative: +0.03%
-Weekly_Positive_Negative: 0
+Price_USD: $0.9993
+Price_Toman: ۱۳۸,۵۵۷ ت
+Total_Market_USD: $890M
+Total_Market_Toman: ۱۲۳ همت
+Daily_Market_USD: $4.30M
+Daily_Market_Toman: ۵۹۶ میلیارد ت
+Daily_Positive_Negative: +0.08%
+Weekly_Positive_Negative: +0.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usdd/32x32.png
 ***
 ***
@@ -1021,14 +1021,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/usdd/32x32.png
 Rank: 69
 Name: GateToken
 Slug: GT
-Price_USD: $10.51
-Price_Toman: ۱,۴۵۳,۰۹۷ ت
-Total_Market_USD: $842M
-Total_Market_Toman: ۱۱۶ همت
-Daily_Market_USD: $3.30M
-Daily_Market_Toman: ۴۵۶ میلیارد ت
-Daily_Positive_Negative: +0.28%
-Weekly_Positive_Negative: +2.37%
+Price_USD: $10.60
+Price_Toman: ۱,۴۶۸,۵۱۴ ت
+Total_Market_USD: $847M
+Total_Market_Toman: ۱۱۷ همت
+Daily_Market_USD: $3.4M
+Daily_Market_Toman: ۴۷۵ میلیارد ت
+Daily_Positive_Negative: +1.18%
+Weekly_Positive_Negative: +2.66
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gatetoken/32x32.png
 ***
 ***
@@ -1036,14 +1036,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/gatetoken/32x32.png
 Rank: 70
 Name: Sei
 Slug: SEI
-Price_USD: $0.1245
-Price_Toman: ۱۷,۲۳۰ ت
-Total_Market_USD: $808M
-Total_Market_Toman: ۱۱۱ همت
-Daily_Market_USD: $54.2M
-Daily_Market_Toman: ۷.۴۹ همت
-Daily_Positive_Negative: +2.69%
-Weekly_Positive_Negative: +6.74%
+Price_USD: $0.1253
+Price_Toman: ۱۷,۳۷۹ ت
+Total_Market_USD: $814M
+Total_Market_Toman: ۱۱۲ همت
+Daily_Market_USD: $55.1M
+Daily_Market_Toman: ۷.۶۵ همت
+Daily_Positive_Negative: +3.67%
+Weekly_Positive_Negative: +7.28%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/sei/32x32.png
 ***
 ***
@@ -1051,14 +1051,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/sei/32x32.png
 Rank: 71
 Name: Pump.fun
 Slug: PUMP
-Price_USD: $0.002318
-Price_Toman: ۳۲۰.۶۱ ت
-Total_Market_USD: $821M
-Total_Market_Toman: ۱۱۳ همت
-Daily_Market_USD: $147M
-Daily_Market_Toman: ۲۰.۳ همت
-Daily_Positive_Negative: +4.70%
-Weekly_Positive_Negative: +22.5%
+Price_USD: $0.002342
+Price_Toman: ۳۲۴.۷۳ ت
+Total_Market_USD: $829M
+Total_Market_Toman: ۱۱۵ همت
+Daily_Market_USD: $146M
+Daily_Market_Toman: ۲۰.۲ همت
+Daily_Positive_Negative: +3.70%
+Weekly_Positive_Negative: +24.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pump-fun/32x32.png
 ***
 ***
@@ -1066,13 +1066,13 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pump-fun/32x32.png
 Rank: 72
 Name: Bonk
 Slug: BONK
-Price_USD: $0.0₄1236
-Price_Toman: ۱.۷۱۰ ت
+Price_USD: $0.0₄1241
+Price_Toman: ۱.۷۲۱ ت
 Total_Market_USD: $1.09B
-Total_Market_Toman: ۱۵۰ همت
-Daily_Market_USD: $499M
-Daily_Market_Toman: ۶۸.۹ همت
-Daily_Positive_Negative: +37.4%
+Total_Market_Toman: ۱۵۱ همت
+Daily_Market_USD: $604M
+Daily_Market_Toman: ۸۳.۷ همت
+Daily_Positive_Negative: +36.4%
 Weekly_Positive_Negative: +54.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bonk1/32x32.png
 ***
@@ -1081,14 +1081,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bonk1/32x32.png
 Rank: 73
 Name: Render
 Slug: RENDER
-Price_USD: $1.783
-Price_Toman: ۲۴۶,۵۸۰ ت
-Total_Market_USD: $925M
-Total_Market_Toman: ۱۲۷ همت
-Daily_Market_USD: $148M
-Daily_Market_Toman: ۲۰.۵ همت
-Daily_Positive_Negative: +17.2%
-Weekly_Positive_Negative: +34.4%
+Price_USD: $1.801
+Price_Toman: ۲۴۹,۶۸۳ ت
+Total_Market_USD: $934M
+Total_Market_Toman: ۱۲۹ همت
+Daily_Market_USD: $151M
+Daily_Market_Toman: ۲۰.۹ همت
+Daily_Positive_Negative: +16.3%
+Weekly_Positive_Negative: +35.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/render/32x32.png
 ***
 ***
@@ -1096,14 +1096,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/render/32x32.png
 Rank: 74
 Name: Story
 Slug: IP
-Price_USD: $2.127
-Price_Toman: ۲۹۴,۱۲۹ ت
-Total_Market_USD: $725M
-Total_Market_Toman: ۱۰۰ همت
-Daily_Market_USD: $55.8M
-Daily_Market_Toman: ۷.۷۱ همت
-Daily_Positive_Negative: +0.51%
-Weekly_Positive_Negative: +36.0%
+Price_USD: $2.207
+Price_Toman: ۳۰۵,۹۹۳ ت
+Total_Market_USD: $752M
+Total_Market_Toman: ۱۰۴ همت
+Daily_Market_USD: $66.5M
+Daily_Market_Toman: ۹.۲۲ همت
+Daily_Positive_Negative: +5.20%
+Weekly_Positive_Negative: +41.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/story-protocol/32x32.png
 ***
 ***
@@ -1111,14 +1111,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/story-protocol/32x32.png
 Rank: 75
 Name: Lighter
 Slug: LIT
-Price_USD: $2.592
-Price_Toman: ۳۵۸,۴۲۵ ت
-Total_Market_USD: $648M
-Total_Market_Toman: ۸۹.۶ همت
-Daily_Market_USD: $24.2M
-Daily_Market_Toman: ۳.۳۴ همت
-Daily_Positive_Negative: -3.99%
-Weekly_Positive_Negative: -3.02%
+Price_USD: $2.587
+Price_Toman: ۳۵۸,۷۳۳ ت
+Total_Market_USD: $647M
+Total_Market_Toman: ۸۹.۷ همت
+Daily_Market_USD: $22.1M
+Daily_Market_Toman: ۳.۰۷ همت
+Daily_Positive_Negative: +4.04%
+Weekly_Positive_Negative: -3.19%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/lighter/32x32.png
 ***
 ***
@@ -1126,14 +1126,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/lighter/32x32.png
 Rank: 76
 Name: PancakeSwap
 Slug: CAKE
-Price_USD: $2.036
-Price_Toman: ۲۸۱,۶۱۹ ت
-Total_Market_USD: $684M
-Total_Market_Toman: ۹۴.۵ همت
+Price_USD: $2.035
+Price_Toman: ۲۸۲,۰۹۹ ت
+Total_Market_USD: $683M
+Total_Market_Toman: ۹۴.۸ همت
 Daily_Market_USD: $27.9M
-Daily_Market_Toman: ۳.۸۵ همت
-Daily_Positive_Negative: +1.48%
-Weekly_Positive_Negative: +8.53%
+Daily_Market_Toman: ۳.۸۷ همت
+Daily_Positive_Negative: +2.13%
+Weekly_Positive_Negative: +8.43%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pancakeswap/32x32.png
 ***
 ***
@@ -1141,14 +1141,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pancakeswap/32x32.png
 Rank: 77
 Name: Jupiter
 Slug: JUP
-Price_USD: $0.2132
-Price_Toman: ۲۹,۴۹۰ ت
-Total_Market_USD: $680M
-Total_Market_Toman: ۹۴.۰ همت
-Daily_Market_USD: $26.4M
-Daily_Market_Toman: ۳.۶۴ همت
-Daily_Positive_Negative: +3.00%
-Weekly_Positive_Negative: +6.46%
+Price_USD: $0.2179
+Price_Toman: ۳۰,۲۱۲ ت
+Total_Market_USD: $695M
+Total_Market_Toman: ۹۶.۴ همت
+Daily_Market_USD: $27.3M
+Daily_Market_Toman: ۳.۷۹ همت
+Daily_Positive_Negative: +5.42%
+Weekly_Positive_Negative: +8.88%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/jupiter-ag/32x32.png
 ***
 ***
@@ -1156,14 +1156,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/jupiter-ag/32x32.png
 Rank: 78
 Name: Pudgy Penguins
 Slug: PENGU
-Price_USD: $0.01261
-Price_Toman: ۱,۷۴۴.۳ ت
-Total_Market_USD: $793M
-Total_Market_Toman: ۱۰۹ همت
-Daily_Market_USD: $343M
-Daily_Market_Toman: ۴۷.۴ همت
-Daily_Positive_Negative: +17.3%
-Weekly_Positive_Negative: +33.7%
+Price_USD: $0.01282
+Price_Toman: ۱,۷۷۷.۸ ت
+Total_Market_USD: $806M
+Total_Market_Toman: ۱۱۱ همت
+Daily_Market_USD: $390M
+Daily_Market_Toman: ۵۴.۰ همت
+Daily_Positive_Negative: +18.1%
+Weekly_Positive_Negative: +35.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pudgy-penguins/32x32.png
 ***
 ***
@@ -1171,14 +1171,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pudgy-penguins/32x32.png
 Rank: 79
 Name: Nexo
 Slug: NEXO
-Price_USD: $0.9419
-Price_Toman: ۱۳۰,۲۵۷ ت
-Total_Market_USD: $609M
-Total_Market_Toman: ۸۴.۱ همت
-Daily_Market_USD: $5.77M
-Daily_Market_Toman: ۷۹۷ میلیارد ت
-Daily_Positive_Negative: -0.18%
-Weekly_Positive_Negative: +4.38%
+Price_USD: $0.9479
+Price_Toman: ۱۳۱,۴۲۹ ت
+Total_Market_USD: $613M
+Total_Market_Toman: ۸۵.۰ همت
+Daily_Market_USD: $5.52M
+Daily_Market_Toman: ۷۶۵ میلیارد ت
+Daily_Positive_Negative: +0.77%
+Weekly_Positive_Negative: +5.52%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/nexo/32x32.png
 ***
 ***
@@ -1186,14 +1186,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/nexo/32x32.png
 Rank: 80
 Name: Optimism
 Slug: OP
-Price_USD: $0.3195
-Price_Toman: ۴۴,۳۰۵ ت
-Total_Market_USD: $616M
-Total_Market_Toman: ۸۵.۲ همت
-Daily_Market_USD: $64.9M
-Daily_Market_Toman: ۸.۹۸ همت
-Daily_Positive_Negative: +4.27%
-Weekly_Positive_Negative: +15.8
+Price_USD: $0.3198
+Price_Toman: ۴۴,۳۴۱ ت
+Total_Market_USD: $622M
+Total_Market_Toman: ۸۶.۲ همت
+Daily_Market_USD: $67.3M
+Daily_Market_Toman: ۹.۳۴ همت
+Daily_Positive_Negative: +4.37%
+Weekly_Positive_Negative: +16.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/optimism-ethereum/32x32.png
 ***
 ***
@@ -1201,14 +1201,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/optimism-ethereum/32x32.png
 Rank: 81
 Name: Curve DAO Token
 Slug: CRV
-Price_USD: $0.4225
-Price_Toman: ۵۸,۶۰۰ ت
-Total_Market_USD: $611M
-Total_Market_Toman: ۸۴.۵ همت
-Daily_Market_USD: $91.8M
-Daily_Market_Toman: ۱۲.۷ همت
-Daily_Positive_Negative: +4.73%
-Weekly_Positive_Negative: +6.37
+Price_USD: $0.4219
+Price_Toman: ۵۸,۵۰۳ ت
+Total_Market_USD: $612M
+Total_Market_Toman: ۸۴.۹ همت
+Daily_Market_USD: $93.5M
+Daily_Market_Toman: ۱۳.۰ همت
+Daily_Positive_Negative: +4.57%
+Weekly_Positive_Negative: +6.26%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/curve-dao-token/32x32.png
 ***
 ***
@@ -1216,14 +1216,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/curve-dao-token/32x32.png
 Rank: 82
 Name: Tezos
 Slug: XTZ
-Price_USD: $0.5504
-Price_Toman: ۷۶,۱۱۵ ت
-Total_Market_USD: $589M
-Total_Market_Toman: ۸۱.۵ همت
-Daily_Market_USD: $21.4M
-Daily_Market_Toman: ۲.۹۵ همت
-Daily_Positive_Negative: +2.28%
-Weekly_Positive_Negative: +12.3%
+Price_USD: $0.5474
+Price_Toman: ۷۵,۸۹۹ ت
+Total_Market_USD: $586M
+Total_Market_Toman: ۸۱.۳ همت
+Daily_Market_USD: $21.7M
+Daily_Market_Toman: ۳.۰۱ همت
+Daily_Positive_Negative: +2.61%
+Weekly_Positive_Negative: +11.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tezos/32x32.png
 ***
 ***
@@ -1231,14 +1231,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tezos/32x32.png
 Rank: 83
 Name: Dash
 Slug: DASH
-Price_USD: $42.79
-Price_Toman: ۵,۹۱۷,۷۳۲ ت
-Total_Market_USD: $537M
-Total_Market_Toman: ۷۴.۲ همت
-Daily_Market_USD: $70.4M
-Daily_Market_Toman: ۹.۷۳ همت
-Daily_Positive_Negative: -0.69%
-Weekly_Positive_Negative: -3.03%
+Price_USD: $43.50
+Price_Toman: ۶,۰۳۱,۶۰۹ ت
+Total_Market_USD: $545M
+Total_Market_Toman: ۷۵.۷ همت
+Daily_Market_USD: $74.7M
+Daily_Market_Toman: ۱۰.۴ همت
+Daily_Positive_Negative: +1.66%
+Weekly_Positive_Negative: -3.24%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/dash/32x32.png
 ***
 ***
@@ -1246,14 +1246,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dash/32x32.png
 Rank: 84
 Name: First Digital USD
 Slug: FDUSD
-Price_USD: $0.9988
-Price_Toman: ۱۳۸,۱۲۷ ت
-Total_Market_USD: $505M
-Total_Market_Toman: ۶۹.۹ همت
-Daily_Market_USD: $2.42B
-Daily_Market_Toman: ۳۳۴ همت
-Daily_Positive_Negative: -0.03%
-Weekly_Positive_Negative: +0.07%
+Price_USD: $0.9986
+Price_Toman: ۱۳۸,۴۵۸ ت
+Total_Market_USD: $506M
+Total_Market_Toman: ۷۰.۱ همت
+Daily_Market_USD: $2.46B
+Daily_Market_Toman: ۳۴۰ همت
+Daily_Positive_Negative: -0.04%
+Weekly_Positive_Negative: +0.03%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/first-digital-usd/32x32.png
 ***
 ***
@@ -1261,14 +1261,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/first-digital-usd/32x32.png
 Rank: 85
 Name: Lido DAO
 Slug: LDO
-Price_USD: $0.6274
-Price_Toman: ۸۶,۷۶۶ ت
-Total_Market_USD: $531M
-Total_Market_Toman: ۷۳.۴ همت
-Daily_Market_USD: $37.7M
-Daily_Market_Toman: ۵.۲۱ همت
-Daily_Positive_Negative: +3.13%
-Weekly_Positive_Negative: +8.06%
+Price_USD: $0.6358
+Price_Toman: ۸۸,۱۵۲ ت
+Total_Market_USD: $538M
+Total_Market_Toman: ۷۴.۷ همت
+Daily_Market_USD: $41.2M
+Daily_Market_Toman: ۵.۷۱ همت
+Daily_Positive_Negative: +4.67%
+Weekly_Positive_Negative: +8.58%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/lido-dao/32x32.png
 ***
 ***
@@ -1276,14 +1276,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/lido-dao/32x32.png
 Rank: 86
 Name: Immutable
 Slug: IMX
-Price_USD: $0.2821
-Price_Toman: ۳۹,۱۲۲ ت
-Total_Market_USD: $550M
-Total_Market_Toman: ۷۶.۰ همت
-Daily_Market_USD: $26.1M
-Daily_Market_Toman: ۳.۶۱ همت
-Daily_Positive_Negative: +6.02%
-Weekly_Positive_Negative: +17.4
+Price_USD: $0.2814
+Price_Toman: ۳۹,۰۲۰ ت
+Total_Market_USD: $560M
+Total_Market_Toman: ۷۷.۶ همت
+Daily_Market_USD: $27.0M
+Daily_Market_Toman: ۳.۷۵ همت
+Daily_Positive_Negative: +5.84%
+Weekly_Positive_Negative: +17.1%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/immutable-x/32x32.png
 ***
 ***
@@ -1291,14 +1291,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/immutable-x/32x32.png
 Rank: 87
 Name: Artificial Superintelligence Alliance
 Slug: FET
-Price_USD: $0.2586
-Price_Toman: ۳۵,۷۶۸ ت
-Total_Market_USD: $598M
-Total_Market_Toman: ۸۲.۷ همت
-Daily_Market_USD: $122M
-Daily_Market_Toman: ۱۶.۸ همت
-Daily_Positive_Negative: +12.0%
-Weekly_Positive_Negative: +18.9%
+Price_USD: $0.2594
+Price_Toman: ۳۵,۹۷۱ ت
+Total_Market_USD: $600M
+Total_Market_Toman: ۸۳.۲ همت
+Daily_Market_USD: $130M
+Daily_Market_Toman: ۱۸.۰ همت
+Daily_Positive_Negative: +13.2%
+Weekly_Positive_Negative: +18.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/artificial-superintelligence-alliance/32x32.png
 ***
 ***
@@ -1307,13 +1307,13 @@ Rank: 88
 Name: TrueUSD
 Slug: TUSD
 Price_USD: $0.9980
-Price_Toman: ۱۳۸,۰۱۶ ت
+Price_Toman: ۱۳۸,۳۷۱ ت
 Total_Market_USD: $494M
-Total_Market_Toman: ۶۸.۲ همت
-Daily_Market_USD: $11.1M
-Daily_Market_Toman: ۱.۵۴ همت
-Daily_Positive_Negative: -0.05%
-Weekly_Positive_Negative: -0.03%
+Total_Market_Toman: ۶۸.۵ همت
+Daily_Market_USD: $10.9M
+Daily_Market_Toman: ۱.۵۱ همت
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: -0.07%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/trueusd/32x32.png
 ***
 ***
@@ -1321,14 +1321,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/trueusd/32x32.png
 Rank: 89
 Name: ether.fi
 Slug: ETHFI
-Price_USD: $0.7798
-Price_Toman: ۱۰۷,۸۴۶ ت
-Total_Market_USD: $509M
-Total_Market_Toman: ۷۰.۴ همت
-Daily_Market_USD: $30.6M
-Daily_Market_Toman: ۴.۲۳ همت
-Daily_Positive_Negative: +2.47%
-Weekly_Positive_Negative: +10.7%
+Price_USD: $0.7858
+Price_Toman: ۱۰۸,۹۵۱ ت
+Total_Market_USD: $513M
+Total_Market_Toman: ۷۱.۲ همت
+Daily_Market_USD: $31.4M
+Daily_Market_Toman: ۴.۳۶ همت
+Daily_Positive_Negative: +3.48%
+Weekly_Positive_Negative: +11.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ether-fi-ethfi/32x32.png
 ***
 ***
@@ -1336,14 +1336,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ether-fi-ethfi/32x32.png
 Rank: 90
 Name: Stacks
 Slug: STX
-Price_USD: $0.3300
-Price_Toman: ۴۵,۶۳۷ ت
-Total_Market_USD: $599M
-Total_Market_Toman: ۸۲.۸ همت
-Daily_Market_USD: $49.4M
-Daily_Market_Toman: ۶.۸۲ همت
-Daily_Positive_Negative: +9.82%
-Weekly_Positive_Negative: +24.2%
+Price_USD: $0.3292
+Price_Toman: ۴۵,۶۴۲ ت
+Total_Market_USD: $597M
+Total_Market_Toman: ۸۲.۹ همت
+Daily_Market_USD: $49.0M
+Daily_Market_Toman: ۶.۷۹ همت
+Daily_Positive_Negative: +10.7%
+Weekly_Positive_Negative: +23.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/stacks/32x32.png
 ***
 ***
@@ -1351,14 +1351,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/stacks/32x32.png
 Rank: 91
 Name: SPX6900
 Slug: SPX
-Price_USD: $0.6458
-Price_Toman: ۸۹,۳۰۷ ت
-Total_Market_USD: $601M
-Total_Market_Toman: ۸۳.۱ همت
-Daily_Market_USD: $23.0M
-Daily_Market_Toman: ۳.۱۹ همت
-Daily_Positive_Negative: +18.3%
-Weekly_Positive_Negative: +28.2%
+Price_USD: $0.6494
+Price_Toman: ۹۰,۰۴۵ ت
+Total_Market_USD: $605M
+Total_Market_Toman: ۸۳.۹ همت
+Daily_Market_USD: $24.6M
+Daily_Market_Toman: ۳.۴۱ همت
+Daily_Positive_Negative: +17.8%
+Weekly_Positive_Negative: +27.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/spx6900/32x32.png
 ***
 ***
@@ -1366,14 +1366,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/spx6900/32x32.png
 Rank: 92
 Name: Virtuals Protocol
 Slug: VIRTUAL
-Price_USD: $0.8780
-Price_Toman: ۱۲۱,۴۱۸ ت
-Total_Market_USD: $576M
-Total_Market_Toman: ۷۹.۶ همت
-Daily_Market_USD: $143M
-Daily_Market_Toman: ۱۹.۷ همت
-Daily_Positive_Negative: +6.42%
-Weekly_Positive_Negative: +24.9%
+Price_USD: $0.8995
+Price_Toman: ۱۲۴,۷۱۸ ت
+Total_Market_USD: $590M
+Total_Market_Toman: ۸۱.۹ همت
+Daily_Market_USD: $149M
+Daily_Market_Toman: ۲۰.۶ همت
+Daily_Positive_Negative: +7.82%
+Weekly_Positive_Negative: +27.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/virtual-protocol/32x32.png
 ***
 ***
@@ -1381,14 +1381,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/virtual-protocol/32x32.png
 Rank: 93
 Name: Injective
 Slug: INJ
-Price_USD: $5.072
-Price_Toman: ۷۰۱,۴۲۶ ت
-Total_Market_USD: $507M
-Total_Market_Toman: ۷۰.۰ همت
-Daily_Market_USD: $40.5M
-Daily_Market_Toman: ۵.۶۰ همت
-Daily_Positive_Negative: +3.51%
-Weekly_Positive_Negative: +6.08%
+Price_USD: $5.135
+Price_Toman: ۷۱۱,۹۳۱ ت
+Total_Market_USD: $513M
+Total_Market_Toman: ۷۱.۲ همت
+Daily_Market_USD: $40.6M
+Daily_Market_Toman: ۵.۶۳ همت
+Daily_Positive_Negative: +6.04%
+Weekly_Positive_Negative: +7.28%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/injective/32x32.png
 ***
 ***
@@ -1396,14 +1396,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/injective/32x32.png
 Rank: 94
 Name: DoubleZero
 Slug: 2Z
-Price_USD: $0.1274
-Price_Toman: ۱۷,۶۲۹ ت
-Total_Market_USD: $443M
-Total_Market_Toman: ۶۱.۲ همت
-Daily_Market_USD: $13.1M
-Daily_Market_Toman: ۱.۸۱ همت
-Daily_Positive_Negative: -1.10%
-Weekly_Positive_Negative: +5.90%
+Price_USD: $0.1282
+Price_Toman: ۱۷,۷۷۸ ت
+Total_Market_USD: $445M
+Total_Market_Toman: ۶۱.۷ همت
+Daily_Market_USD: $12.2M
+Daily_Market_Toman: ۱.۶۹ همت
+Daily_Positive_Negative: +0.07%
+Weekly_Positive_Negative: +6.96%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/doublezero/32x32.png
 ***
 ***
@@ -1411,14 +1411,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/doublezero/32x32.png
 Rank: 95
 Name: Celestia
 Slug: TIA
-Price_USD: $0.5719
-Price_Toman: ۷۹,۳۰۶ ت
-Total_Market_USD: $478M
-Total_Market_Toman: ۶۶.۱ همت
-Daily_Market_USD: $47.2M
-Daily_Market_Toman: ۶.۵۳ همت
-Daily_Positive_Negative: +9.00%
-Weekly_Positive_Negative: +20.2
+Price_USD: $0.5675
+Price_Toman: ۷۸,۶۸۵ ت
+Total_Market_USD: $490M
+Total_Market_Toman: ۶۷.۹ همت
+Daily_Market_USD: $49.4M
+Daily_Market_Toman: ۶.۸۵ همت
+Daily_Positive_Negative: +8.37%
+Weekly_Positive_Negative: +19.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/celestia/32x32.png
 ***
 ***
@@ -1426,14 +1426,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/celestia/32x32.png
 Rank: 96
 Name: Aerodrome Finance
 Slug: AERO
-Price_USD: $0.5785
-Price_Toman: ۸۰,۰۱۱ ت
-Total_Market_USD: $527M
-Total_Market_Toman: ۷۲.۹ همت
-Daily_Market_USD: $43.2M
-Daily_Market_Toman: ۵.۹۸ همت
-Daily_Positive_Negative: +8.19%
-Weekly_Positive_Negative: +22.3%
+Price_USD: $0.5775
+Price_Toman: ۸۰,۰۷۵ ت
+Total_Market_USD: $526M
+Total_Market_Toman: ۷۳.۰ همت
+Daily_Market_USD: $40.7M
+Daily_Market_Toman: ۵.۶۵ همت
+Daily_Positive_Negative: +4.27%
+Weekly_Positive_Negative: +22.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aerodrome-finance/32x32.png
 ***
 ***
@@ -1441,14 +1441,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/aerodrome-finance/32x32.png
 Rank: 97
 Name: Maple Finance
 Slug: SYRUP
-Price_USD: $0.3628
-Price_Toman: ۵۰,۱۷۷ ت
-Total_Market_USD: $417M
-Total_Market_Toman: ۵۷.۷ همت
-Daily_Market_USD: $15.9M
-Daily_Market_Toman: ۲.۱۹ همت
-Daily_Positive_Negative: +1.08%
-Weekly_Positive_Negative: +10.3%
+Price_USD: $0.3662
+Price_Toman: ۵۰,۷۸۴ ت
+Total_Market_USD: $421M
+Total_Market_Toman: ۵۸.۴ همت
+Daily_Market_USD: $16.1M
+Daily_Market_Toman: ۲.۲۴ همت
+Daily_Positive_Negative: +3.48%
+Weekly_Positive_Negative: +11.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/maple-finance/32x32.png
 ***
 ***
@@ -1456,14 +1456,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/maple-finance/32x32.png
 Rank: 98
 Name: AB
 Slug: AB
-Price_USD: $0.004502
-Price_Toman: ۶۲۲.۶۷ ت
+Price_USD: $0.004499
+Price_Toman: ۶۲۳.۸۲ ت
 Total_Market_USD: $426M
-Total_Market_Toman: ۵۸.۹ همت
-Daily_Market_USD: $7.55M
-Daily_Market_Toman: ۱.۰۴ همت
-Daily_Positive_Negative: -0.30%
-Weekly_Positive_Negative: -1.50%
+Total_Market_Toman: ۵۹.۰ همت
+Daily_Market_USD: $7.29M
+Daily_Market_Toman: ۱.۰۱ همت
+Daily_Positive_Negative: -0.38%
+Weekly_Positive_Negative: -1.58%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/newton/32x32.png
 ***
 ***
@@ -1471,14 +1471,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/newton/32x32.png
 Rank: 99
 Name: Chiliz
 Slug: CHZ
-Price_USD: $0.04467
-Price_Toman: ۶,۱۷۷.۵ ت
-Total_Market_USD: $456M
-Total_Market_Toman: ۶۳.۰ همت
-Daily_Market_USD: $79.7M
-Daily_Market_Toman: ۱۱.۰ همت
-Daily_Positive_Negative: -2.11%
-Weekly_Positive_Negative: +22.9%
+Price_USD: $0.04504
+Price_Toman: ۶,۲۴۵.۴ ت
+Total_Market_USD: $459M
+Total_Market_Toman: ۶۳.۷ همت
+Daily_Market_USD: $71.7M
+Daily_Market_Toman: ۹.۹۴ همت
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: +23.1%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/chiliz/32x32.png
 ***
 ***
@@ -1486,14 +1486,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/chiliz/32x32.png
 Rank: 100
 Name: FLOKI
 Slug: FLOKI
-Price_USD: $0.0₄5752
-Price_Toman: ۷.۹۵۵ ت
-Total_Market_USD: $549M
-Total_Market_Toman: ۷۵.۹ همت
-Daily_Market_USD: $199M
-Daily_Market_Toman: ۲۷.۵ همت
-Daily_Positive_Negative: +21.2%
-Weekly_Positive_Negative: +42.0%
+Price_USD: $0.0₄5764
+Price_Toman: ۷.۹۹۲ ت
+Total_Market_USD: $550M
+Total_Market_Toman: ۷۶.۳ همت
+Daily_Market_USD: $214M
+Daily_Market_Toman: ۲۹.۸ همت
+Daily_Positive_Negative: +20.3%
+Weekly_Positive_Negative: +41.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/floki-inu/32x32.png
 ***
 ***
@@ -1516,14 +1516,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/starknet-token/32x32.png
 Rank: 102
 Name: Morpho
 Slug: MORPHO
-Price_USD: $1.170
-Price_Toman: ۱۶۲,۰۶۳ ت
+Price_USD: $1.177
+Price_Toman: ۱۶۲,۹۹۹ ت
 Total_Market_USD: $440M
 Total_Market_Toman: ۶۰.۷ همت
 Daily_Market_USD: $19.0M
 Daily_Market_Toman: ۲.۶۳ همت
-Daily_Positive_Negative: +4.00%
-Weekly_Positive_Negative: -0.41%
+Daily_Positive_Negative: +4.04%
+Weekly_Positive_Negative: +0.1
 Logo: https://cdn.arz.digital/cr-odin/img/assets/morpho/32x32.png
 ***
 ***
@@ -1576,14 +1576,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/conflux-network/32x32.png
 Rank: 106
 Name: BitTorrent [New]
 Slug: BTT
-Price_USD: $0.0₆4180
-Price_Toman: ۰.۰۵۷۹۷ ت
+Price_USD: $0.0₆4192
+Price_Toman: ۰.۰۵۸۰۶ ت
 Total_Market_USD: $413M
 Total_Market_Toman: ۵۷.۰ همت
 Daily_Market_USD: $12.0M
 Daily_Market_Toman: ۱.۶۶ همت
-Daily_Positive_Negative: +3.21%
-Weekly_Positive_Negative: +6.48
+Daily_Positive_Negative: +3.37%
+Weekly_Positive_Negative: +6.79%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bittorrent-new/32x32.png
 ***
 ***
@@ -1591,14 +1591,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bittorrent-new/32x32.png
 Rank: 107
 Name: The Graph
 Slug: GRT
-Price_USD: $0.04074
-Price_Toman: ۵,۶۵۰.۵ ت
+Price_USD: $0.04060
+Price_Toman: ۵,۶۲۳.۳ ت
 Total_Market_USD: $433M
 Total_Market_Toman: ۵۹.۸ همت
 Daily_Market_USD: $33.2M
 Daily_Market_Toman: ۴.۵۹ همت
-Daily_Positive_Negative: +9.71%
-Weekly_Positive_Negative: +7.05
+Daily_Positive_Negative: +7.70%
+Weekly_Positive_Negative: +6.59%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/the-graph/32x32.png
 ***
 ***
@@ -1606,14 +1606,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/the-graph/32x32.png
 Rank: 108
 Name: Trust Wallet Token
 Slug: TWT
-Price_USD: $0.9069
-Price_Toman: ۱۲۵,۷۷۳ ت
+Price_USD: $0.9173
+Price_Toman: ۱۲۷,۰۵۴ ت
 Total_Market_USD: $387M
 Total_Market_Toman: ۵۳.۴ همت
 Daily_Market_USD: $12.3M
 Daily_Market_Toman: ۱.۶۹ همت
-Daily_Positive_Negative: +3.65%
-Weekly_Positive_Negative: +5.27
+Daily_Positive_Negative: +4.29%
+Weekly_Positive_Negative: +6.75
 Logo: https://cdn.arz.digital/cr-odin/img/assets/trust-wallet-token/32x32.png
 ***
 ***
@@ -1621,14 +1621,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/trust-wallet-token/32x32.png
 Rank: 109
 Name: Ethereum Name Service
 Slug: ENS
-Price_USD: $10.38
-Price_Toman: ۱,۴۳۷,۳۱۲ ت
+Price_USD: $10.46
+Price_Toman: ۱,۴۴۸,۹۱۵ ت
 Total_Market_USD: $396M
 Total_Market_Toman: ۵۴.۷ همت
 Daily_Market_USD: $26.0M
 Daily_Market_Toman: ۳.۵۹ همت
-Daily_Positive_Negative: +2.49%
-Weekly_Positive_Negative: +5.49%
+Daily_Positive_Negative: +3.07%
+Weekly_Positive_Negative: +6.61
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum-name-service/32x32.png
 ***
 ***
@@ -1682,13 +1682,13 @@ Rank: 113
 Name: EURC
 Slug: EURC
 Price_USD: $1.171
-Price_Toman: ۱۶۲,۱۷۴ ت
+Price_Toman: ۱۶۲,۱۹۷ ت
 Total_Market_USD: $364M
 Total_Market_Toman: ۵۰.۲ همت
 Daily_Market_USD: $15.8M
 Daily_Market_Toman: ۲.۱۹ همت
-Daily_Positive_Negative: -0.05%
-Weekly_Positive_Negative: -0.58%
+Daily_Positive_Negative: -0.04%
+Weekly_Positive_Negative: -0.59
 Logo: https://cdn.arz.digital/cr-odin/img/assets/euro-coin/32x32.png
 ***
 ***
@@ -1711,14 +1711,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/iota/32x32.png
 Rank: 115
 Name: Pyth Network
 Slug: PYTH
-Price_USD: $0.06721
-Price_Toman: ۹,۳۰۹.۴ ت
+Price_USD: $0.06820
+Price_Toman: ۹,۴۴۶.۰ ت
 Total_Market_USD: $386M
 Total_Market_Toman: ۵۳.۴ همت
 Daily_Market_USD: $16.4M
 Daily_Market_Toman: ۲.۲۶ همت
-Daily_Positive_Negative: +6.25%
-Weekly_Positive_Negative: +9.31%
+Daily_Positive_Negative: +7.14%
+Weekly_Positive_Negative: +11.4
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pyth-network/32x32.png
 ***
 ***
@@ -1726,14 +1726,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pyth-network/32x32.png
 Rank: 116
 Name: Bitcoin SV
 Slug: BSV
-Price_USD: $18.66
-Price_Toman: ۲,۵۸۴,۵۷۵ ت
+Price_USD: $18.74
+Price_Toman: ۲,۵۹۵,۸۴۷ ت
 Total_Market_USD: $372M
 Total_Market_Toman: ۵۱.۵ همت
 Daily_Market_USD: $13.0M
 Daily_Market_Toman: ۱.۷۹ همت
-Daily_Positive_Negative: +0.56%
-Weekly_Positive_Negative: +2.62%
+Daily_Positive_Negative: +1.84%
+Weekly_Positive_Negative: +3.23
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitcoin-sv/32x32.png
 ***
 ***
@@ -1801,14 +1801,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pendle/32x32.png
 Rank: 121
 Name: Basic Attention Token
 Slug: BAT
-Price_USD: $0.2196
-Price_Toman: ۳۰,۴۱۶ ت
+Price_USD: $0.2237
+Price_Toman: ۳۰,۹۸۸ ت
 Total_Market_USD: $328M
 Total_Market_Toman: ۴۵.۴ همت
 Daily_Market_USD: $10.8M
 Daily_Market_Toman: ۱.۵۰ همت
-Daily_Positive_Negative: -0.22%
-Weekly_Positive_Negative: -1.04%
+Daily_Positive_Negative: +1.64%
+Weekly_Positive_Negative: +0.83
 Logo: https://cdn.arz.digital/cr-odin/img/assets/basic-attention-token/32x32.png
 ***
 ***
@@ -1966,14 +1966,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/jasmy/32x32.png
 Rank: 132
 Name: Fartcoin
 Slug: FARTCOIN
-Price_USD: $0.3737
-Price_Toman: ۵۱,۸۳۴ ت
+Price_USD: $0.3676
+Price_Toman: ۵۰,۹۱۵ ت
 Total_Market_USD: $368M
 Total_Market_Toman: ۵۰.۸ همت
 Daily_Market_USD: $99.6M
 Daily_Market_Toman: ۱۳.۸ همت
-Daily_Positive_Negative: +13.4%
-Weekly_Positive_Negative: +19.6
+Daily_Positive_Negative: +10.2%
+Weekly_Positive_Negative: +17.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/fartcoin/32x32.png
 ***
 ***
@@ -2026,14 +2026,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dexe/32x32.png
 Rank: 136
 Name: Vaulta
 Slug: A
-Price_USD: $0.1766
-Price_Toman: ۲۴,۴۹۸ ت
+Price_USD: $0.1758
+Price_Toman: ۲۴,۳۵۵ ت
 Total_Market_USD: $284M
 Total_Market_Toman: ۳۹.۲ همت
 Daily_Market_USD: $20.3M
 Daily_Market_Toman: ۲.۸۰ همت
-Daily_Positive_Negative: +3.39%
-Weekly_Positive_Negative: +11.1
+Daily_Positive_Negative: +2.64%
+Weekly_Positive_Negative: +10.2%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/vaulta/32x32.png
 ***
 ***
@@ -2086,14 +2086,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/neo/32x32.png
 Rank: 140
 Name: Monad
 Slug: MON
-Price_USD: $0.02895
-Price_Toman: ۴,۰۱۵.۶ ت
+Price_USD: $0.02853
+Price_Toman: ۳,۹۵۲.۶ ت
 Total_Market_USD: $309M
 Total_Market_Toman: ۴۲.۷ همت
 Daily_Market_USD: $130M
 Daily_Market_Toman: ۱۷.۹ همت
-Daily_Positive_Negative: -2.41%
-Weekly_Positive_Negative: +30.3
+Daily_Positive_Negative: -2.48%
+Weekly_Positive_Negative: +28.9%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/monad/32x32.png
 ***
 ***
@@ -2116,14 +2116,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/decentraland/32x32.png
 Rank: 142
 Name: Compound
 Slug: COMP
-Price_USD: $26.59
-Price_Toman: ۳,۶۸۷,۴۷۳ ت
+Price_USD: $26.67
+Price_Toman: ۳,۶۹۴,۱۲۹ ت
 Total_Market_USD: $266M
 Total_Market_Toman: ۳۶.۷ همت
 Daily_Market_USD: $15.5M
 Daily_Market_Toman: ۲.۱۴ همت
-Daily_Positive_Negative: +2.66%
-Weekly_Positive_Negative: +0.71
+Daily_Positive_Negative: +2.57%
+Weekly_Positive_Negative: +1.25
 Logo: https://cdn.arz.digital/cr-odin/img/assets/compound/32x32.png
 ***
 ***
@@ -2131,14 +2131,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/compound/32x32.png
 Rank: 143
 Name: Zebec Network
 Slug: ZBCN
-Price_USD: $0.002573
-Price_Toman: ۳۵۶.۸۰ ت
+Price_USD: $0.002582
+Price_Toman: ۳۵۷.۷۳ ت
 Total_Market_USD: $250M
 Total_Market_Toman: ۳۴.۶ همت
 Daily_Market_USD: $6.14M
 Daily_Market_Toman: ۸۴۸ میلیارد ت
-Daily_Positive_Negative: +0.70%
-Weekly_Positive_Negative: +2.4
+Daily_Positive_Negative: +2.20%
+Weekly_Positive_Negative: +2.78%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zebec-network/32x32.png
 ***
 ***
@@ -2146,14 +2146,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zebec-network/32x32.png
 Rank: 144
 Name: Arweave
 Slug: AR
-Price_USD: $3.996
-Price_Toman: ۵۵۳,۳۸۹ ت
+Price_USD: $4.051
+Price_Toman: ۵۶۱,۰۴۴ ت
 Total_Market_USD: $262M
 Total_Market_Toman: ۳۶.۲ همت
 Daily_Market_USD: $23.2M
 Daily_Market_Toman: ۳.۲۰ همت
-Daily_Positive_Negative: +3.83%
-Weekly_Positive_Negative: +6.86%
+Daily_Positive_Negative: +4.54%
+Weekly_Positive_Negative: +8.62
 Logo: https://cdn.arz.digital/cr-odin/img/assets/arweave/32x32.png
 ***
 ***
@@ -2176,14 +2176,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/sonic/32x32.png
 Rank: 146
 Name: Golem
 Slug: GLM
-Price_USD: $0.2386
-Price_Toman: ۳۳,۰۵۵ ت
+Price_USD: $0.2403
+Price_Toman: ۳۳,۲۸۹ ت
 Total_Market_USD: $239M
 Total_Market_Toman: ۳۳.۰ همت
 Daily_Market_USD: $9.76M
 Daily_Market_Toman: ۱.۳۵ همت
-Daily_Positive_Negative: +2.00%
-Weekly_Positive_Negative: +16.7%
+Daily_Positive_Negative: +1.47%
+Weekly_Positive_Negative: +17.8
 Logo: https://cdn.arz.digital/cr-odin/img/assets/golem-network-tokens/32x32.png
 ***
 ***
@@ -2191,14 +2191,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/golem-network-tokens/32x32.png
 Rank: 147
 Name: OriginTrail
 Slug: TRAC
-Price_USD: $0.4308
-Price_Toman: ۵۹,۶۴۰ ت
+Price_USD: $0.4264
+Price_Toman: ۵۹,۰۶۴ ت
 Total_Market_USD: $215M
 Total_Market_Toman: ۲۹.۸ همت
 Daily_Market_USD: $2.71M
 Daily_Market_Toman: ۳۷۴ میلیارد ت
-Daily_Positive_Negative: -1.55%
-Weekly_Positive_Negative: +8.85%
+Daily_Positive_Negative: -2.55%
+Weekly_Positive_Negative: +7.97
 Logo: https://cdn.arz.digital/cr-odin/img/assets/origintrail/32x32.png
 ***
 ***
@@ -2251,14 +2251,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/1inch/32x32.png
 Rank: 151
 Name: 0G
 Slug: 0G
-Price_USD: $0.9794
-Price_Toman: ۱۳۵,۴۵۲ ت
-Total_Market_USD: $208M
-Total_Market_Toman: ۲۸.۹ همت
-Daily_Market_USD: $25.6M
+Price_USD: $0.9810
+Price_Toman: ۱۳۶,۰۱۸ ت
+Total_Market_USD: $209M
+Total_Market_Toman: ۲۹.۰ همت
+Daily_Market_USD: $25.4M
 Daily_Market_Toman: ۳.۵۳ همت
-Daily_Positive_Negative: -1.75%
-Weekly_Positive_Negative: +1.31%
+Daily_Positive_Negative: -0.76%
+Weekly_Positive_Negative: -0.08%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zero-gravity/32x32.png
 ***
 ***
@@ -2266,14 +2266,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zero-gravity/32x32.png
 Rank: 152
 Name: Fluid
 Slug: FLUID
-Price_USD: $3.046
-Price_Toman: ۴۲۱,۲۷۱ ت
-Total_Market_USD: $235M
-Total_Market_Toman: ۳۲.۵ همت
-Daily_Market_USD: $12.9M
-Daily_Market_Toman: ۱.۷۸ همت
-Daily_Positive_Negative: -5.55%
-Weekly_Positive_Negative: +18.9%
+Price_USD: $3.061
+Price_Toman: ۴۲۳,۸۸۰ ت
+Total_Market_USD: $236M
+Total_Market_Toman: ۳۲.۷ همت
+Daily_Market_USD: $11.3M
+Daily_Market_Toman: ۱.۵۷ همت
+Daily_Positive_Negative: -3.31%
+Weekly_Positive_Negative: +18.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/instadapp/32x32.png
 ***
 ***
@@ -2281,14 +2281,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/instadapp/32x32.png
 Rank: 153
 Name: Falcon Finance
 Slug: FF
-Price_USD: $0.09451
-Price_Toman: ۱۳,۰۷۱ ت
-Total_Market_USD: $221M
-Total_Market_Toman: ۳۰.۶ همت
+Price_USD: $0.09493
+Price_Toman: ۱۳,۱۶۲ ت
+Total_Market_USD: $222M
+Total_Market_Toman: ۳۰.۸ همت
 Daily_Market_USD: $125M
 Daily_Market_Toman: ۱۷.۳ همت
-Daily_Positive_Negative: +0.52%
-Weekly_Positive_Negative: -0.81%
+Daily_Positive_Negative: +1.15%
+Weekly_Positive_Negative: +0.31%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/falcon-finance-ff/32x32.png
 ***
 ***
@@ -2296,14 +2296,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/falcon-finance-ff/32x32.png
 Rank: 154
 Name: Kamino Finance
 Slug: KMNO
-Price_USD: $0.06008
-Price_Toman: ۸,۳۱۰.۰ ت
-Total_Market_USD: $218M
-Total_Market_Toman: ۳۰.۱ همت
-Daily_Market_USD: $9.36M
-Daily_Market_Toman: ۱.۲۹ همت
-Daily_Positive_Negative: -1.55%
-Weekly_Positive_Negative: +15.2%
+Price_USD: $0.06079
+Price_Toman: ۸,۴۲۹.۰ ت
+Total_Market_USD: $220M
+Total_Market_Toman: ۳۰.۶ همت
+Daily_Market_USD: $8.67M
+Daily_Market_Toman: ۱.۲۰ همت
+Daily_Positive_Negative: -0.35%
+Weekly_Positive_Negative: +17.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kamino-finance/32x32.png
 ***
 ***
@@ -2311,14 +2311,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kamino-finance/32x32.png
 Rank: 155
 Name: EigenCloud
 Slug: EIGEN
-Price_USD: $0.4180
-Price_Toman: ۵۷,۸۲۱ ت
-Total_Market_USD: $225M
-Total_Market_Toman: ۳۱.۱ همت
-Daily_Market_USD: $49.5M
-Daily_Market_Toman: ۶.۸۴ همت
-Daily_Positive_Negative: +5.75%
-Weekly_Positive_Negative: +7.06%
+Price_USD: $0.4246
+Price_Toman: ۵۸,۸۷۷ ت
+Total_Market_USD: $229M
+Total_Market_Toman: ۳۱.۷ همت
+Daily_Market_USD: $45.9M
+Daily_Market_Toman: ۶.۳۷ همت
+Daily_Positive_Negative: +4.97%
+Weekly_Positive_Negative: +8.54%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/eigencloud/32x32.png
 ***
 ***
@@ -2326,14 +2326,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/eigencloud/32x32.png
 Rank: 156
 Name: THORChain
 Slug: RUNE
-Price_USD: $0.5883
-Price_Toman: ۸۱,۳۷۳ ت
+Price_USD: $0.5904
+Price_Toman: ۸۱,۸۶۰ ت
 Total_Market_USD: $207M
-Total_Market_Toman: ۲۸.۶ همت
-Daily_Market_USD: $17.3M
-Daily_Market_Toman: ۲.۳۹ همت
-Daily_Positive_Negative: +2.31%
-Weekly_Positive_Negative: +6.12%
+Total_Market_Toman: ۲۸.۸ همت
+Daily_Market_USD: $18.0M
+Daily_Market_Toman: ۲.۵۱ همت
+Daily_Positive_Negative: +2.66%
+Weekly_Positive_Negative: +6.06%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/thorchain/32x32.png
 ***
 ***
@@ -2341,14 +2341,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/thorchain/32x32.png
 Rank: 157
 Name: Walrus
 Slug: WAL
-Price_USD: $0.1342
-Price_Toman: ۱۸,۵۷۱ ت
-Total_Market_USD: $212M
-Total_Market_Toman: ۲۹.۳ همت
-Daily_Market_USD: $7.82M
-Daily_Market_Toman: ۱.۰۸ همت
-Daily_Positive_Negative: -0.08%
-Weekly_Positive_Negative: +9.28%
+Price_USD: $0.1370
+Price_Toman: ۱۹,۰۰۴ ت
+Total_Market_USD: $216M
+Total_Market_Toman: ۳۰.۰ همت
+Daily_Market_USD: $8.14M
+Daily_Market_Toman: ۱.۱۳ همت
+Daily_Positive_Negative: +2.41%
+Weekly_Positive_Negative: +11.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/walrus-xyz/32x32.png
 ***
 ***
@@ -2356,14 +2356,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/walrus-xyz/32x32.png
 Rank: 158
 Name: MX Token
 Slug: MX
-Price_USD: $2.061
-Price_Toman: ۲۸۵,۰۰۸ ت
-Total_Market_USD: $191M
-Total_Market_Toman: ۲۶.۳ همت
-Daily_Market_USD: $9.05M
-Daily_Market_Toman: ۱.۲۵ همت
-Daily_Positive_Negative: +1.27%
-Weekly_Positive_Negative: +0.31%
+Price_USD: $2.060
+Price_Toman: ۲۸۵,۶۱۴ ت
+Total_Market_USD: $190M
+Total_Market_Toman: ۲۶.۴ همت
+Daily_Market_USD: $8.8M
+Daily_Market_Toman: ۱.۲۳ همت
+Daily_Positive_Negative: +0.90%
+Weekly_Positive_Negative: +1.25%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/mx-token/32x32.png
 ***
 ***
@@ -2371,14 +2371,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/mx-token/32x32.png
 Rank: 159
 Name: Cheems (cheems.pet)
 Slug: CHEEMS
-Price_USD: $0.0₅1025
-Price_Toman: ۰.۱۴۱۸ ت
-Total_Market_USD: $192M
-Total_Market_Toman: ۲۶.۶ همت
-Daily_Market_USD: $3.9M
-Daily_Market_Toman: ۵۳۳ میلیارد ت
-Daily_Positive_Negative: +9.60%
-Weekly_Positive_Negative: +3.23%
+Price_USD: $0.0₅1021
+Price_Toman: ۰.۱۴۱۵ ت
+Total_Market_USD: $190M
+Total_Market_Toman: ۲۶.۳ همت
+Daily_Market_USD: $3.94M
+Daily_Market_Toman: ۵۴۷ میلیارد ت
+Daily_Positive_Negative: +8.50%
+Weekly_Positive_Negative: +2.8
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cheems-pet/32x32.png
 ***
 ***
@@ -2386,14 +2386,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cheems-pet/32x32.png
 Rank: 160
 Name: Amp
 Slug: AMP
-Price_USD: $0.002097
-Price_Toman: ۲۹۰.۱۴ ت
+Price_USD: $0.002112
+Price_Toman: ۲۹۲.۶۲ ت
 Total_Market_USD: $177M
-Total_Market_Toman: ۲۴.۴ همت
-Daily_Market_USD: $9.99M
-Daily_Market_Toman: ۱.۳۸ همت
-Daily_Positive_Negative: -0.43%
-Weekly_Positive_Negative: +20.7%
+Total_Market_Toman: ۲۴.۶ همت
+Daily_Market_USD: $10.1M
+Daily_Market_Toman: ۱.۴۰ همت
+Daily_Positive_Negative: +0.98%
+Weekly_Positive_Negative: +21.4
 Logo: https://cdn.arz.digital/cr-odin/img/assets/amp/32x32.png
 ***
 ***
@@ -2401,14 +2401,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/amp/32x32.png
 Rank: 161
 Name: Lombard
 Slug: BARD
-Price_USD: $0.8276
-Price_Toman: ۱۱۴,۷۶۷ ت
-Total_Market_USD: $184M
-Total_Market_Toman: ۲۵.۴ همت
-Daily_Market_USD: $11.1M
-Daily_Market_Toman: ۱.۵۳ همت
-Daily_Positive_Negative: +1.82%
-Weekly_Positive_Negative: +4.24
+Price_USD: $0.8282
+Price_Toman: ۱۱۴,۸۲۷ ت
+Total_Market_USD: $186M
+Total_Market_Toman: ۲۵.۹ همت
+Daily_Market_USD: $10.3M
+Daily_Market_Toman: ۱.۴۲ همت
+Daily_Positive_Negative: +2.09%
+Weekly_Positive_Negative: +4.41%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/lombard/32x32.png
 ***
 ***
@@ -2416,14 +2416,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/lombard/32x32.png
 Rank: 162
 Name: Wormhole
 Slug: W
-Price_USD: $0.03806
-Price_Toman: ۵,۲۶۳.۷ ت
-Total_Market_USD: $197M
-Total_Market_Toman: ۲۷.۳ همت
-Daily_Market_USD: $47.6M
-Daily_Market_Toman: ۶.۵۷ همت
-Daily_Positive_Negative: +4.13%
-Weekly_Positive_Negative: +8.93%
+Price_USD: $0.03901
+Price_Toman: ۵,۴۰۲.۹ ت
+Total_Market_USD: $200M
+Total_Market_Toman: ۲۷.۷ همت
+Daily_Market_USD: $48.6M
+Daily_Market_Toman: ۶.۷۴ همت
+Daily_Positive_Negative: +4.20%
+Weekly_Positive_Negative: +11.6
 Logo: https://cdn.arz.digital/cr-odin/img/assets/wormhole/32x32.png
 ***
 ***
@@ -2431,14 +2431,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/wormhole/32x32.png
 Rank: 163
 Name: Jito
 Slug: JTO
-Price_USD: $0.4774
-Price_Toman: ۶۶,۰۲۸ ت
-Total_Market_USD: $200M
-Total_Market_Toman: ۲۷.۷ همت
-Daily_Market_USD: $25.0M
-Daily_Market_Toman: ۳.۴۵ همت
-Daily_Positive_Negative: +7.14%
-Weekly_Positive_Negative: +21.4%
+Price_USD: $0.4940
+Price_Toman: ۶۸,۴۳۱ ت
+Total_Market_USD: $205M
+Total_Market_Toman: ۲۸.۴ همت
+Daily_Market_USD: $26.5M
+Daily_Market_Toman: ۳.۶۸ همت
+Daily_Positive_Negative: +9.94%
+Weekly_Positive_Negative: +25.1
 Logo: https://cdn.arz.digital/cr-odin/img/assets/jito/32x32.png
 ***
 ***
@@ -2446,14 +2446,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/jito/32x32.png
 Rank: 164
 Name: Audiera
 Slug: BEAT
-Price_USD: $0.7655
-Price_Toman: ۱۰۵,۸۶۹ ت
-Total_Market_USD: $139M
-Total_Market_Toman: ۱۹.۲ همت
-Daily_Market_USD: $42.0M
-Daily_Market_Toman: ۵.۸۲ همت
-Daily_Positive_Negative: -6.44%
-Weekly_Positive_Negative: -63.8%
+Price_USD: $0.8027
+Price_Toman: ۱۱۱,۱۸۵ ت
+Total_Market_USD: $143M
+Total_Market_Toman: ۱۹.۸ همت
+Daily_Market_USD: $39.7M
+Daily_Market_Toman: ۵.۵۱ همت
+Daily_Positive_Negative: -0.74%
+Weekly_Positive_Negative: -62.3
 Logo: https://cdn.arz.digital/cr-odin/img/assets/audiera/32x32.png
 ***
 ***
@@ -2461,14 +2461,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/audiera/32x32.png
 Rank: 165
 Name: MultiversX
 Slug: EGLD
-Price_USD: $6.199
-Price_Toman: ۸۵۷,۲۶۳ ت
-Total_Market_USD: $180M
-Total_Market_Toman: ۲۴.۹ همت
-Daily_Market_USD: $8.47M
-Daily_Market_Toman: ۱.۱۷ همت
-Daily_Positive_Negative: +0.77%
-Weekly_Positive_Negative: -1.43%
+Price_USD: $6.248
+Price_Toman: ۸۶۶,۲۷۲ ت
+Total_Market_USD: $181M
+Total_Market_Toman: ۲۵.۲ همت
+Daily_Market_USD: $8.66M
+Daily_Market_Toman: ۱.۲۰ همت
+Daily_Positive_Negative: +2.22%
+Weekly_Positive_Negative: -0.61%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/multiversx-egld/32x32.png
 ***
 ***
@@ -2476,14 +2476,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/multiversx-egld/32x32.png
 Rank: 166
 Name: Convex Finance
 Slug: CVX
-Price_USD: $2.078
-Price_Toman: ۲۸۷,۴۳۸ ت
-Total_Market_USD: $206M
-Total_Market_Toman: ۲۸.۴ همت
-Daily_Market_USD: $124M
-Daily_Market_Toman: ۱۷.۰ همت
-Daily_Positive_Negative: +21.3%
-Weekly_Positive_Negative: +14.2%
+Price_USD: $2.095
+Price_Toman: ۲۹۰,۱۱۳ ت
+Total_Market_USD: $204M
+Total_Market_Toman: ۲۸.۳ همت
+Daily_Market_USD: $129M
+Daily_Market_Toman: ۱۸.۰ همت
+Daily_Positive_Negative: +19.6%
+Weekly_Positive_Negative: +14.9
 Logo: https://cdn.arz.digital/cr-odin/img/assets/convex-finance/32x32.png
 ***
 ***
@@ -2491,14 +2491,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/convex-finance/32x32.png
 Rank: 167
 Name: Kite
 Slug: KITE
-Price_USD: $0.09410
-Price_Toman: ۱۳,۰۱۴ ت
-Total_Market_USD: $169M
-Total_Market_Toman: ۲۳.۴ همت
-Daily_Market_USD: $26.6M
-Daily_Market_Toman: ۳.۶۸ همت
-Daily_Positive_Negative: +0.96%
-Weekly_Positive_Negative: +0.19%
+Price_USD: $0.09516
+Price_Toman: ۱۳,۱۹۴ ت
+Total_Market_USD: $171M
+Total_Market_Toman: ۲۳.۸ همت
+Daily_Market_USD: $25.8M
+Daily_Market_Toman: ۳.۵۸ همت
+Daily_Positive_Negative: +1.96%
+Weekly_Positive_Negative: +2.74%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kite/32x32.png
 ***
 ***
@@ -2506,14 +2506,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kite/32x32.png
 Rank: 168
 Name: DeepBook Protocol
 Slug: DEEP
-Price_USD: $0.03987
-Price_Toman: ۵,۵۱۴.۰ ت
-Total_Market_USD: $185M
-Total_Market_Toman: ۲۵.۶ همت
-Daily_Market_USD: $16.3M
-Daily_Market_Toman: ۲.۲۵ همت
-Daily_Positive_Negative: +0.87%
-Weekly_Positive_Negative: +13.2%
+Price_USD: $0.03999
+Price_Toman: ۵,۵۴۴.۷ ت
+Total_Market_USD: $186M
+Total_Market_Toman: ۲۵.۸ همت
+Daily_Market_USD: $15.9M
+Daily_Market_Toman: ۲.۲۰ همت
+Daily_Positive_Negative: +0.88%
+Weekly_Positive_Negative: +13.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/deepbook-protocol/32x32.png
 ***
 ***
@@ -2521,14 +2521,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/deepbook-protocol/32x32.png
 Rank: 169
 Name: WEMIX
 Slug: WEMIX
-Price_USD: $0.3644
-Price_Toman: ۵۰,۳۹۵ ت
+Price_USD: $0.3645
+Price_Toman: ۵۰,۵۴۰ ت
 Total_Market_USD: $168M
-Total_Market_Toman: ۲۳.۲ همت
-Daily_Market_USD: $1.40M
-Daily_Market_Toman: ۱۹۳ میلیارد ت
-Daily_Positive_Negative: +0.39%
-Weekly_Positive_Negative: -1.92%
+Total_Market_Toman: ۲۳.۳ همت
+Daily_Market_USD: $1.41M
+Daily_Market_Toman: ۱۹۵ میلیارد ت
+Daily_Positive_Negative: -0.17%
+Weekly_Positive_Negative: -2.65%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/wemix/32x32.png
 ***
 ***
@@ -2536,14 +2536,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/wemix/32x32.png
 Rank: 170
 Name: ZORA
 Slug: ZORA
-Price_USD: $0.04339
-Price_Toman: ۶,۰۰۰.۹ ت
-Total_Market_USD: $194M
-Total_Market_Toman: ۲۶.۸ همت
-Daily_Market_USD: $37.4M
-Daily_Market_Toman: ۵.۱۷ همت
-Daily_Positive_Negative: -0.68%
-Weekly_Positive_Negative: +7.26%
+Price_USD: $0.04358
+Price_Toman: ۶,۰۴۳.۴ ت
+Total_Market_USD: $195M
+Total_Market_Toman: ۲۷.۰ همت
+Daily_Market_USD: $36.4M
+Daily_Market_Toman: ۵.۰۵ همت
+Daily_Positive_Negative: +1.02%
+Weekly_Positive_Negative: +5.70%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zora/32x32.png
 ***
 ***
@@ -2551,14 +2551,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zora/32x32.png
 Rank: 171
 Name: Onyxcoin
 Slug: XCN
-Price_USD: $0.004876
-Price_Toman: ۶۷۴.۴۴ ت
-Total_Market_USD: $179M
-Total_Market_Toman: ۲۴.۷ همت
-Daily_Market_USD: $11.1M
-Daily_Market_Toman: ۱.۵۴ همت
-Daily_Positive_Negative: +8.09%
-Weekly_Positive_Negative: +5.01%
+Price_USD: $0.004867
+Price_Toman: ۶۷۴.۸۲ ت
+Total_Market_USD: $178M
+Total_Market_Toman: ۲۴.۸ همت
+Daily_Market_USD: $11.6M
+Daily_Market_Toman: ۱.۶۱ همت
+Daily_Positive_Negative: +7.45%
+Weekly_Positive_Negative: +4.85%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/onyxcoin/32x32.png
 ***
 ***
@@ -2566,14 +2566,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/onyxcoin/32x32.png
 Rank: 172
 Name: Horizen
 Slug: ZEN
-Price_USD: $9.190
-Price_Toman: ۱,۲۷۰,۹۸۸ ت
-Total_Market_USD: $162M
-Total_Market_Toman: ۲۲.۴ همت
-Daily_Market_USD: $28.2M
-Daily_Market_Toman: ۳.۹۰ همت
-Daily_Positive_Negative: -4.08%
-Weekly_Positive_Negative: +0.76%
+Price_USD: $9.303
+Price_Toman: ۱,۲۸۹,۸۴۰ ت
+Total_Market_USD: $164M
+Total_Market_Toman: ۲۲.۸ همت
+Daily_Market_USD: $27.6M
+Daily_Market_Toman: ۳.۸۲ همت
+Daily_Positive_Negative: -1.22%
+Weekly_Positive_Negative: -2.66%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/horizen/32x32.png
 ***
 ***
@@ -2581,14 +2581,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/horizen/32x32.png
 Rank: 173
 Name: SafePal
 Slug: SFP
-Price_USD: $0.3449
-Price_Toman: ۴۷,۷۰۴ ت
-Total_Market_USD: $172M
-Total_Market_Toman: ۲۳.۸ همت
-Daily_Market_USD: $2.38M
-Daily_Market_Toman: ۳۲۹ میلیارد ت
-Daily_Positive_Negative: +1.55%
-Weekly_Positive_Negative: +10.1%
+Price_USD: $0.3499
+Price_Toman: ۴۸,۵۲۰ ت
+Total_Market_USD: $175M
+Total_Market_Toman: ۲۴.۳ همت
+Daily_Market_USD: $2.5M
+Daily_Market_Toman: ۳۵۱ میلیارد ت
+Daily_Positive_Negative: +4.50%
+Weekly_Positive_Negative: +11.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/safepal/32x32.png
 ***
 ***
@@ -2596,14 +2596,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/safepal/32x32.png
 Rank: 174
 Name: Reserve Rights
 Slug: RSR
-Price_USD: $0.002809
-Price_Toman: ۳۸۸.۵۹ ت
-Total_Market_USD: $174M
-Total_Market_Toman: ۲۴.۲ همت
-Daily_Market_USD: $11.3M
-Daily_Market_Toman: ۱.۵۷ همت
-Daily_Positive_Negative: +2.00%
-Weekly_Positive_Negative: +7.35%
+Price_USD: $0.002895
+Price_Toman: ۴۰۱.۰۴ ت
+Total_Market_USD: $179M
+Total_Market_Toman: ۲۴.۸ همت
+Daily_Market_USD: $12.5M
+Daily_Market_Toman: ۱.۷۴ همت
+Daily_Positive_Negative: +5.48%
+Weekly_Positive_Negative: +8.86
 Logo: https://cdn.arz.digital/cr-odin/img/assets/reserve-rights/32x32.png
 ***
 ***
@@ -2611,14 +2611,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/reserve-rights/32x32.png
 Rank: 175
 Name: ApeCoin
 Slug: APE
-Price_USD: $0.2188
-Price_Toman: ۳۰,۲۶۱ ت
-Total_Market_USD: $165M
-Total_Market_Toman: ۲۲.۸ همت
-Daily_Market_USD: $17.3M
-Daily_Market_Toman: ۲.۳۹ همت
-Daily_Positive_Negative: +2.16%
-Weekly_Positive_Negative: +3.11%
+Price_USD: $0.2220
+Price_Toman: ۳۰,۷۹۰ ت
+Total_Market_USD: $167M
+Total_Market_Toman: ۲۳.۲ همت
+Daily_Market_USD: $17.6M
+Daily_Market_Toman: ۲.۴۴ همت
+Daily_Positive_Negative: +4.07%
+Weekly_Positive_Negative: +5.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/apecoin-ape/32x32.png
 ***
 ***
@@ -2626,14 +2626,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/apecoin-ape/32x32.png
 Rank: 176
 Name: Flow
 Slug: FLOW
-Price_USD: $0.1009
-Price_Toman: ۱۳,۹۵۸ ت
-Total_Market_USD: $164M
-Total_Market_Toman: ۲۲.۷ همت
-Daily_Market_USD: $46.7M
-Daily_Market_Toman: ۶.۴۵ همت
-Daily_Positive_Negative: -2.43%
-Weekly_Positive_Negative: -15.3%
+Price_USD: $0.09701
+Price_Toman: ۱۳,۴۵۱ ت
+Total_Market_USD: $158M
+Total_Market_Toman: ۲۱.۹ همت
+Daily_Market_USD: $32.9M
+Daily_Market_Toman: ۴.۵۶ همت
+Daily_Positive_Negative: -9.00%
+Weekly_Positive_Negative: -15.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/flow/32x32.png
 ***
 ***
@@ -2641,14 +2641,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/flow/32x32.png
 Rank: 177
 Name: FTX Token
 Slug: FTT
-Price_USD: $0.5483
-Price_Toman: ۷۵,۸۳۴ ت
+Price_USD: $0.5480
+Price_Toman: ۷۵,۹۹۰ ت
 Total_Market_USD: $180M
-Total_Market_Toman: ۲۴.۹ همت
-Daily_Market_USD: $10.3M
-Daily_Market_Toman: ۱.۴۳ همت
-Daily_Positive_Negative: -2.09%
-Weekly_Positive_Negative: +15.4%
+Total_Market_Toman: ۲۵.۰ همت
+Daily_Market_USD: $9.60M
+Daily_Market_Toman: ۱.۳۳ همت
+Daily_Positive_Negative: -0.76%
+Weekly_Positive_Negative: +12.2%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ftx-token/32x32.png
 ***
 ***
@@ -2656,14 +2656,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ftx-token/32x32.png
 Rank: 178
 Name: Synthetix
 Slug: SNX
-Price_USD: $0.4590
-Price_Toman: ۶۳,۴۸۶ ت
-Total_Market_USD: $158M
-Total_Market_Toman: ۲۱.۸ همت
-Daily_Market_USD: $19.4M
-Daily_Market_Toman: ۲.۶۸ همت
-Daily_Positive_Negative: +1.25%
-Weekly_Positive_Negative: +4.02%
+Price_USD: $0.4697
+Price_Toman: ۶۵,۰۶۵ ت
+Total_Market_USD: $160M
+Total_Market_Toman: ۲۲.۱ همت
+Daily_Market_USD: $20.0M
+Daily_Market_Toman: ۲.۷۸ همت
+Daily_Positive_Negative: +3.87%
+Weekly_Positive_Negative: +5.88
 Logo: https://cdn.arz.digital/cr-odin/img/assets/synthetix/32x32.png
 ***
 ***
@@ -2671,14 +2671,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/synthetix/32x32.png
 Rank: 179
 Name: Prom
 Slug: PROM
-Price_USD: $8.107
-Price_Toman: ۱,۱۲۱,۲۰۴ ت
-Total_Market_USD: $148M
-Total_Market_Toman: ۲۰.۵ همت
-Daily_Market_USD: $5.42M
+Price_USD: $8.084
+Price_Toman: ۱,۱۱۹,۵۹۳ ت
+Total_Market_USD: $147M
+Total_Market_Toman: ۲۰.۴ همت
+Daily_Market_USD: $5.40M
 Daily_Market_Toman: ۷۴۹ میلیارد ت
-Daily_Positive_Negative: +2.19%
-Weekly_Positive_Negative: -5.35%
+Daily_Positive_Negative: +2.99%
+Weekly_Positive_Negative: -6
 Logo: https://cdn.arz.digital/cr-odin/img/assets/prom/32x32.png
 ***
 ***
@@ -2686,14 +2686,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/prom/32x32.png
 Rank: 180
 Name: dYdX
 Slug: DYDX
-Price_USD: $0.1963
-Price_Toman: ۲۷,۱۶۰ ت
-Total_Market_USD: $161M
-Total_Market_Toman: ۲۲.۲ همت
-Daily_Market_USD: $5.39M
-Daily_Market_Toman: ۷۴۵ میلیارد ت
-Daily_Positive_Negative: +2.45%
-Weekly_Positive_Negative: +12.5%
+Price_USD: $0.1982
+Price_Toman: ۲۷,۴۸۴ ت
+Total_Market_USD: $162M
+Total_Market_Toman: ۲۲.۵ همت
+Daily_Market_USD: $5.56M
+Daily_Market_Toman: ۷۷۱ میلیارد ت
+Daily_Positive_Negative: +3.67%
+Weekly_Positive_Negative: +13.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/dydx-chain/32x32.png
 ***
 ***
@@ -2701,14 +2701,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dydx-chain/32x32.png
 Rank: 181
 Name: Brett (Based)
 Slug: BRETT
-Price_USD: $0.01800
-Price_Toman: ۲,۴۸۹.۴ ت
-Total_Market_USD: $178M
-Total_Market_Toman: ۲۴.۷ همت
-Daily_Market_USD: $15.0M
-Daily_Market_Toman: ۲.۰۷ همت
-Daily_Positive_Negative: +11.0%
-Weekly_Positive_Negative: +23.9%
+Price_USD: $0.01940
+Price_Toman: ۲,۶۹۱.۰ ت
+Total_Market_USD: $192M
+Total_Market_Toman: ۲۶.۷ همت
+Daily_Market_USD: $17.5M
+Daily_Market_Toman: ۲.۴۲ همت
+Daily_Positive_Negative: +17.9%
+Weekly_Positive_Negative: +33.9%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/based-brett/32x32.png
 ***
 ***
@@ -2716,14 +2716,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/based-brett/32x32.png
 Rank: 182
 Name: Axie Infinity
 Slug: AXS
-Price_USD: $0.9422
-Price_Toman: ۱۳۰,۳۱۲ ت
-Total_Market_USD: $158M
-Total_Market_Toman: ۲۱.۹ همت
-Daily_Market_USD: $15.5M
-Daily_Market_Toman: ۲.۱۵ همت
-Daily_Positive_Negative: +4.42%
-Weekly_Positive_Negative: +7.96%
+Price_USD: $0.9758
+Price_Toman: ۱۳۵,۱۶۱ ت
+Total_Market_USD: $160M
+Total_Market_Toman: ۲۲.۳ همت
+Daily_Market_USD: $16.8M
+Daily_Market_Toman: ۲.۳۳ همت
+Daily_Positive_Negative: +7.90%
+Weekly_Positive_Negative: +11.8
 Logo: https://cdn.arz.digital/cr-odin/img/assets/axie-infinity/32x32.png
 ***
 ***
@@ -2731,14 +2731,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/axie-infinity/32x32.png
 Rank: 183
 Name: Livepeer
 Slug: LPT
-Price_USD: $3.171
-Price_Toman: ۴۳۸,۵۹۲ ت
-Total_Market_USD: $153M
-Total_Market_Toman: ۲۱.۲ همت
-Daily_Market_USD: $19.3M
-Daily_Market_Toman: ۲.۶۶ همت
-Daily_Positive_Negative: +2.39%
-Weekly_Positive_Negative: +7.65%
+Price_USD: $3.219
+Price_Toman: ۴۴۶,۳۵۵ ت
+Total_Market_USD: $156M
+Total_Market_Toman: ۲۱.۶ همت
+Daily_Market_USD: $20.0M
+Daily_Market_Toman: ۲.۷۸ همت
+Daily_Positive_Negative: +4.25%
+Weekly_Positive_Negative: +9.41%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/livepeer/32x32.png
 ***
 ***
@@ -2746,14 +2746,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/livepeer/32x32.png
 Rank: 184
 Name: Aethir
 Slug: ATH
-Price_USD: $0.01046
-Price_Toman: ۱,۴۴۶.۷ ت
-Total_Market_USD: $165M
-Total_Market_Toman: ۲۲.۷ همت
-Daily_Market_USD: $19.4M
-Daily_Market_Toman: ۲.۶۸ همت
-Daily_Positive_Negative: +6.80%
-Weekly_Positive_Negative: +10.3%
+Price_USD: $0.01052
+Price_Toman: ۱,۴۵۹.۱ ت
+Total_Market_USD: $166M
+Total_Market_Toman: ۲۳.۰ همت
+Daily_Market_USD: $19.7M
+Daily_Market_Toman: ۲.۷۴ همت
+Daily_Positive_Negative: +8.28%
+Weekly_Positive_Negative: +10.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aethir/32x32.png
 ***
 ***
@@ -2761,14 +2761,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/aethir/32x32.png
 Rank: 185
 Name: Qtum
 Slug: QTUM
-Price_USD: $1.388
-Price_Toman: ۱۹۲,۰۱۷ ت
-Total_Market_USD: $147M
-Total_Market_Toman: ۲۰.۳ همت
-Daily_Market_USD: $16.1M
-Daily_Market_Toman: ۲.۲۳ همت
-Daily_Positive_Negative: +1.48%
-Weekly_Positive_Negative: +8.12%
+Price_USD: $1.393
+Price_Toman: ۱۹۳,۱۸۰ ت
+Total_Market_USD: $148M
+Total_Market_Toman: ۲۰.۵ همت
+Daily_Market_USD: $16.0M
+Daily_Market_Toman: ۲.۲۱ همت
+Daily_Positive_Negative: +2.66%
+Weekly_Positive_Negative: +8.32%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/qtum/32x32.png
 ***
 ***
@@ -2776,14 +2776,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/qtum/32x32.png
 Rank: 186
 Name: Beam
 Slug: BEAM
-Price_USD: $0.003008
-Price_Toman: ۴۱۶.۰۸ ت
-Total_Market_USD: $149M
-Total_Market_Toman: ۲۰.۶ همت
-Daily_Market_USD: $4.17M
-Daily_Market_Toman: ۵۷۷ میلیارد ت
-Daily_Positive_Negative: +1.88%
-Weekly_Positive_Negative: +2.94%
+Price_USD: $0.003056
+Price_Toman: ۴۲۳.۷۰ ت
+Total_Market_USD: $151M
+Total_Market_Toman: ۲۱.۰ همت
+Daily_Market_USD: $4.33M
+Daily_Market_Toman: ۶۰۰ میلیارد ت
+Daily_Positive_Negative: +4.49%
+Weekly_Positive_Negative: +3.94%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/onbeam/32x32.png
 ***
 ***
@@ -2791,14 +2791,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/onbeam/32x32.png
 Rank: 187
 Name: BUILDon
 Slug: B
-Price_USD: $0.1961
-Price_Toman: ۲۷,۱۲۷ ت
-Total_Market_USD: $196M
-Total_Market_Toman: ۲۷.۱ همت
-Daily_Market_USD: $30.0M
-Daily_Market_Toman: ۴.۱۵ همت
-Daily_Positive_Negative: -6.50%
-Weekly_Positive_Negative: +23.5%
+Price_USD: $0.2105
+Price_Toman: ۲۹,۱۹۳ ت
+Total_Market_USD: $211M
+Total_Market_Toman: ۲۹.۲ همت
+Daily_Market_USD: $28.3M
+Daily_Market_Toman: ۳.۹۳ همت
+Daily_Positive_Negative: +1.52%
+Weekly_Positive_Negative: +32.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/buildon/32x32.png
 ***
 ***
@@ -2806,14 +2806,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/buildon/32x32.png
 Rank: 188
 Name: SuperVerse
 Slug: SUPER
-Price_USD: $0.2280
-Price_Toman: ۳۱,۶۱۹ ت
-Total_Market_USD: $144M
-Total_Market_Toman: ۱۹.۹ همت
-Daily_Market_USD: $11.9M
-Daily_Market_Toman: ۱.۶۴ همت
-Daily_Positive_Negative: +3.09%
-Weekly_Positive_Negative: +5.11
+Price_USD: $0.2284
+Price_Toman: ۳۱,۶۷۲ ت
+Total_Market_USD: $146M
+Total_Market_Toman: ۲۰.۲ همت
+Daily_Market_USD: $12.5M
+Daily_Market_Toman: ۱.۷۳ همت
+Daily_Positive_Negative: +3.39%
+Weekly_Positive_Negative: +5.29%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/superverse/32x32.png
 ***
 ***
@@ -2821,14 +2821,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/superverse/32x32.png
 Rank: 189
 Name: Four
 Slug: FORM
-Price_USD: $0.3820
-Price_Toman: ۵۲,۸۳۲ ت
-Total_Market_USD: $146M
-Total_Market_Toman: ۲۰.۲ همت
-Daily_Market_USD: $9.39M
-Daily_Market_Toman: ۱.۳۰ همت
-Daily_Positive_Negative: +5.27%
-Weekly_Positive_Negative: +11.7%
+Price_USD: $0.3888
+Price_Toman: ۵۳,۹۰۹ ت
+Total_Market_USD: $148M
+Total_Market_Toman: ۲۰.۶ همت
+Daily_Market_USD: $12.7M
+Daily_Market_Toman: ۱.۷۶ همت
+Daily_Positive_Negative: +8.49%
+Weekly_Positive_Negative: +13.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/binaryx-new/32x32.png
 ***
 ***
@@ -2836,14 +2836,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/binaryx-new/32x32.png
 Rank: 190
 Name: Kusama
 Slug: KSM
-Price_USD: $7.831
-Price_Toman: ۱,۰۸۲,۹۴۱ ت
+Price_USD: $7.893
+Price_Toman: ۱,۰۹۳,۱۹۰ ت
 Total_Market_USD: $138M
-Total_Market_Toman: ۱۹.۰ همت
-Daily_Market_USD: $5.85M
-Daily_Market_Toman: ۸۰۹ میلیارد ت
-Daily_Positive_Negative: +0.84%
-Weekly_Positive_Negative: +7.49%
+Total_Market_Toman: ۱۹.۲ همت
+Daily_Market_USD: $5.89M
+Daily_Market_Toman: ۸۱۷ میلیارد ت
+Daily_Positive_Negative: +1.12%
+Weekly_Positive_Negative: +8.72
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kusama/32x32.png
 ***
 ***
@@ -2851,14 +2851,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kusama/32x32.png
 Rank: 191
 Name: Gas
 Slug: GAS
-Price_USD: $2.076
-Price_Toman: ۲۸۷,۱۴۱ ت
-Total_Market_USD: $134M
-Total_Market_Toman: ۱۸.۷ همت
-Daily_Market_USD: $5.08M
-Daily_Market_Toman: ۷۰۲ میلیارد ت
-Daily_Positive_Negative: +0.18%
-Weekly_Positive_Negative: -3.94%
+Price_USD: $2.091
+Price_Toman: ۲۸۹,۹۴۴ ت
+Total_Market_USD: $136M
+Total_Market_Toman: ۱۸.۹ همت
+Daily_Market_USD: $5.16M
+Daily_Market_Toman: ۷۱۶ میلیارد ت
+Daily_Positive_Negative: +1.05%
+Weekly_Positive_Negative: -4.48%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gas/32x32.png
 ***
 ***
@@ -2866,14 +2866,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/gas/32x32.png
 Rank: 192
 Name: Meteora
 Slug: MET
-Price_USD: $0.2760
-Price_Toman: ۳۸,۱۸۲ ت
-Total_Market_USD: $136M
-Total_Market_Toman: ۱۸.۸ همت
-Daily_Market_USD: $15.6M
-Daily_Market_Toman: ۲.۱۵ همت
-Daily_Positive_Negative: -1.02%
-Weekly_Positive_Negative: +7.67%
+Price_USD: $0.2787
+Price_Toman: ۳۸,۶۵۱ ت
+Total_Market_USD: $137M
+Total_Market_Toman: ۱۹.۰ همت
+Daily_Market_USD: $15.8M
+Daily_Market_Toman: ۲.۱۹ همت
+Daily_Positive_Negative: -0.15%
+Weekly_Positive_Negative: +8.54%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/meteora/32x32.png
 ***
 ***
@@ -2881,14 +2881,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/meteora/32x32.png
 Rank: 193
 Name: Theta Fuel
 Slug: TFUEL
-Price_USD: $0.01871
-Price_Toman: ۲,۵۸۸.۰ ت
-Total_Market_USD: $134M
-Total_Market_Toman: ۱۸.۶ همت
-Daily_Market_USD: $1.31M
-Daily_Market_Toman: ۱۸۱ میلیارد ت
-Daily_Positive_Negative: +2.08%
-Weekly_Positive_Negative: +4.66%
+Price_USD: $0.01880
+Price_Toman: ۲,۶۰۴.۰ ت
+Total_Market_USD: $135M
+Total_Market_Toman: ۱۸.۷ همت
+Daily_Market_USD: $1.34M
+Daily_Market_Toman: ۱۸۶ میلیارد ت
+Daily_Positive_Negative: +2.64%
+Weekly_Positive_Negative: +4.53
 Logo: https://cdn.arz.digital/cr-odin/img/assets/theta-fuel/32x32.png
 ***
 ***
@@ -2896,14 +2896,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/theta-fuel/32x32.png
 Rank: 194
 Name: KAITO
 Slug: KAITO
-Price_USD: $0.5467
-Price_Toman: ۷۵,۸۱۷ ت
-Total_Market_USD: $134M
-Total_Market_Toman: ۱۸.۵ همت
-Daily_Market_USD: $19.1M
-Daily_Market_Toman: ۲.۶۴ همت
-Daily_Positive_Negative: -2.12%
-Weekly_Positive_Negative: +1.95
+Price_USD: $0.5453
+Price_Toman: ۷۵,۶۱۷ ت
+Total_Market_USD: $132M
+Total_Market_Toman: ۱۸.۳ همت
+Daily_Market_USD: $21.6M
+Daily_Market_Toman: ۳.۰۰ همت
+Daily_Positive_Negative: -2.50%
+Weekly_Positive_Negative: +1.65%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kaito/32x32.png
 ***
 ***
@@ -2911,14 +2911,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/kaito/32x32.png
 Rank: 195
 Name: Creditcoin
 Slug: CTC
-Price_USD: $0.2702
-Price_Toman: ۳۷,۳۸۱ ت
-Total_Market_USD: $138M
-Total_Market_Toman: ۱۹.۰ همت
-Daily_Market_USD: $4.77M
-Daily_Market_Toman: ۶۵۹ میلیارد ت
-Daily_Positive_Negative: +2.87%
-Weekly_Positive_Negative: +7.02%
+Price_USD: $0.2714
+Price_Toman: ۳۷,۶۳۳ ت
+Total_Market_USD: $139M
+Total_Market_Toman: ۱۹.۲ همت
+Daily_Market_USD: $4.86M
+Daily_Market_Toman: ۶۷۴ میلیارد ت
+Daily_Positive_Negative: +3.46%
+Weekly_Positive_Negative: +7.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/creditcoin/32x32.png
 ***
 ***
@@ -2926,14 +2926,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/creditcoin/32x32.png
 Rank: 196
 Name: Velo
 Slug: VELO
-Price_USD: $0.007839
-Price_Toman: ۱,۰۸۴.۱ ت
-Total_Market_USD: $138M
+Price_USD: $0.007757
+Price_Toman: ۱,۰۷۴.۴ ت
+Total_Market_USD: $137M
 Total_Market_Toman: ۱۹.۰ همت
-Daily_Market_USD: $7.78M
-Daily_Market_Toman: ۱.۰۸ همت
-Daily_Positive_Negative: +5.10%
-Weekly_Positive_Negative: +9.79%
+Daily_Market_USD: $9.1M
+Daily_Market_Toman: ۱.۲۷ همت
+Daily_Positive_Negative: +3.17%
+Weekly_Positive_Negative: +11.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/velo/32x32.png
 ***
 ***
@@ -2941,14 +2941,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/velo/32x32.png
 Rank: 197
 Name: CoW Protocol
 Slug: COW
-Price_USD: $0.2334
-Price_Toman: ۳۲,۲۷۸ ت
-Total_Market_USD: $128M
-Total_Market_Toman: ۱۷.۸ همت
-Daily_Market_USD: $3.18M
-Daily_Market_Toman: ۴۴۰ میلیارد ت
-Daily_Positive_Negative: +0.48%
-Weekly_Positive_Negative: +8.41%
+Price_USD: $0.2364
+Price_Toman: ۳۲,۷۴۵ ت
+Total_Market_USD: $129M
+Total_Market_Toman: ۱۸.۰ همت
+Daily_Market_USD: $3.17M
+Daily_Market_Toman: ۴۳۹ میلیارد ت
+Daily_Positive_Negative: +1.73%
+Weekly_Positive_Negative: +8.83
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cow-protocol/32x32.png
 ***
 ***
@@ -2956,14 +2956,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cow-protocol/32x32.png
 Rank: 198
 Name: Toshi
 Slug: TOSHI
-Price_USD: $0.0003618
-Price_Toman: ۵۰.۰۴ ت
-Total_Market_USD: $152M
-Total_Market_Toman: ۲۱.۰ همت
-Daily_Market_USD: $32.3M
-Daily_Market_Toman: ۴.۴۷ همت
-Daily_Positive_Negative: +15.3%
-Weekly_Positive_Negative: +12.4%
+Price_USD: $0.0003919
+Price_Toman: ۵۴.۲۸ ت
+Total_Market_USD: $154M
+Total_Market_Toman: ۲۱.۴ همت
+Daily_Market_USD: $34.9M
+Daily_Market_Toman: ۴.۸۵ همت
+Daily_Positive_Negative: +24.7%
+Weekly_Positive_Negative: +23.9
 Logo: https://cdn.arz.digital/cr-odin/img/assets/toshithecat/32x32.png
 ***
 ***
@@ -2971,14 +2971,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/toshithecat/32x32.png
 Rank: 199
 Name: Ravencoin
 Slug: RVN
-Price_USD: $0.007808
-Price_Toman: ۱,۰۷۹.۹ ت
-Total_Market_USD: $124M
-Total_Market_Toman: ۱۷.۳ همت
-Daily_Market_USD: $5.07M
-Daily_Market_Toman: ۷۰۱ میلیارد ت
-Daily_Positive_Negative: +2.04%
-Weekly_Positive_Negative: +6.35%
+Price_USD: $0.007891
+Price_Toman: ۱,۰۹۴.۰ ت
+Total_Market_USD: $126M
+Total_Market_Toman: ۱۷.۵ همت
+Daily_Market_USD: $5.14M
+Daily_Market_Toman: ۷۱۲ میلیارد ت
+Daily_Positive_Negative: +3.86%
+Weekly_Positive_Negative: +8.49%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ravencoin/32x32.png
 ***
 ***
@@ -2986,14 +2986,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ravencoin/32x32.png
 Rank: 200
 Name: Turbo
 Slug: TURBO
-Price_USD: $0.002115
-Price_Toman: ۲۹۲.۵۷ ت
-Total_Market_USD: $146M
-Total_Market_Toman: ۲۰.۲ همت
-Daily_Market_USD: $39.7M
-Daily_Market_Toman: ۵.۴۹ همت
-Daily_Positive_Negative: +8.58%
-Weekly_Positive_Negative: +24.2%
+Price_USD: $0.002198
+Price_Toman: ۳۰۴.۴۹ ت
+Total_Market_USD: $148M
+Total_Market_Toman: ۲۰.۶ همت
+Daily_Market_USD: $44.7M
+Daily_Market_Toman: ۶.۲۰ همت
+Daily_Positive_Negative: +10.2%
+Weekly_Positive_Negative: +28.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/turbo/32x32.png
 ***
 ***
@@ -3001,14 +3001,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/turbo/32x32.png
 Rank: 201
 Name: Rain
 Slug: RAIN
-Price_USD: $0.007967
-Price_Toman: ۱,۱۰۴.۸ ت
+Price_USD: $0.007991
+Price_Toman: ۱,۱۰۲.۹ ت
 Total_Market_USD: $2.71B
 Total_Market_Toman: ۳۷۴ همت
 Daily_Market_USD: $62.3M
 Daily_Market_Toman: ۸.۵۹ همت
-Daily_Positive_Negative: -0.59%
-Weekly_Positive_Negative: -1.06
+Daily_Positive_Negative: -0.26%
+Weekly_Positive_Negative: -0.48%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/rain/32x32.png
 ***
 ***
@@ -3016,14 +3016,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/rain/32x32.png
 Rank: 202
 Name: Falcon USD
 Slug: USDf
-Price_USD: $0.9970
-Price_Toman: ۱۳۸,۲۵۵ ت
+Price_USD: $0.9985
+Price_Toman: ۱۳۸,۲۹۸ ت
 Total_Market_USD: $2.05B
 Total_Market_Toman: ۲۸۲ همت
 Daily_Market_USD: $279K
 Daily_Market_Toman: ۳۸.۵ میلیارد ت
-Daily_Positive_Negative: -0.09%
-Weekly_Positive_Negative: -0.09
+Daily_Positive_Negative: +0.08%
+Weekly_Positive_Negative: +0.11
 Logo: https://cdn.arz.digital/cr-odin/img/assets/falcon-finance/32x32.png
 ***
 ***
@@ -3031,14 +3031,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/falcon-finance/32x32.png
 Rank: 203
 Name: Jupiter Perps LP
 Slug: JLP
-Price_USD: $4.712
-Price_Toman: ۶۵۳,۵۱۵ ت
+Price_USD: $4.714
+Price_Toman: ۶۵۰,۶۹۸ ت
 Total_Market_USD: $1.55B
 Total_Market_Toman: ۲۱۳ همت
 Daily_Market_USD: $12.2M
 Daily_Market_Toman: ۱.۶۸ همت
-Daily_Positive_Negative: +1.17%
-Weekly_Positive_Negative: +4.35
+Daily_Positive_Negative: +1.37%
+Weekly_Positive_Negative: +4.39%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/jupiter-perps-lp/32x32.png
 ***
 ***
@@ -3046,14 +3046,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/jupiter-perps-lp/32x32.png
 Rank: 204
 Name: Beldex
 Slug: BDX
-Price_USD: $0.09125
-Price_Toman: ۱۲,۶۵۵ ت
+Price_USD: $0.09152
+Price_Toman: ۱۲,۶۳۳ ت
 Total_Market_USD: $696M
 Total_Market_Toman: ۹۶.۰ همت
 Daily_Market_USD: $10.6M
 Daily_Market_Toman: ۱.۴۶ همت
-Daily_Positive_Negative: -4.62%
-Weekly_Positive_Negative: -6
+Daily_Positive_Negative: -3.55%
+Weekly_Positive_Negative: -5.67%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/beldex/32x32.png
 ***
 ***
@@ -3077,12 +3077,12 @@ Rank: 206
 Name: Usual USD
 Slug: USD0
 Price_USD: $0.9974
-Price_Toman: ۱۳۸,۳۲۷ ت
+Price_Toman: ۱۳۸,۱۵۲ ت
 Total_Market_USD: $562M
 Total_Market_Toman: ۷۷.۶ همت
 Daily_Market_USD: $792K
 Daily_Market_Toman: ۱۰۹ میلیارد ت
-Daily_Positive_Negative: -0.02%
+Daily_Positive_Negative: -0.01%
 Weekly_Positive_Negative: 0
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usual-usd/32x32.png
 ***
@@ -3091,14 +3091,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/usual-usd/32x32.png
 Rank: 207
 Name: c8ntinuum
 Slug: CTM
-Price_USD: $0.1264
-Price_Toman: ۱۷,۵۳۵ ت
+Price_USD: $0.1270
+Price_Toman: ۱۷,۵۹۱ ت
 Total_Market_USD: $554M
 Total_Market_Toman: ۷۶.۵ همت
 Daily_Market_USD: $941K
 Daily_Market_Toman: ۱۳۰ میلیارد ت
-Daily_Positive_Negative: -0.62%
-Weekly_Positive_Negative: +3.5
+Daily_Positive_Negative: -0.20%
+Weekly_Positive_Negative: +3.99
 Logo: https://cdn.arz.digital/cr-odin/img/assets/c8ntinuum/32x32.png
 ***
 ***
@@ -3121,14 +3121,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/usdai/32x32.png
 Rank: 209
 Name: GHO
 Slug: GHO
-Price_USD: $0.9992
-Price_Toman: ۱۳۸,۵۷۵ ت
+Price_USD: $0.9993
+Price_Toman: ۱۳۸,۴۰۶ ت
 Total_Market_USD: $495M
 Total_Market_Toman: ۶۸.۳ همت
 Daily_Market_USD: $628K
 Daily_Market_Toman: ۸۶.۶ میلیارد ت
 Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.01
+Weekly_Positive_Negative: +0.02
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gho/32x32.png
 ***
 ***
@@ -3167,13 +3167,13 @@ Rank: 212
 Name: Legacy Frax Dollar
 Slug: FRAX
 Price_USD: $0.9925
-Price_Toman: ۱۳۷,۶۴۷ ت
+Price_Toman: ۱۳۶,۹۹۵ ت
 Total_Market_USD: $278M
 Total_Market_Toman: ۳۸.۴ همت
 Daily_Market_USD: $119K
 Daily_Market_Toman: ۱۶.۴ میلیارد ت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.16
+Daily_Positive_Negative: -0.00%
+Weekly_Positive_Negative: +0.11%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/frax/32x32.png
 ***
 ***
@@ -3181,14 +3181,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/frax/32x32.png
 Rank: 213
 Name: SwissBorg
 Slug: BORG
-Price_USD: $0.2613
-Price_Toman: ۳۶,۲۴۲ ت
+Price_USD: $0.2621
+Price_Toman: ۳۶,۱۷۶ ت
 Total_Market_USD: $257M
 Total_Market_Toman: ۳۵.۵ همت
 Daily_Market_USD: $455K
 Daily_Market_Toman: ۶۲.۷ میلیارد ت
-Daily_Positive_Negative: +2.99%
-Weekly_Positive_Negative: -1.29
+Daily_Positive_Negative: +3.42%
+Weekly_Positive_Negative: -1.59%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/swissborg/32x32.png
 ***
 ***
@@ -3211,14 +3211,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zeebu/32x32.png
 Rank: 215
 Name: Ape and Pepe
 Slug: APEPE
-Price_USD: $0.0₅1044
-Price_Toman: ۰.۱۴۴۸ ت
+Price_USD: $0.0₅1047
+Price_Toman: ۰.۱۴۴۵ ت
 Total_Market_USD: $220M
 Total_Market_Toman: ۳۰.۳ همت
 Daily_Market_USD: $12.7M
 Daily_Market_Toman: ۱.۷۶ همت
-Daily_Positive_Negative: +0.88%
-Weekly_Positive_Negative: -4.9
+Daily_Positive_Negative: +1.16%
+Weekly_Positive_Negative: -4.77%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ape-and-pepe/32x32.png
 ***
 ***
@@ -3256,14 +3256,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/loaded-lions/32x32.png
 Rank: 218
 Name: Ultima
 Slug: ULTIMA
-Price_USD: $5,708.7
-Price_Toman: ۷۹۱,۶۶۴,۵۸۷ ت
+Price_USD: $5,657.8
+Price_Toman: ۷۸۰,۸۹۰,۳۳۱ ت
 Total_Market_USD: $212M
 Total_Market_Toman: ۲۹.۲ همت
 Daily_Market_USD: $15.6M
 Daily_Market_Toman: ۲.۱۵ همت
-Daily_Positive_Negative: -0.86%
-Weekly_Positive_Negative: +10.3
+Daily_Positive_Negative: -0.49%
+Weekly_Positive_Negative: +10.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ultima/32x32.png
 ***
 ***
@@ -3271,14 +3271,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ultima/32x32.png
 Rank: 219
 Name: Undeads Games
 Slug: UDS
-Price_USD: $2.644
-Price_Toman: ۳۶۶,۷۱۷ ت
+Price_USD: $2.646
+Price_Toman: ۳۶۵,۱۵۵ ت
 Total_Market_USD: $202M
 Total_Market_Toman: ۲۷.۹ همت
 Daily_Market_USD: $1.45M
 Daily_Market_Toman: ۲۰۰ میلیارد ت
-Daily_Positive_Negative: -1.02%
-Weekly_Positive_Negative: +12.7
+Daily_Positive_Negative: -0.98%
+Weekly_Positive_Negative: +13.3%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/undeads-games/32x32.png
 ***
 ***
@@ -3286,14 +3286,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/undeads-games/32x32.png
 Rank: 220
 Name: AUSD
 Slug: AUSD
-Price_USD: $0.9996
-Price_Toman: ۱۳۸,۶۳۵ ت
+Price_USD: $0.9997
+Price_Toman: ۱۳۷,۹۸۵ ت
 Total_Market_USD: $203M
 Total_Market_Toman: ۲۸.۰ همت
 Daily_Market_USD: $30.0M
 Daily_Market_Toman: ۴.۱۵ همت
-Daily_Positive_Negative: -0.03%
-Weekly_Positive_Negative: +0.02
+Daily_Positive_Negative: -0.04%
+Weekly_Positive_Negative: +0.00%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/agora-finance/32x32.png
 ***
 ***
@@ -3301,14 +3301,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/agora-finance/32x32.png
 Rank: 221
 Name: Quantum Resistant Ledger
 Slug: QRL
-Price_USD: $2.629
-Price_Toman: ۳۶۴,۶۱۳ ت
+Price_USD: $2.654
+Price_Toman: ۳۶۶,۳۶۷ ت
 Total_Market_USD: $180M
 Total_Market_Toman: ۲۴.۹ همت
 Daily_Market_USD: $147K
 Daily_Market_Toman: ۲۰.۲ میلیارد ت
-Daily_Positive_Negative: -5.86%
-Weekly_Positive_Negative: -4.81
+Daily_Positive_Negative: -4.47%
+Weekly_Positive_Negative: -5.37%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/quantum-resistant-ledger/32x32.png
 ***
 ***
@@ -3316,14 +3316,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/quantum-resistant-ledger/32x32.
 Rank: 222
 Name: GoМining
 Slug: GOMINING
-Price_USD: $0.4529
-Price_Toman: ۶۲,۸۱۸ ت
+Price_USD: $0.4524
+Price_Toman: ۶۲,۴۴۶ ت
 Total_Market_USD: $184M
 Total_Market_Toman: ۲۵.۴ همت
 Daily_Market_USD: $7.88M
 Daily_Market_Toman: ۱.۰۹ همت
-Daily_Positive_Negative: +4.45%
-Weekly_Positive_Negative: +28.9
+Daily_Positive_Negative: +3.78%
+Weekly_Positive_Negative: +28.8%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gomining-token/32x32.png
 ***
 ***
@@ -3346,14 +3346,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/project-ailey/32x32.png
 Rank: 224
 Name: Aster USDF
 Slug: USDF
-Price_USD: $0.9980
-Price_Toman: ۱۳۸,۴۱۳ ت
+Price_USD: $0.9979
+Price_Toman: ۱۳۷,۷۴۴ ت
 Total_Market_USD: $171M
 Total_Market_Toman: ۲۳.۶ همت
 Daily_Market_USD: $89.7K
 Daily_Market_Toman: ۱۲.۴ میلیارد ت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.02
+Daily_Positive_Negative: -0.03%
+Weekly_Positive_Negative: +0.03%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usdf/32x32.png
 ***
 ***
@@ -3392,13 +3392,13 @@ Rank: 227
 Name: StandX DUSD
 Slug: DUSD
 Price_USD: $0.9986
-Price_Toman: ۱۳۸,۴۹۳ ت
+Price_Toman: ۱۳۷,۸۳۲ ت
 Total_Market_USD: $156M
 Total_Market_Toman: ۲۱.۵ همت
 Daily_Market_USD: $10.8M
 Daily_Market_Toman: ۱.۴۹ همت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: 0
+Daily_Positive_Negative: +0.00%
+Weekly_Positive_Negative: +0.02%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/standx-dusd/32x32.png
 ***
 ***
@@ -3406,14 +3406,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/standx-dusd/32x32.png
 Rank: 228
 Name: SoSoValue
 Slug: SOSO
-Price_USD: $0.5523
-Price_Toman: ۷۶,۵۹۹ ت
+Price_USD: $0.5539
+Price_Toman: ۷۶,۴۵۸ ت
 Total_Market_USD: $152M
 Total_Market_Toman: ۲۱.۰ همت
 Daily_Market_USD: $6.25M
 Daily_Market_Toman: ۸۶۲ میلیارد ت
-Daily_Positive_Negative: -1.00%
-Weekly_Positive_Negative: -1.36
+Daily_Positive_Negative: -1.29%
+Weekly_Positive_Negative: -0.98%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/sosovalue/32x32.png
 ***
 ***
@@ -3421,14 +3421,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/sosovalue/32x32.png
 Rank: 229
 Name: GUSD
 Slug: GUSD
-Price_USD: $0.9987
-Price_Toman: ۱۳۸,۴۹۶ ت
+Price_USD: $0.9988
+Price_Toman: ۱۳۸,۳۴۵ ت
 Total_Market_USD: $149M
 Total_Market_Toman: ۲۰.۶ همت
 Daily_Market_USD: $236K
 Daily_Market_Toman: ۳۲.۵ میلیارد ت
 Daily_Positive_Negative: -0.02%
-Weekly_Positive_Negative: 0
+Weekly_Positive_Negative: +0.03
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gusd/32x32.png
 ***
 ***
@@ -3437,7 +3437,7 @@ Rank: 230
 Name: STASIS EURO
 Slug: EURS
 Price_USD: $1.165
-Price_Toman: ۱۶۱,۵۷۰ ت
+Price_Toman: ۱۶۱,۳۷۲ ت
 Total_Market_USD: $144M
 Total_Market_Toman: ۱۹.۹ همت
 Daily_Market_USD: $7.36K
@@ -3451,14 +3451,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/stasis-euro/32x32.png
 Rank: 231
 Name: Zano
 Slug: ZANO
-Price_USD: $9.389
-Price_Toman: ۱,۳۰۲,۰۲۵ ت
+Price_USD: $9.437
+Price_Toman: ۱,۳۰۲,۵۳۰ ت
 Total_Market_USD: $141M
 Total_Market_Toman: ۱۹.۵ همت
 Daily_Market_USD: $1.57M
 Daily_Market_Toman: ۲۱۷ میلیارد ت
-Daily_Positive_Negative: -0.27%
-Weekly_Positive_Negative: -11.5
+Daily_Positive_Negative: -1.04%
+Weekly_Positive_Negative: -10.9%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zano/32x32.png
 ***
 ***
@@ -3466,14 +3466,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zano/32x32.png
 Rank: 232
 Name: SLT
 Slug: SLT
-Price_USD: $14.75
-Price_Toman: ۲,۰۴۵,۹۴۱ ت
+Price_USD: $14.77
+Price_Toman: ۲,۰۳۸,۸۱۷ ت
 Total_Market_USD: $126M
 Total_Market_Toman: ۱۷.۳ همت
 Daily_Market_USD: $86.3K
 Daily_Market_Toman: ۱۱.۹ میلیارد ت
-Daily_Positive_Negative: +1.81%
-Weekly_Positive_Negative: +2.92
+Daily_Positive_Negative: +1.91%
+Weekly_Positive_Negative: +3.06%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/slt-game/32x32.png
 ***
 ***
@@ -3481,14 +3481,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/slt-game/32x32.png
 Rank: 233
 Name: Rollbit Coin
 Slug: RLB
-Price_USD: $0.07184
-Price_Toman: ۹,۹۶۲.۸ ت
+Price_USD: $0.07166
+Price_Toman: ۹,۸۹۱.۴ ت
 Total_Market_USD: $128M
 Total_Market_Toman: ۱۷.۷ همت
 Daily_Market_USD: $149K
 Daily_Market_Toman: ۲۰.۷ میلیارد ت
-Daily_Positive_Negative: +0.64%
-Weekly_Positive_Negative: +6.7
+Daily_Positive_Negative: +0.11%
+Weekly_Positive_Negative: +7.61%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/rollbit-coin/32x32.png
 ***
 ***
@@ -3526,14 +3526,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/concordium/32x32.png
 Rank: 236
 Name: Nervos Network
 Slug: CKB
-Price_USD: $0.002780
-Price_Toman: ۳۸۵.۵۸ ت
+Price_USD: $0.002796
+Price_Toman: ۳۸۷.۲۹ ت
 Total_Market_USD: $133M
 Total_Market_Toman: ۱۸.۴ همت
 Daily_Market_USD: $6.4M
 Daily_Market_Toman: ۸۸۶ میلیارد ت
-Daily_Positive_Negative: +5.24%
-Weekly_Positive_Negative: +11.2
+Daily_Positive_Negative: +5.06%
+Weekly_Positive_Negative: +12.4
 Logo: https://cdn.arz.digital/cr-odin/img/assets/nervos-network/32x32.png
 ***
 ***
@@ -3541,14 +3541,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/nervos-network/32x32.png
 Rank: 237
 Name: 币安人生
 Slug: 币安人生
-Price_USD: $0.1386
-Price_Toman: ۱۹,۲۲۶ ت
+Price_USD: $0.1374
+Price_Toman: ۱۸,۹۷۳ ت
 Total_Market_USD: $137M
 Total_Market_Toman: ۱۹.۰ همت
 Daily_Market_USD: $10.7M
 Daily_Market_Toman: ۱.۴۸ همت
-Daily_Positive_Negative: +10.3%
-Weekly_Positive_Negative: +14.7
+Daily_Positive_Negative: +8.34%
+Weekly_Positive_Negative: +14.2%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bianrensheng/32x32.png
 ***
 ***
@@ -3556,14 +3556,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bianrensheng/32x32.png
 Rank: 238
 Name: 0x Protocol
 Slug: ZRX
-Price_USD: $0.1503
-Price_Toman: ۲۰,۸۴۶ ت
+Price_USD: $0.1517
+Price_Toman: ۲۰,۹۳۹ ت
 Total_Market_USD: $129M
 Total_Market_Toman: ۱۷.۸ همت
 Daily_Market_USD: $47.4M
 Daily_Market_Toman: ۶.۵۳ همت
-Daily_Positive_Negative: +0.16%
-Weekly_Positive_Negative: +20.4
+Daily_Positive_Negative: +5.33%
+Weekly_Positive_Negative: +21.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/0x/32x32.png
 ***
 ***
@@ -3571,14 +3571,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/0x/32x32.png
 Rank: 239
 Name: BitMart Token
 Slug: BMX
-Price_USD: $0.3656
-Price_Toman: ۵۰,۷۱۳ ت
+Price_USD: $0.3654
+Price_Toman: ۵۰,۴۴۴ ت
 Total_Market_USD: $119M
 Total_Market_Toman: ۱۶.۴ همت
 Daily_Market_USD: $6.18M
 Daily_Market_Toman: ۸۵۲ میلیارد ت
-Daily_Positive_Negative: -1.77%
-Weekly_Positive_Negative: -8.75
+Daily_Positive_Negative: -1.83%
+Weekly_Positive_Negative: -8.46%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitmart-token/32x32.png
 ***
 ***
@@ -3586,14 +3586,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bitmart-token/32x32.png
 Rank: 240
 Name: Core
 Slug: CORE
-Price_USD: $0.1256
-Price_Toman: ۱۷,۴۳۱ ت
+Price_USD: $0.1239
+Price_Toman: ۱۷,۱۱۱ ت
 Total_Market_USD: $126M
 Total_Market_Toman: ۱۷.۵ همت
 Daily_Market_USD: $6.62M
 Daily_Market_Toman: ۹۱۴ میلیارد ت
-Daily_Positive_Negative: +4.98%
-Weekly_Positive_Negative: +8.39
+Daily_Positive_Negative: +2.56%
+Weekly_Positive_Negative: +6.72%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/core-dao/32x32.png
 ***
 ***
@@ -3601,14 +3601,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/core-dao/32x32.png
 Rank: 241
 Name: yearn.finance
 Slug: YFI
-Price_USD: $3,705.9
-Price_Toman: ۵۱۳,۸۸۸,۱۱۲ ت
+Price_USD: $3,723.3
+Price_Toman: ۵۱۵,۶۷۴,۳۱۱ ت
 Total_Market_USD: $130M
 Total_Market_Toman: ۱۸.۰ همت
 Daily_Market_USD: $12.9M
 Daily_Market_Toman: ۱.۷۸ همت
-Daily_Positive_Negative: +1.71%
-Weekly_Positive_Negative: +8.37
+Daily_Positive_Negative: +1.77%
+Weekly_Positive_Negative: +9.52
 Logo: https://cdn.arz.digital/cr-odin/img/assets/yearn-finance/32x32.png
 ***
 ***
@@ -3661,14 +3661,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/alchemist-ai/32x32.png
 Rank: 245
 Name: Official Melania Meme
 Slug: MELANIA
-Price_USD: $0.1333
-Price_Toman: ۱۸,۴۸۹ ت
+Price_USD: $0.1339
+Price_Toman: ۱۸,۵۴۸ ت
 Total_Market_USD: $127M
 Total_Market_Toman: ۱۷.۶ همت
 Daily_Market_USD: $16.6M
 Daily_Market_Toman: ۲.۲۹ همت
-Daily_Positive_Negative: +9.00%
-Weekly_Positive_Negative: +14
+Daily_Positive_Negative: +3.00%
+Weekly_Positive_Negative: +15.3
 Logo: https://cdn.arz.digital/cr-odin/img/assets/melania-meme/32x32.png
 ***
 ***
@@ -3676,14 +3676,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/melania-meme/32x32.png
 Rank: 246
 Name: AIOZ Network
 Slug: AIOZ
-Price_USD: $0.1032
-Price_Toman: ۱۴,۳۲۴ ت
+Price_USD: $0.1034
+Price_Toman: ۱۴,۲۷۷ ت
 Total_Market_USD: $127M
 Total_Market_Toman: ۱۷.۵ همت
 Daily_Market_USD: $5.98M
 Daily_Market_Toman: ۸۲۵ میلیارد ت
-Daily_Positive_Negative: +8.53%
-Weekly_Positive_Negative: +7.89
+Daily_Positive_Negative: +8.83%
+Weekly_Positive_Negative: +8.09%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aioz-network/32x32.png
 ***
 ***
@@ -3706,14 +3706,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/soon/32x32.png
 Rank: 248
 Name: DigiByte
 Slug: DGB
-Price_USD: $0.006295
-Price_Toman: ۸۷۳.۰۸ ت
+Price_USD: $0.006259
+Price_Toman: ۸۶۳.۹۵ ت
 Total_Market_USD: $113M
 Total_Market_Toman: ۱۵.۶ همت
 Daily_Market_USD: $1.50M
 Daily_Market_Toman: ۲۰۸ میلیارد ت
-Daily_Positive_Negative: +4.08%
-Weekly_Positive_Negative: +1.81
+Daily_Positive_Negative: +3.56%
+Weekly_Positive_Negative: +0.29%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/digibyte/32x32.png
 ***
 ***
@@ -3721,14 +3721,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/digibyte/32x32.png
 Rank: 249
 Name: AWE
 Slug: AWE
-Price_USD: $0.05726
-Price_Toman: ۷,۹۴۰.۴ ت
+Price_USD: $0.05744
+Price_Toman: ۷,۹۵۵.۸ ت
 Total_Market_USD: $111M
 Total_Market_Toman: ۱۵.۴ همت
 Daily_Market_USD: $4.70M
 Daily_Market_Toman: ۶۴۸ میلیارد ت
-Daily_Positive_Negative: +0.58%
-Weekly_Positive_Negative: +2.31
+Daily_Positive_Negative: +0.78%
+Weekly_Positive_Negative: +3.16
 Logo: https://cdn.arz.digital/cr-odin/img/assets/awe-network/32x32.png
 ***
 ***
@@ -3736,14 +3736,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/awe-network/32x32.png
 Rank: 250
 Name: YZY MONEY
 Slug: YZY
-Price_USD: $0.3623
-Price_Toman: ۵۰,۲۴۴ ت
+Price_USD: $0.3611
+Price_Toman: ۵۰,۰۱۴ ت
 Total_Market_USD: $109M
 Total_Market_Toman: ۱۵.۰ همت
 Daily_Market_USD: $1.44M
 Daily_Market_Toman: ۱۹۹ میلیارد ت
-Daily_Positive_Negative: -1.14%
-Weekly_Positive_Negative: +0.86
+Daily_Positive_Negative: -1.41%
+Weekly_Positive_Negative: +0.46
 Logo: https://cdn.arz.digital/cr-odin/img/assets/yzy/32x32.png
 ***
 ***
@@ -3766,14 +3766,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/akash-network/32x32.png
 Rank: 252
 Name: Open Campus
 Slug: EDU
-Price_USD: $0.1599
-Price_Toman: ۲۲,۱۲۱ ت
+Price_USD: $0.1616
+Price_Toman: ۲۲,۳۸۸ ت
 Total_Market_USD: $103M
 Total_Market_Toman: ۱۴.۳ همت
 Daily_Market_USD: $3.61M
 Daily_Market_Toman: ۴۹۸ میلیارد ت
-Daily_Positive_Negative: +1.23%
-Weekly_Positive_Negative: +11.7%
+Daily_Positive_Negative: +3.32%
+Weekly_Positive_Negative: +12.4
 Logo: https://cdn.arz.digital/cr-odin/img/assets/open-campus/32x32.png
 ***
 ***
@@ -3781,14 +3781,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/open-campus/32x32.png
 Rank: 253
 Name: ViciCoin
 Slug: VCNT
-Price_USD: $17.10
-Price_Toman: ۲,۳۶۵,۰۳۴ ت
+Price_USD: $17.14
+Price_Toman: ۲,۳۷۳,۱۸۴ ت
 Total_Market_USD: $104M
 Total_Market_Toman: ۱۴.۴ همت
 Daily_Market_USD: $316K
 Daily_Market_Toman: ۴۳.۷ میلیارد ت
-Daily_Positive_Negative: +0.14%
-Weekly_Positive_Negative: +0.07%
+Daily_Positive_Negative: +0.20%
+Weekly_Positive_Negative: +0.37
 Logo: https://cdn.arz.digital/cr-odin/img/assets/vicicoin/32x32.png
 ***
 ***
@@ -3857,13 +3857,13 @@ Rank: 258
 Name: Brevis
 Slug: BREV
 Price_USD: $0.4157
-Price_Toman: ۵۷,۴۸۰ ت
+Price_Toman: ۵۷,۵۷۴ ت
 Total_Market_USD: $104M
 Total_Market_Toman: ۱۴.۴ همت
 Daily_Market_USD: $0
 Daily_Market_Toman: ۰ ت
-Daily_Positive_Negative: -9.43%
-Weekly_Positive_Negative: +1.03%
+Daily_Positive_Negative: -8.44%
+Weekly_Positive_Negative: +1.03
 Logo: https://cdn.arz.digital/cr-odin/img/assets/brevis/32x32.png
 ***
 ***
@@ -3871,14 +3871,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/brevis/32x32.png
 Rank: 259
 Name: Keeta
 Slug: KTA
-Price_USD: $0.2279
-Price_Toman: ۳۱,۵۲۲ ت
+Price_USD: $0.2314
+Price_Toman: ۳۲,۰۶۱ ت
 Total_Market_USD: $106M
 Total_Market_Toman: ۱۴.۷ همت
 Daily_Market_USD: $3.67M
 Daily_Market_Toman: ۵۰۷ میلیارد ت
-Daily_Positive_Negative: +1.99%
-Weekly_Positive_Negative: -1.08%
+Daily_Positive_Negative: +3.07%
+Weekly_Positive_Negative: -0.06
 Logo: https://cdn.arz.digital/cr-odin/img/assets/keeta/32x32.png
 ***
 ***
@@ -3931,14 +3931,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dog-go-to-the-moon-rune/32x32.p
 Rank: 263
 Name: Zilliqa
 Slug: ZIL
-Price_USD: $0.005152
-Price_Toman: ۷۱۲.۵۲ ت
+Price_USD: $0.005260
+Price_Toman: ۷۲۸.۵۶ ت
 Total_Market_USD: $101M
 Total_Market_Toman: ۱۴.۰ همت
 Daily_Market_USD: $9.4M
 Daily_Market_Toman: ۱.۲۹ همت
-Daily_Positive_Negative: +1.63%
-Weekly_Positive_Negative: +5.77%
+Daily_Positive_Negative: +3.04%
+Weekly_Positive_Negative: +8.57
 Logo: https://cdn.arz.digital/cr-odin/img/assets/zilliqa/32x32.png
 ***
 ***
@@ -3946,14 +3946,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/zilliqa/32x32.png
 Rank: 264
 Name: Dohrnii
 Slug: DHN
-Price_USD: $5.782
-Price_Toman: ۷۹۹,۵۱۰ ت
+Price_USD: $5.796
+Price_Toman: ۸۰۲,۷۳۲ ت
 Total_Market_USD: $98.7M
 Total_Market_Toman: ۱۳.۷ همت
 Daily_Market_USD: $190K
 Daily_Market_Toman: ۲۶.۳ میلیارد ت
-Daily_Positive_Negative: -0.44%
-Weekly_Positive_Negative: -4.62%
+Daily_Positive_Negative: +0.02%
+Weekly_Positive_Negative: -4.34
 Logo: https://cdn.arz.digital/cr-odin/img/assets/dohrnii/32x32.png
 ***
 ***
@@ -3961,14 +3961,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/dohrnii/32x32.png
 Rank: 265
 Name: Shuffle
 Slug: SHFL
-Price_USD: $0.2643
-Price_Toman: ۳۶,۵۵۰ ت
+Price_USD: $0.2635
+Price_Toman: ۳۶,۵۰۴ ت
 Total_Market_USD: $96.2M
 Total_Market_Toman: ۱۳.۳ همت
 Daily_Market_USD: $250K
 Daily_Market_Toman: ۳۴.۵ میلیارد ت
-Daily_Positive_Negative: -1.28%
-Weekly_Positive_Negative: -11.5%
+Daily_Positive_Negative: -1.14%
+Weekly_Positive_Negative: -10.3
 Logo: https://cdn.arz.digital/cr-odin/img/assets/shuffle/32x32.png
 ***
 ***
@@ -3991,14 +3991,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/movement/32x32.png
 Rank: 267
 Name: Threshold
 Slug: T
-Price_USD: $0.009014
-Price_Toman: ۱,۲۴۶.۵ ت
+Price_USD: $0.009193
+Price_Toman: ۱,۲۷۳.۲ ت
 Total_Market_USD: $101M
 Total_Market_Toman: ۱۳.۹ همت
 Daily_Market_USD: $3.24M
 Daily_Market_Toman: ۴۴۸ میلیارد ت
-Daily_Positive_Negative: +1.73%
-Weekly_Positive_Negative: -8.14%
+Daily_Positive_Negative: +3.74%
+Weekly_Positive_Negative: -4.04
 Logo: https://cdn.arz.digital/cr-odin/img/assets/threshold/32x32.png
 ***
 ***
@@ -4021,14 +4021,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/mog-coin/32x32.png
 Rank: 269
 Name: Nano
 Slug: XNO
-Price_USD: $0.7438
-Price_Toman: ۱۰۲,۸۵۹ ت
+Price_USD: $0.7564
+Price_Toman: ۱۰۴,۷۷۳ ت
 Total_Market_USD: $99.1M
 Total_Market_Toman: ۱۳.۷ همت
 Daily_Market_USD: $693K
 Daily_Market_Toman: ۹۵.۹ میلیارد ت
-Daily_Positive_Negative: +0.77%
-Weekly_Positive_Negative: +3.25%
+Daily_Positive_Negative: +3.12%
+Weekly_Positive_Negative: +4.5
 Logo: https://cdn.arz.digital/cr-odin/img/assets/nano/32x32.png
 ***
 ***
@@ -4111,14 +4111,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ravedao/32x32.png
 Rank: 275
 Name: Yooldo
 Slug: ESPORTS
-Price_USD: $0.4349
-Price_Toman: ۶۰,۳۱۸ ت
+Price_USD: $0.4401
+Price_Toman: ۶۰,۸۵۵ ت
 Total_Market_USD: $119M
 Total_Market_Toman: ۱۶.۵ همت
 Daily_Market_USD: $199M
 Daily_Market_Toman: ۲۷.۶ همت
-Daily_Positive_Negative: -0.37%
-Weekly_Positive_Negative: +3.59
+Daily_Positive_Negative: +0.16%
+Weekly_Positive_Negative: +4.77%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/yooldo/32x32.png
 ***
 ***
@@ -4186,14 +4186,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/qubic/32x32.png
 Rank: 280
 Name: Holo
 Slug: HOT
-Price_USD: $0.0005379
-Price_Toman: ۷۴.۳۹ ت
+Price_USD: $0.0005412
+Price_Toman: ۷۴.۹۷ ت
 Total_Market_USD: $94.3M
 Total_Market_Toman: ۱۳.۰ همت
 Daily_Market_USD: $5.29M
 Daily_Market_Toman: ۷۳۱ میلیارد ت
-Daily_Positive_Negative: +4.86%
-Weekly_Positive_Negative: +9.28%
+Daily_Positive_Negative: +4.57%
+Weekly_Positive_Negative: +10.8
 Logo: https://cdn.arz.digital/cr-odin/img/assets/holo/32x32.png
 ***
 ***
@@ -4216,14 +4216,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bio/32x32.png
 Rank: 282
 Name: Keep Network
 Slug: KEEP
-Price_USD: $0.1009
-Price_Toman: ۱۳,۹۶۴ ت
+Price_USD: $0.09782
+Price_Toman: ۱۳,۵۴۹ ت
 Total_Market_USD: $97.7M
 Total_Market_Toman: ۱۳.۵ همت
 Daily_Market_USD: $10.8K
 Daily_Market_Toman: ۱.۴۹ میلیارد ت
-Daily_Positive_Negative: -3.46%
-Weekly_Positive_Negative: +43.0%
+Daily_Positive_Negative: -6.60%
+Weekly_Positive_Negative: +42.9
 Logo: https://cdn.arz.digital/cr-odin/img/assets/keep-network/32x32.png
 ***
 ***
@@ -4231,14 +4231,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/keep-network/32x32.png
 Rank: 283
 Name: SPACE ID
 Slug: ID
-Price_USD: $0.06907
-Price_Toman: ۹,۵۵۰.۷ ت
+Price_USD: $0.06943
+Price_Toman: ۹,۶۱۷.۰ ت
 Total_Market_USD: $88.7M
 Total_Market_Toman: ۱۲.۳ همت
 Daily_Market_USD: $5.73M
 Daily_Market_Toman: ۷۹۲ میلیارد ت
-Daily_Positive_Negative: +0.29%
-Weekly_Positive_Negative: +8.40%
+Daily_Positive_Negative: +1.17%
+Weekly_Positive_Negative: +5.14
 Logo: https://cdn.arz.digital/cr-odin/img/assets/space-id/32x32.png
 ***
 ***
@@ -4396,14 +4396,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bitkub-coin/32x32.png
 Rank: 294
 Name: Kava
 Slug: KAVA
-Price_USD: $0.08377
-Price_Toman: ۱۱,۵۸۴ ت
+Price_USD: $0.08499
+Price_Toman: ۱۱,۷۷۲ ت
 Total_Market_USD: $90.7M
 Total_Market_Toman: ۱۲.۵ همت
 Daily_Market_USD: $4.07M
 Daily_Market_Toman: ۵۶۲ میلیارد ت
-Daily_Positive_Negative: +2.66%
-Weekly_Positive_Negative: +5.49%
+Daily_Positive_Negative: +3.27%
+Weekly_Positive_Negative: +7.68
 Logo: https://cdn.arz.digital/cr-odin/img/assets/kava/32x32.png
 ***
 ***
@@ -4426,14 +4426,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/siacoin/32x32.png
 Rank: 296
 Name: Subsquid
 Slug: SQD
-Price_USD: $0.07978
-Price_Toman: ۱۱,۰۳۲ ت
+Price_USD: $0.08061
+Price_Toman: ۱۱,۱۶۵ ت
 Total_Market_USD: $77.8M
 Total_Market_Toman: ۱۰.۸ همت
 Daily_Market_USD: $7.67M
 Daily_Market_Toman: ۱.۰۶ همت
-Daily_Positive_Negative: -4.90%
-Weekly_Positive_Negative: +7.41%
+Daily_Positive_Negative: -5.85%
+Weekly_Positive_Negative: +4.03
 Logo: https://cdn.arz.digital/cr-odin/img/assets/subsquid/32x32.png
 ***
 ***
@@ -5251,14 +5251,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/redstone/32x32.png
 Rank: 351
 Name: Terra
 Slug: LUNA
-Price_USD: $0.09705
-Price_Toman: ۱۳,۴۵۹ ت
+Price_USD: $0.09646
+Price_Toman: ۱۳,۳۴۱ ت
 Total_Market_USD: $68.5M
 Total_Market_Toman: ۹.۴۶ همت
 Daily_Market_USD: $49.4M
 Daily_Market_Toman: ۶.۸۲ همت
-Daily_Positive_Negative: +1.70%
-Weekly_Positive_Negative: -4.67
+Daily_Positive_Negative: +1.71%
+Weekly_Positive_Negative: -5.36%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/terra-luna-v2/32x32.png
 ***
 ***
@@ -5266,14 +5266,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/terra-luna-v2/32x32.png
 Rank: 352
 Name: Rekt (rekt.com)
 Slug: REKT
-Price_USD: $0.0₆2907
-Price_Toman: ۰.۰۴۰۳۱ ت
+Price_USD: $0.0₆2899
+Price_Toman: ۰.۰۴۰۰۹ ت
 Total_Market_USD: $81.2M
 Total_Market_Toman: ۱۱.۲ همت
 Daily_Market_USD: $577K
 Daily_Market_Toman: ۷۹.۷ میلیارد ت
-Daily_Positive_Negative: +6.34%
-Weekly_Positive_Negative: +18.2
+Daily_Positive_Negative: +6.68%
+Weekly_Positive_Negative: +17.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/rekt-eth/32x32.png
 ***
 ***
@@ -5311,14 +5311,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ankr/32x32.png
 Rank: 355
 Name: ApeX Protocol
 Slug: APEX
-Price_USD: $0.5359
-Price_Toman: ۷۴,۳۳۰ ت
+Price_USD: $0.5283
+Price_Toman: ۷۳,۰۶۷ ت
 Total_Market_USD: $66.7M
 Total_Market_Toman: ۹.۲۱ همت
 Daily_Market_USD: $8.76M
 Daily_Market_Toman: ۱.۲۱ همت
-Daily_Positive_Negative: +4.62%
-Weekly_Positive_Negative: +3.84
+Daily_Positive_Negative: +2.03%
+Weekly_Positive_Negative: -0.26%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/apex-token/32x32.png
 ***
 ***
@@ -5326,14 +5326,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/apex-token/32x32.png
 Rank: 356
 Name: Altlayer
 Slug: ALT
-Price_USD: $0.01311
-Price_Toman: ۱,۸۱۸.۴ ت
+Price_USD: $0.01306
+Price_Toman: ۱,۸۰۷.۰ ت
 Total_Market_USD: $67.9M
 Total_Market_Toman: ۹.۳۸ همت
 Daily_Market_USD: $7.72M
 Daily_Market_Toman: ۱.۰۷ همت
-Daily_Positive_Negative: +3.93%
-Weekly_Positive_Negative: +9.45
+Daily_Positive_Negative: +3.12%
+Weekly_Positive_Negative: +8.85%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/altlayer/32x32.png
 ***
 ***
@@ -5341,14 +5341,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/altlayer/32x32.png
 Rank: 357
 Name: UMA
 Slug: UMA
-Price_USD: $0.7569
-Price_Toman: ۱۰۴,۹۶۸ ت
+Price_USD: $0.7556
+Price_Toman: ۱۰۴,۵۰۵ ت
 Total_Market_USD: $67.4M
 Total_Market_Toman: ۹.۳۱ همت
 Daily_Market_USD: $5.29M
 Daily_Market_Toman: ۷۳۱ میلیارد ت
-Daily_Positive_Negative: +3.32%
-Weekly_Positive_Negative: +3.72
+Daily_Positive_Negative: +2.82%
+Weekly_Positive_Negative: +3.74%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/uma/32x32.png
 ***
 ***
@@ -5356,14 +5356,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/uma/32x32.png
 Rank: 358
 Name: Memecoin
 Slug: MEME
-Price_USD: $0.001248
-Price_Toman: ۱۷۳.۱۱ ت
+Price_USD: $0.001226
+Price_Toman: ۱۶۹.۶۱ ت
 Total_Market_USD: $73.2M
 Total_Market_Toman: ۱۰.۱ همت
 Daily_Market_USD: $22.2M
 Daily_Market_Toman: ۳.۰۶ همت
-Daily_Positive_Negative: +9.69%
-Weekly_Positive_Negative: +23
+Daily_Positive_Negative: +8.25%
+Weekly_Positive_Negative: +20.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/meme/32x32.png
 ***
 ***
@@ -5387,13 +5387,13 @@ Rank: 360
 Name: Centrifuge
 Slug: CFG
 Price_USD: $0.1265
-Price_Toman: ۱۷,۵۵۱ ت
+Price_Toman: ۱۷,۴۹۵ ت
 Total_Market_USD: $72.6M
 Total_Market_Toman: ۱۰.۰ همت
 Daily_Market_USD: $824K
 Daily_Market_Toman: ۱۱۴ میلیارد ت
-Daily_Positive_Negative: +4.04%
-Weekly_Positive_Negative: +12.8
+Daily_Positive_Negative: +4.34%
+Weekly_Positive_Negative: +13.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/centrifuge/32x32.png
 ***
 ***
@@ -5416,14 +5416,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/sign/32x32.png
 Rank: 362
 Name: Casper
 Slug: CSPR
-Price_USD: $0.004719
-Price_Toman: ۶۵۴.۴۷ ت
+Price_USD: $0.004713
+Price_Toman: ۶۵۱.۹۳ ت
 Total_Market_USD: $64.7M
 Total_Market_Toman: ۸.۹۴ همت
 Daily_Market_USD: $2.49M
 Daily_Market_Toman: ۳۴۴ میلیارد ت
-Daily_Positive_Negative: +3.23%
-Weekly_Positive_Negative: +3.85
+Daily_Positive_Negative: +3.64%
+Weekly_Positive_Negative: +3.75%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/casper/32x32.png
 ***
 ***
@@ -5431,14 +5431,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/casper/32x32.png
 Rank: 363
 Name: Mask Network
 Slug: MASK
-Price_USD: $0.6597
-Price_Toman: ۹۱,۴۹۶ ت
+Price_USD: $0.6567
+Price_Toman: ۹۰,۸۲۶ ت
 Total_Market_USD: $65.7M
 Total_Market_Toman: ۹.۰۷ همت
 Daily_Market_USD: $20.3M
 Daily_Market_Toman: ۲.۸۰ همت
-Daily_Positive_Negative: +2.44%
-Weekly_Positive_Negative: +4.54
+Daily_Positive_Negative: +1.04%
+Weekly_Positive_Negative: +4.29%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/mask-network/32x32.png
 ***
 ***
@@ -5446,14 +5446,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/mask-network/32x32.png
 Rank: 364
 Name: BitDCA
 Slug: BDCA
-Price_USD: $0.8524
-Price_Toman: ۱۱۸,۲۱۳ ت
+Price_USD: $0.8541
+Price_Toman: ۱۱۸,۱۲۷ ت
 Total_Market_USD: $64.5M
 Total_Market_Toman: ۸.۹۱ همت
 Daily_Market_USD: $427K
 Daily_Market_Toman: ۵۸.۹ میلیارد ت
-Daily_Positive_Negative: +1.49%
-Weekly_Positive_Negative: +3.99
+Daily_Positive_Negative: +0.96%
+Weekly_Positive_Negative: +4.50%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bitdca/32x32.png
 ***
 ***
@@ -5462,13 +5462,13 @@ Rank: 365
 Name: ADI
 Slug: ADI
 Price_USD: $1.248
-Price_Toman: ۱۷۳,۱۰۶ ت
+Price_Toman: ۱۷۲,۵۸۱ ت
 Total_Market_USD: $63.8M
 Total_Market_Toman: ۸.۸۲ همت
 Daily_Market_USD: $417K
 Daily_Market_Toman: ۵۷.۷ میلیارد ت
-Daily_Positive_Negative: +2.91%
-Weekly_Positive_Negative: +6.45
+Daily_Positive_Negative: +3.00%
+Weekly_Positive_Negative: +6.48%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/adi-token/32x32.png
 ***
 ***
@@ -5476,14 +5476,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/adi-token/32x32.png
 Rank: 366
 Name: SKALE
 Slug: SKL
-Price_USD: $0.01101
-Price_Toman: ۱,۵۲۷.۴ ت
+Price_USD: $0.01090
+Price_Toman: ۱,۵۰۸.۲ ت
 Total_Market_USD: $66.3M
 Total_Market_Toman: ۹.۱۵ همت
 Daily_Market_USD: $8.16M
 Daily_Market_Toman: ۱.۱۳ همت
-Daily_Positive_Negative: +4.83%
-Weekly_Positive_Negative: +6.85
+Daily_Positive_Negative: +3.77%
+Weekly_Positive_Negative: +5.96%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/skale-network/32x32.png
 ***
 ***
@@ -5491,14 +5491,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/skale-network/32x32.png
 Rank: 367
 Name: Pundi X (New)
 Slug: PUNDIX
-Price_USD: $0.2446
-Price_Toman: ۳۳,۹۲۸ ت
+Price_USD: $0.2443
+Price_Toman: ۳۳,۷۹۰ ت
 Total_Market_USD: $63.1M
 Total_Market_Toman: ۸.۷۲ همت
 Daily_Market_USD: $2.5M
 Daily_Market_Toman: ۳۴۰ میلیارد ت
-Daily_Positive_Negative: +0.69%
-Weekly_Positive_Negative: +4.62
+Daily_Positive_Negative: +0.53%
+Weekly_Positive_Negative: +4.48%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/pundix-new/32x32.png
 ***
 ***
@@ -5506,14 +5506,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pundix-new/32x32.png
 Rank: 368
 Name: GEODNET
 Slug: GEOD
-Price_USD: $0.1432
-Price_Toman: ۱۹,۸۶۴ ت
+Price_USD: $0.1435
+Price_Toman: ۱۹,۸۵۰ ت
 Total_Market_USD: $63.0M
 Total_Market_Toman: ۸.۷۰ همت
 Daily_Market_USD: $309K
 Daily_Market_Toman: ۴۲.۶ میلیارد ت
-Daily_Positive_Negative: -0.21%
-Weekly_Positive_Negative: -0.8
+Daily_Positive_Negative: -0.26%
+Weekly_Positive_Negative: -0.56%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/geodnet/32x32.png
 ***
 ***
@@ -5536,14 +5536,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/lagrange/32x32.png
 Rank: 370
 Name: Jelly-My-Jelly
 Slug: JELLYJELLY
-Price_USD: $0.06580
-Price_Toman: ۹,۱۲۵.۷ ت
+Price_USD: $0.06407
+Price_Toman: ۸,۸۶۰.۹ ت
 Total_Market_USD: $64.0M
 Total_Market_Toman: ۸.۸۵ همت
 Daily_Market_USD: $7.90M
 Daily_Market_Toman: ۱.۰۹ همت
-Daily_Positive_Negative: +6.95%
-Weekly_Positive_Negative: -4
+Daily_Positive_Negative: +3.49%
+Weekly_Positive_Negative: -6.59%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/jelly-my-jelly/32x32.png
 ***
 ***
@@ -5567,13 +5567,13 @@ Rank: 372
 Name: Venus BUSD
 Slug: vBUSD
 Price_USD: $0.02231
-Price_Toman: ۳,۰۹۴.۵ ت
+Price_Toman: ۳,۰۸۶.۰ ت
 Total_Market_USD: $60.1M
 Total_Market_Toman: ۸.۳۰ همت
 Daily_Market_USD: $0
 Daily_Market_Toman: ۰ ت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.08
+Daily_Positive_Negative: -0.00%
+Weekly_Positive_Negative: +0.09%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/venus-busd/32x32.png
 ***
 ***
@@ -5581,14 +5581,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/venus-busd/32x32.png
 Rank: 373
 Name: United Stables
 Slug: U
-Price_USD: $0.9995
-Price_Toman: ۱۳۸,۶۰۹ ت
+Price_USD: $0.9993
+Price_Toman: ۱۳۸,۲۱۷ ت
 Total_Market_USD: $410M
 Total_Market_Toman: ۵۶.۶ همت
 Daily_Market_USD: $17.4M
 Daily_Market_Toman: ۲.۴۰ همت
-Daily_Positive_Negative: +0.01%
-Weekly_Positive_Negative: 0
+Daily_Positive_Negative: -0.01%
+Weekly_Positive_Negative: -0.03%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/united-stables/32x32.png
 ***
 ***
@@ -5596,14 +5596,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/united-stables/32x32.png
 Rank: 374
 Name: Ontology
 Slug: ONT
-Price_USD: $0.06346
-Price_Toman: ۸,۸۰۰.۶ ت
+Price_USD: $0.06369
+Price_Toman: ۸,۸۰۹.۲ ت
 Total_Market_USD: $58.5M
 Total_Market_Toman: ۸.۰۹ همت
 Daily_Market_USD: $8.07M
 Daily_Market_Toman: ۱.۱۱ همت
-Daily_Positive_Negative: +0.35%
-Weekly_Positive_Negative: +1.02
+Daily_Positive_Negative: -0.12%
+Weekly_Positive_Negative: +1.27%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ontology/32x32.png
 ***
 ***
@@ -5611,14 +5611,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ontology/32x32.png
 Rank: 375
 Name: AI Companions
 Slug: AIC
-Price_USD: $0.09222
-Price_Toman: ۱۲,۷۸۹ ت
+Price_USD: $0.09169
+Price_Toman: ۱۲,۶۸۲ ت
 Total_Market_USD: $68.8M
 Total_Market_Toman: ۹.۵۰ همت
 Daily_Market_USD: $2.9M
 Daily_Market_Toman: ۴۰۶ میلیارد ت
-Daily_Positive_Negative: +0.68%
-Weekly_Positive_Negative: +15.2
+Daily_Positive_Negative: +9.91%
+Weekly_Positive_Negative: +13.7%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ai-companions/32x32.png
 ***
 ***
@@ -5626,14 +5626,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ai-companions/32x32.png
 Rank: 376
 Name: Tokenlon Network Token
 Slug: LON
-Price_USD: $0.4778
-Price_Toman: ۶۶,۲۶۵ ت
+Price_USD: $0.4779
+Price_Toman: ۶۶,۱۰۵ ت
 Total_Market_USD: $59.3M
 Total_Market_Toman: ۸.۱۹ همت
 Daily_Market_USD: $38.1K
 Daily_Market_Toman: ۵.۲۷ میلیارد ت
-Daily_Positive_Negative: +1.77%
-Weekly_Positive_Negative: +1.45
+Daily_Positive_Negative: +1.96%
+Weekly_Positive_Negative: +1.50%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tokenlon-network-token/32x32.png
 ***
 ***
@@ -5641,14 +5641,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tokenlon-network-token/32x32.pn
 Rank: 377
 Name: Tornado Cash
 Slug: TORN
-Price_USD: $11.72
-Price_Toman: ۱,۶۲۴,۷۷۰ ت
+Price_USD: $11.75
+Price_Toman: ۱,۶۲۴,۴۴۵ ت
 Total_Market_USD: $61.8M
 Total_Market_Toman: ۸.۵۳ همت
 Daily_Market_USD: $149K
 Daily_Market_Toman: ۲۰.۶ میلیارد ت
-Daily_Positive_Negative: +0.36%
-Weekly_Positive_Negative: +6.91
+Daily_Positive_Negative: +1.09%
+Weekly_Positive_Negative: +6.75%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/torn/32x32.png
 ***
 ***
@@ -5656,14 +5656,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/torn/32x32.png
 Rank: 378
 Name: Ardor
 Slug: ARDR
-Price_USD: $0.06007
-Price_Toman: ۸,۳۳۰.۵ ت
+Price_USD: $0.06017
+Price_Toman: ۸,۳۲۲.۵ ت
 Total_Market_USD: $60.0M
 Total_Market_Toman: ۸.۳۰ همت
 Daily_Market_USD: $1.54M
 Daily_Market_Toman: ۲۱۲ میلیارد ت
-Daily_Positive_Negative: +0.95%
-Weekly_Positive_Negative: +3.08
+Daily_Positive_Negative: +0.91%
+Weekly_Positive_Negative: +2.73%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ardor/32x32.png
 ***
 ***
@@ -5671,14 +5671,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ardor/32x32.png
 Rank: 379
 Name: MultiBank Group
 Slug: MBG
-Price_USD: $0.4932
-Price_Toman: ۶۸,۳۹۷ ت
+Price_USD: $0.4936
+Price_Toman: ۶۸,۲۷۵ ت
 Total_Market_USD: $64.4M
 Total_Market_Toman: ۸.۸۹ همت
 Daily_Market_USD: $10.6M
 Daily_Market_Toman: ۱.۴۶ همت
-Daily_Positive_Negative: +1.02%
-Weekly_Positive_Negative: -1.24
+Daily_Positive_Negative: +2.49%
+Weekly_Positive_Negative: -2.59%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/multibank-group/32x32.png
 ***
 ***
@@ -5686,14 +5686,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/multibank-group/32x32.png
 Rank: 380
 Name: Apertum
 Slug: APTM
-Price_USD: $0.8268
-Price_Toman: ۱۱۴,۶۷۱ ت
+Price_USD: $0.8269
+Price_Toman: ۱۱۴,۳۶۰ ت
 Total_Market_USD: $59.0M
 Total_Market_Toman: ۸.۱۵ همت
 Daily_Market_USD: $1.54M
 Daily_Market_Toman: ۲۱۳ میلیارد ت
-Daily_Positive_Negative: +0.62%
-Weekly_Positive_Negative: -1.65
+Daily_Positive_Negative: +0.04%
+Weekly_Positive_Negative: -0.99%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/apertum/32x32.png
 ***
 ***
@@ -5701,14 +5701,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/apertum/32x32.png
 Rank: 381
 Name: EthereumPoW
 Slug: ETHW
-Price_USD: $0.5775
-Price_Toman: ۸۰,۰۸۹ ت
+Price_USD: $0.5748
+Price_Toman: ۷۹,۵۰۶ ت
 Total_Market_USD: $62.0M
 Total_Market_Toman: ۸.۵۶ همت
 Daily_Market_USD: $5.48M
 Daily_Market_Toman: ۷۵۶ میلیارد ت
-Daily_Positive_Negative: +2.36%
-Weekly_Positive_Negative: +4.17
+Daily_Positive_Negative: +1.28%
+Weekly_Positive_Negative: +4.05%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum-pow/32x32.png
 ***
 ***
@@ -5716,14 +5716,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ethereum-pow/32x32.png
 Rank: 382
 Name: Band
 Slug: BAND
-Price_USD: $0.3479
-Price_Toman: ۴۸,۲۵۸ ت
+Price_USD: $0.3470
+Price_Toman: ۴۷,۹۶۱ ت
 Total_Market_USD: $59.0M
 Total_Market_Toman: ۸.۱۶ همت
 Daily_Market_USD: $4.70M
 Daily_Market_Toman: ۶۴۹ میلیارد ت
-Daily_Positive_Negative: +0.91%
-Weekly_Positive_Negative: +4.72
+Daily_Positive_Negative: +0.70%
+Weekly_Positive_Negative: +4.52%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/band-protocol/32x32.png
 ***
 ***
@@ -5731,14 +5731,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/band-protocol/32x32.png
 Rank: 383
 Name: Tellor
 Slug: TRB
-Price_USD: $22.20
-Price_Toman: ۳,۰۷۸,۳۷۸ ت
+Price_USD: $22.07
+Price_Toman: ۳,۰۵۱,۸۳۵ ت
 Total_Market_USD: $60.4M
 Total_Market_Toman: ۸.۳۵ همت
 Daily_Market_USD: $15.9M
 Daily_Market_Toman: ۲.۲۰ همت
-Daily_Positive_Negative: +3.36%
-Weekly_Positive_Negative: +7.49
+Daily_Positive_Negative: +2.47%
+Weekly_Positive_Negative: +7.22%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tellor/32x32.png
 ***
 ***
@@ -5746,14 +5746,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/tellor/32x32.png
 Rank: 384
 Name: Polymesh
 Slug: POLYX
-Price_USD: $0.06007
-Price_Toman: ۸,۳۳۱.۴ ت
+Price_USD: $0.05995
+Price_Toman: ۸,۲۹۱.۷ ت
 Total_Market_USD: $60.9M
 Total_Market_Toman: ۸.۴۱ همت
 Daily_Market_USD: $9.27M
 Daily_Market_Toman: ۱.۲۸ همت
-Daily_Positive_Negative: +4.14%
-Weekly_Positive_Negative: +16.6
+Daily_Positive_Negative: +5.10%
+Weekly_Positive_Negative: +16.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/polymesh/32x32.png
 ***
 ***
@@ -5776,14 +5776,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/harmony/32x32.png
 Rank: 386
 Name: iExec RLC
 Slug: RLC
-Price_USD: $0.6921
-Price_Toman: ۹۵,۹۸۰ ت
+Price_USD: $0.6925
+Price_Toman: ۹۵,۷۷۸ ت
 Total_Market_USD: $60.3M
 Total_Market_Toman: ۸.۳۲ همت
 Daily_Market_USD: $3.05M
 Daily_Market_Toman: ۴۲۱ میلیارد ت
-Daily_Positive_Negative: +3.49%
-Weekly_Positive_Negative: +4.07
+Daily_Positive_Negative: +2.87%
+Weekly_Positive_Negative: +3.44%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/rlc/32x32.png
 ***
 ***
@@ -5791,14 +5791,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/rlc/32x32.png
 Rank: 387
 Name: Notcoin
 Slug: NOT
-Price_USD: $0.0006505
-Price_Toman: ۹۰.۲۱ ت
+Price_USD: $0.0006515
+Price_Toman: ۹۰.۱۱ ت
 Total_Market_USD: $64.8M
 Total_Market_Toman: ۸.۹۵ همت
 Daily_Market_USD: $21.4M
 Daily_Market_Toman: ۲.۹۶ همت
-Daily_Positive_Negative: +11.5%
-Weekly_Positive_Negative: +20.8
+Daily_Positive_Negative: +10.7%
+Weekly_Positive_Negative: +20.8%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/notcoin/32x32.png
 ***
 ***
@@ -5806,14 +5806,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/notcoin/32x32.png
 Rank: 388
 Name: BIM
 Slug: BIM
-Price_USD: $1.973
-Price_Toman: ۲۷۳,۶۱۵ ت
+Price_USD: $1.978
+Price_Toman: ۲۷۳,۴۸۹ ت
 Total_Market_USD: $59.3M
 Total_Market_Toman: ۸.۱۹ همت
 Daily_Market_USD: $352K
 Daily_Market_Toman: ۴۸.۶ میلیارد ت
-Daily_Positive_Negative: +0.49%
-Weekly_Positive_Negative: +5.37
+Daily_Positive_Negative: +0.78%
+Weekly_Positive_Negative: +5.87%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bim/32x32.png
 ***
 ***
@@ -5821,14 +5821,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bim/32x32.png
 Rank: 389
 Name: GOHOME
 Slug: GOHOME
-Price_USD: $115.68
-Price_Toman: ۱۶,۰۴۲,۱۴۱ ت
+Price_USD: $115.38
+Price_Toman: ۱۵,۹۵۷,۰۳۲ ت
 Total_Market_USD: $57.7M
 Total_Market_Toman: ۷.۹۷ همت
 Daily_Market_USD: $1.48M
 Daily_Market_Toman: ۲۰۴ میلیارد ت
-Daily_Positive_Negative: +1.15%
-Weekly_Positive_Negative: +3.7
+Daily_Positive_Negative: +1.07%
+Weekly_Positive_Negative: +2.63%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/gohome/32x32.png
 ***
 ***
@@ -5836,14 +5836,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/gohome/32x32.png
 Rank: 390
 Name: Enjin Coin
 Slug: ENJ
-Price_USD: $0.03075
-Price_Toman: ۴,۲۶۵.۰ ت
+Price_USD: $0.03074
+Price_Toman: ۴,۲۵۱.۳ ت
 Total_Market_USD: $59.0M
 Total_Market_Toman: ۸.۱۵ همت
 Daily_Market_USD: $10.4M
 Daily_Market_Toman: ۱.۴۴ همت
-Daily_Positive_Negative: +2.64%
-Weekly_Positive_Negative: +8.72
+Daily_Positive_Negative: +2.32%
+Weekly_Positive_Negative: +8.42%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/enjin-coin/32x32.png
 ***
 ***
@@ -5851,14 +5851,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/enjin-coin/32x32.png
 Rank: 391
 Name: Tagger
 Slug: TAG
-Price_USD: $0.0004784
-Price_Toman: ۶۶.۳۵ ت
+Price_USD: $0.0004778
+Price_Toman: ۶۶.۰۹ ت
 Total_Market_USD: $51.8M
 Total_Market_Toman: ۷.۱۵ همت
 Daily_Market_USD: $3.82M
 Daily_Market_Toman: ۵۲۸ میلیارد ت
-Daily_Positive_Negative: +2.24%
-Weekly_Positive_Negative: +4.54
+Daily_Positive_Negative: +1.28%
+Weekly_Positive_Negative: +4.72%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/tagger/32x32.png
 ***
 ***
@@ -5881,14 +5881,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/coti/32x32.png
 Rank: 393
 Name: IOST
 Slug: IOST
-Price_USD: $0.001856
-Price_Toman: ۲۵۷.۴۴ ت
+Price_USD: $0.001852
+Price_Toman: ۲۵۶.۲۶ ت
 Total_Market_USD: $55.9M
 Total_Market_Toman: ۷.۷۲ همت
 Daily_Market_USD: $7.8M
 Daily_Market_Toman: ۱.۰۸ همت
-Daily_Positive_Negative: -0.27%
-Weekly_Positive_Negative: +13.6
+Daily_Positive_Negative: -0.93%
+Weekly_Positive_Negative: +13.0%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/iostoken/32x32.png
 ***
 ***
@@ -5896,14 +5896,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/iostoken/32x32.png
 Rank: 394
 Name: Cysic
 Slug: CYS
-Price_USD: $0.4072
-Price_Toman: ۵۶,۴۷۵ ت
+Price_USD: $0.4221
+Price_Toman: ۵۸,۳۷۸ ت
 Total_Market_USD: $67.9M
 Total_Market_Toman: ۹.۳۷ همت
 Daily_Market_USD: $39.8M
 Daily_Market_Toman: ۵.۵۰ همت
-Daily_Positive_Negative: +9.79%
-Weekly_Positive_Negative: +19
+Daily_Positive_Negative: +13.0%
+Weekly_Positive_Negative: +23.5%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cysic/32x32.png
 ***
 ***
@@ -5911,14 +5911,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/cysic/32x32.png
 Rank: 395
 Name: Frax (prev. FXS)
 Slug: FRAX
-Price_USD: $0.6608
-Price_Toman: ۹۱,۶۳۹ ت
+Price_USD: $0.6566
+Price_Toman: ۹۰,۸۱۱ ت
 Total_Market_USD: $57.8M
 Total_Market_Toman: ۷.۹۸ همت
 Daily_Market_USD: $3.58M
 Daily_Market_Toman: ۴۹۴ میلیارد ت
-Daily_Positive_Negative: +0.88%
-Weekly_Positive_Negative: -1.65
+Daily_Positive_Negative: +0.47%
+Weekly_Positive_Negative: -1.83%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/frax-share/32x32.png
 ***
 ***
@@ -5941,14 +5941,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/anchored-coins-aeur/32x32.png
 Rank: 397
 Name: BounceBit
 Slug: BB
-Price_USD: $0.06569
-Price_Toman: ۹,۱۱۰.۶ ت
+Price_USD: $0.06234
+Price_Toman: ۸,۶۲۲.۸ ت
 Total_Market_USD: $58.0M
 Total_Market_Toman: ۸.۰۲ همت
 Daily_Market_USD: $10.4M
 Daily_Market_Toman: ۱.۴۴ همت
-Daily_Positive_Negative: +7.26%
-Weekly_Positive_Negative: +16.2
+Daily_Positive_Negative: +0.83%
+Weekly_Positive_Negative: +9.56%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/bouncebit/32x32.png
 ***
 ***
@@ -5957,13 +5957,13 @@ Rank: 398
 Name: BUSD
 Slug: BUSD
 Price_USD: $1.000
-Price_Toman: ۱۳۸,۷۳۵ ت
+Price_Toman: ۱۳۸,۲۳۹ ت
 Total_Market_USD: $55.0M
 Total_Market_Toman: ۷.۶۰ همت
 Daily_Market_USD: $501K
 Daily_Market_Toman: ۶۹.۲ میلیارد ت
-Daily_Positive_Negative: 0.00%
-Weekly_Positive_Negative: +0.15
+Daily_Positive_Negative: -0.00%
+Weekly_Positive_Negative: +0.08%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/binance-usd/32x32.png
 ***
 ***
@@ -5986,14 +5986,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ecomi-new/32x32.png
 Rank: 400
 Name: WOO
 Slug: WOO
-Price_USD: $0.02888
-Price_Toman: ۴,۰۰۵.۷ ت
+Price_USD: $0.02831
+Price_Toman: ۳,۹۱۵.۷ ت
 Total_Market_USD: $53.6M
 Total_Market_Toman: ۷.۴۰ همت
 Daily_Market_USD: $4.33M
 Daily_Market_Toman: ۵۹۸ میلیارد ت
-Daily_Positive_Negative: +3.05%
-Weekly_Positive_Negative: +15.9
+Daily_Positive_Negative: +0.76%
+Weekly_Positive_Negative: +13.4%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/wootrade/32x32.png
 ***
 ***
@@ -6106,14 +6106,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bsquared-network/32x32.png
 Rank: 408
 Name: LCX
 Slug: LCX
-Price_USD: $0.06679
-Price_Toman: ۹,۲۵۶.۹ ت
+Price_USD: $0.06719
+Price_Toman: ۹,۳۰۷.۰ ت
 Total_Market_USD: $63.4M
 Total_Market_Toman: ۸.۷۶ همت
 Daily_Market_USD: $1.15M
 Daily_Market_Toman: ۱۵۹ میلیارد ت
-Daily_Positive_Negative: +9.23%
-Weekly_Positive_Negative: +18.0%
+Daily_Positive_Negative: +8.53%
+Weekly_Positive_Negative: +16.6
 Logo: https://cdn.arz.digital/cr-odin/img/assets/lcx/32x32.png
 ***
 ***
@@ -6181,14 +6181,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/now-token/32x32.png
 Rank: 413
 Name: Orbler
 Slug: ORBR
-Price_USD: $0.05160
-Price_Toman: ۷,۱۵۱.۴ ت
+Price_USD: $0.05159
+Price_Toman: ۷,۱۴۵.۶ ت
 Total_Market_USD: $52.4M
 Total_Market_Toman: ۷.۲۴ همت
 Daily_Market_USD: $32.6K
 Daily_Market_Toman: ۴.۵۰ میلیارد ت
-Daily_Positive_Negative: -0.04%
-Weekly_Positive_Negative: -0.37%
+Daily_Positive_Negative: -0.05%
+Weekly_Positive_Negative: -0.52
 Logo: https://cdn.arz.digital/cr-odin/img/assets/orbler/32x32.png
 ***
 ***
@@ -6271,14 +6271,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/siren-bsc/32x32.png
 Rank: 419
 Name: Folks Finance
 Slug: FOLKS
-Price_USD: $4.091
-Price_Toman: ۵۶۷,۰۱۹ ت
+Price_USD: $4.145
+Price_Toman: ۵۷۴,۰۷۷ ت
 Total_Market_USD: $49.9M
 Total_Market_Toman: ۶.۸۹ همت
 Daily_Market_USD: $6.16M
 Daily_Market_Toman: ۸۵۱ میلیارد ت
-Daily_Positive_Negative: +1.15%
-Weekly_Positive_Negative: -1.42%
+Daily_Positive_Negative: +3.16%
+Weekly_Positive_Negative: -0.02
 Logo: https://cdn.arz.digital/cr-odin/img/assets/folks-finance/32x32.png
 ***
 ***
@@ -6301,14 +6301,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ark/32x32.png
 Rank: 421
 Name: Irys
 Slug: IRYS
-Price_USD: $0.03519
-Price_Toman: ۴,۸۷۸.۰ ت
+Price_USD: $0.03671
+Price_Toman: ۵,۰۸۴.۷ ت
 Total_Market_USD: $73.7M
 Total_Market_Toman: ۱۰.۲ همت
 Daily_Market_USD: $14.0M
 Daily_Market_Toman: ۱.۹۳ همت
-Daily_Positive_Negative: +26.6%
-Weekly_Positive_Negative: +13.4%
+Daily_Positive_Negative: +31.5%
+Weekly_Positive_Negative: +18.4
 Logo: https://cdn.arz.digital/cr-odin/img/assets/irys/32x32.png
 ***
 ***
@@ -6331,14 +6331,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/eurite/32x32.png
 Rank: 423
 Name: U.S. Dollar Tokenized Currency (Ondo)
 Slug: USDon
-Price_USD: $0.9896
-Price_Toman: ۱۳۷,۱۵۱ ت
+Price_USD: $0.9897
+Price_Toman: ۱۳۷,۰۷۵ ت
 Total_Market_USD: $52.5M
 Total_Market_Toman: ۷.۲۵ همت
 Daily_Market_USD: $0
 Daily_Market_Toman: ۰ ت
-Daily_Positive_Negative: -0.99%
-Weekly_Positive_Negative: +0.09%
+Daily_Positive_Negative: -0.98%
+Weekly_Positive_Negative: +0.1
 Logo: https://cdn.arz.digital/cr-odin/img/assets/us-dollar-tokenized-currency-ondo/32x32.png
 ***
 ***
@@ -6361,14 +6361,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/pirate-chain/32x32.png
 Rank: 425
 Name: Hive
 Slug: HIVE
-Price_USD: $0.09881
-Price_Toman: ۱۳,۶۹۴ ت
+Price_USD: $0.1000
+Price_Toman: ۱۳,۸۶۱ ت
 Total_Market_USD: $50.4M
 Total_Market_Toman: ۶.۹۵ همت
 Daily_Market_USD: $1.63M
 Daily_Market_Toman: ۲۲۵ میلیارد ت
-Daily_Positive_Negative: +0.61%
-Weekly_Positive_Negative: -4.12%
+Daily_Positive_Negative: +1.18%
+Weekly_Positive_Negative: -2.38
 Logo: https://cdn.arz.digital/cr-odin/img/assets/hive-blockchain/32x32.png
 ***
 ***
@@ -6421,14 +6421,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/somnia/32x32.png
 Rank: 429
 Name: Lista DAO
 Slug: LISTA
-Price_USD: $0.1763
-Price_Toman: ۲۴,۴۴۰ ت
+Price_USD: $0.1819
+Price_Toman: ۲۵,۱۹۸ ت
 Total_Market_USD: $49.3M
 Total_Market_Toman: ۶.۸۱ همت
 Daily_Market_USD: $5.42M
 Daily_Market_Toman: ۷۴۹ میلیارد ت
-Daily_Positive_Negative: +3.89%
-Weekly_Positive_Negative: +4.52%
+Daily_Positive_Negative: +7.00%
+Weekly_Positive_Negative: +8.29
 Logo: https://cdn.arz.digital/cr-odin/img/assets/lista-dao/32x32.png
 ***
 ***
@@ -6436,14 +6436,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/lista-dao/32x32.png
 Rank: 430
 Name: Powerledger
 Slug: POWR
-Price_USD: $0.08899
-Price_Toman: ۱۲,۳۳۳ ت
+Price_USD: $0.09015
+Price_Toman: ۱۲,۴۸۶ ت
 Total_Market_USD: $50.6M
 Total_Market_Toman: ۶.۹۸ همت
 Daily_Market_USD: $3.19M
 Daily_Market_Toman: ۴۴۰ میلیارد ت
-Daily_Positive_Negative: +1.69%
-Weekly_Positive_Negative: +4.17%
+Daily_Positive_Negative: +2.52%
+Weekly_Positive_Negative: +6.75
 Logo: https://cdn.arz.digital/cr-odin/img/assets/power-ledger/32x32.png
 ***
 ***
@@ -6466,14 +6466,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/spark/32x32.png
 Rank: 432
 Name: Babylon
 Slug: BABY
-Price_USD: $0.01772
-Price_Toman: ۲,۴۵۶.۸ ت
+Price_USD: $0.01779
+Price_Toman: ۲,۴۶۵.۰ ت
 Total_Market_USD: $50.3M
 Total_Market_Toman: ۶.۹۴ همت
 Daily_Market_USD: $4.20M
 Daily_Market_Toman: ۵۸۰ میلیارد ت
-Daily_Positive_Negative: +2.58%
-Weekly_Positive_Negative: +3.30%
+Daily_Positive_Negative: +3.34%
+Weekly_Positive_Negative: +4.67
 Logo: https://cdn.arz.digital/cr-odin/img/assets/babylon/32x32.png
 ***
 ***
@@ -6781,14 +6781,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/deso/32x32.png
 Rank: 453
 Name: Cyber
 Slug: CYBER
-Price_USD: $0.7825
-Price_Toman: ۱۰۸,۵۲۴ ت
+Price_USD: $0.7865
+Price_Toman: ۱۰۸,۹۳۵ ت
 Total_Market_USD: $45.4M
 Total_Market_Toman: ۶.۲۷ همت
 Daily_Market_USD: $9.78M
 Daily_Market_Toman: ۱.۳۵ همت
-Daily_Positive_Negative: +1.06%
-Weekly_Positive_Negative: +7.53
+Daily_Positive_Negative: +1.27%
+Weekly_Positive_Negative: +7.18
 Logo: https://cdn.arz.digital/cr-odin/img/assets/cyberconnect/32x32.png
 ***
 ***
@@ -6841,14 +6841,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/bora/32x32.png
 Rank: 457
 Name: Collect on Fanable
 Slug: COLLECT
-Price_USD: $0.07937
-Price_Toman: ۱۰,۹۷۵ ت
+Price_USD: $0.07593
+Price_Toman: ۱۰,۵۱۷ ت
 Total_Market_USD: $42.6M
 Total_Market_Toman: ۵.۸۹ همت
 Daily_Market_USD: $434M
 Daily_Market_Toman: ۵۹.۹ همت
-Daily_Positive_Negative: +7.07%
-Weekly_Positive_Negative: +88.0%
+Daily_Positive_Negative: +1.51%
+Weekly_Positive_Negative: +83.6
 Logo: https://cdn.arz.digital/cr-odin/img/assets/collect-on-fanable/32x32.png
 ***
 ***
@@ -6886,14 +6886,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/orbs/32x32.png
 Rank: 460
 Name: Biconomy
 Slug: BICO
-Price_USD: $0.04607
-Price_Toman: ۶,۳۸۹.۱ ت
+Price_USD: $0.04581
+Price_Toman: ۶,۳۳۵.۶ ت
 Total_Market_USD: $45.8M
 Total_Market_Toman: ۶.۳۳ همت
 Daily_Market_USD: $4.76M
 Daily_Market_Toman: ۶۵۸ میلیارد ت
-Daily_Positive_Negative: +3.01%
-Weekly_Positive_Negative: +5.17
+Daily_Positive_Negative: +1.89%
+Weekly_Positive_Negative: +5.27%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/biconomy/32x32.png
 ***
 ***
@@ -6991,14 +6991,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/civic/32x32.png
 Rank: 467
 Name: Hivemapper
 Slug: HONEY
-Price_USD: $0.008148
-Price_Toman: ۱,۱۳۰.۰ ت
+Price_USD: $0.008163
+Price_Toman: ۱,۱۲۸.۸ ت
 Total_Market_USD: $42.9M
 Total_Market_Toman: ۵.۹۴ همت
 Daily_Market_USD: $612K
 Daily_Market_Toman: ۸۴.۶ میلیارد ت
-Daily_Positive_Negative: -1.59%
-Weekly_Positive_Negative: +3.56
+Daily_Positive_Negative: -0.71%
+Weekly_Positive_Negative: +3.50%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/hivemapper/32x32.png
 ***
 ***
@@ -7006,14 +7006,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/hivemapper/32x32.png
 Rank: 468
 Name: io.net
 Slug: IO
-Price_USD: $0.1764
-Price_Toman: ۲۴,۴۰۲ ت
+Price_USD: $0.1798
+Price_Toman: ۲۴,۹۱۳ ت
 Total_Market_USD: $47.0M
 Total_Market_Toman: ۶.۴۹ همت
 Daily_Market_USD: $20.2M
 Daily_Market_Toman: ۲.۷۹ همت
-Daily_Positive_Negative: +8.39%
-Weekly_Positive_Negative: +14.0%
+Daily_Positive_Negative: +5.66%
+Weekly_Positive_Negative: +16.7
 Logo: https://cdn.arz.digital/cr-odin/img/assets/io-net/32x32.png
 ***
 ***
@@ -7066,14 +7066,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/big-time/32x32.png
 Rank: 472
 Name: Usual
 Slug: USUAL
-Price_USD: $0.02746
-Price_Toman: ۳,۷۹۸.۰ ت
+Price_USD: $0.02824
+Price_Toman: ۳,۹۱۱.۶ ت
 Total_Market_USD: $43.6M
 Total_Market_Toman: ۶.۰۳ همت
 Daily_Market_USD: $7.04M
 Daily_Market_Toman: ۹۷۳ میلیارد ت
-Daily_Positive_Negative: +2.02%
-Weekly_Positive_Negative: +8.01%
+Daily_Positive_Negative: +4.30%
+Weekly_Positive_Negative: +11
 Logo: https://cdn.arz.digital/cr-odin/img/assets/usual/32x32.png
 ***
 ***
@@ -7096,14 +7096,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/everlyn/32x32.png
 Rank: 474
 Name: XPIN Network
 Slug: XPIN
-Price_USD: $0.002467
-Price_Toman: ۳۴۲.۲۵ ت
+Price_USD: $0.002480
+Price_Toman: ۳۴۳.۰۴ ت
 Total_Market_USD: $43.9M
 Total_Market_Toman: ۶.۰۷ همت
 Daily_Market_USD: $5.22M
 Daily_Market_Toman: ۷۲۱ میلیارد ت
-Daily_Positive_Negative: +1.06%
-Weekly_Positive_Negative: +0.54
+Daily_Positive_Negative: +1.81%
+Weekly_Positive_Negative: +0.25%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/xpin-network/32x32.png
 ***
 ***
@@ -7246,14 +7246,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/balancer/32x32.png
 Rank: 484
 Name: BOOK OF MEME
 Slug: BOME
-Price_USD: $0.0007398
-Price_Toman: ۱۰۲.۳۰ ت
+Price_USD: $0.0007942
+Price_Toman: ۱۱۰.۰۰ ت
 Total_Market_USD: $51.0M
 Total_Market_Toman: ۷.۰۵ همت
 Daily_Market_USD: $31.4M
 Daily_Market_Toman: ۴.۳۵ همت
-Daily_Positive_Negative: +13.8%
-Weekly_Positive_Negative: +25.0%
+Daily_Positive_Negative: +19.4%
+Weekly_Positive_Negative: +35
 Logo: https://cdn.arz.digital/cr-odin/img/assets/book-of-meme/32x32.png
 ***
 ***
@@ -7262,13 +7262,13 @@ Rank: 485
 Name: Aegis YUSD
 Slug: YUSD
 Price_USD: $0.9985
-Price_Toman: ۱۳۸,۰۷۸ ت
+Price_Toman: ۱۳۸,۳۰۵ ت
 Total_Market_USD: $40.6M
 Total_Market_Toman: ۵.۶۱ همت
 Daily_Market_USD: $1.87K
 Daily_Market_Toman: ۲۵۸ میلیون ت
-Daily_Positive_Negative: -0.03%
-Weekly_Positive_Negative: +0.55%
+Daily_Positive_Negative: -0.02%
+Weekly_Positive_Negative: +0.63
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aegis-yusd/32x32.png
 ***
 ***
@@ -7336,14 +7336,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/swftcoin/32x32.png
 Rank: 490
 Name: Humidifi
 Slug: WET
-Price_USD: $0.1816
-Price_Toman: ۲۵,۱۹۷ ت
+Price_USD: $0.1833
+Price_Toman: ۲۵,۳۹۱ ت
 Total_Market_USD: $41.4M
 Total_Market_Toman: ۵.۷۲ همت
 Daily_Market_USD: $20.9M
 Daily_Market_Toman: ۲.۸۹ همت
-Daily_Positive_Negative: +1.06%
-Weekly_Positive_Negative: -6.6
+Daily_Positive_Negative: +1.29%
+Weekly_Positive_Negative: -5.88
 Logo: https://cdn.arz.digital/cr-odin/img/assets/humidifi/32x32.png
 ***
 ***
@@ -7381,14 +7381,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/ergo/32x32.png
 Rank: 493
 Name: aixbt
 Slug: AIXBT
-Price_USD: $0.04187
-Price_Toman: ۵,۸۰۶.۶ ت
+Price_USD: $0.04149
+Price_Toman: ۵,۷۳۷.۷ ت
 Total_Market_USD: $41.5M
 Total_Market_Toman: ۵.۷۳ همت
 Daily_Market_USD: $25.3M
 Daily_Market_Toman: ۳.۵۰ همت
-Daily_Positive_Negative: +0.62%
-Weekly_Positive_Negative: +32.8
+Daily_Positive_Negative: -0.48%
+Weekly_Positive_Negative: +31.6%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/aixbt/32x32.png
 ***
 ***
@@ -7396,14 +7396,14 @@ Logo: https://cdn.arz.digital/cr-odin/img/assets/aixbt/32x32.png
 Rank: 494
 Name: Banana For Scale
 Slug: BANANAS31
-Price_USD: $0.004448
-Price_Toman: ۶۱۶.۹۴ ت
+Price_USD: $0.004417
+Price_Toman: ۶۱۰.۷۸ ت
 Total_Market_USD: $44.2M
 Total_Market_Toman: ۶.۱۱ همت
 Daily_Market_USD: $19.2M
 Daily_Market_Toman: ۲.۶۵ همت
-Daily_Positive_Negative: +12.2%
-Weekly_Positive_Negative: +23.6
+Daily_Positive_Negative: +6.56%
+Weekly_Positive_Negative: +23.1%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/banana-for-scale/32x32.png
 ***
 ***
@@ -7442,13 +7442,13 @@ Rank: 497
 Name: Yala
 Slug: YU
 Price_USD: $0.5217
-Price_Toman: ۷۲,۳۶۰ ت
+Price_Toman: ۷۲,۱۴۹ ت
 Total_Market_USD: $43.4M
 Total_Market_Toman: ۶.۰۰ همت
 Daily_Market_USD: $532.7
 Daily_Market_Toman: ۷۳.۶ میلیون ت
-Daily_Positive_Negative: +18.8%
-Weekly_Positive_Negative: -3.23
+Daily_Positive_Negative: +18.1%
+Weekly_Positive_Negative: -6.45%
 Logo: https://cdn.arz.digital/cr-odin/img/assets/yala-org/32x32.png
 ***
 ***
