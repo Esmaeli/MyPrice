@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 BASE_URL = "https://arzdigital.com/coins/"
 PAGES = 10
 OUTPUT_FILE = "arzdigital_data.txt"
-WAIT_AFTER_LOAD = 10  # seconds
+WAIT_AFTER_LOAD = 3  # seconds
 
 # ---------------- Selenium setup ----------------
 chrome_options = Options()
